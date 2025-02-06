@@ -1,0 +1,3263 @@
+The Project Gutenberg EBook of Antikristus, by Friedrich Nietzsche
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: Antikristus
+       Arvostelukoe kristinopista
+
+Author: Friedrich Nietzsche
+
+Translator: Aarni Kouta
+
+Release Date: September 1, 2016 [EBook #52953]
+
+Language: Finnish
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ANTIKRISTUS ***
+
+
+
+
+Produced by Tapio Riikonen
+
+
+
+
+
+
+ANTIKRISTUS
+
+Arvostelukoe kristinopista
+
+
+Kirj.
+
+Friedrich Nietzsche
+
+
+Suom. Aarni Kouta
+
+
+Saksankielinen alkuteos: Der Antichrist -- Fluch auf das Christentum
+
+
+
+
+
+Helsingiss‰,
+Vihtori Kosonen,
+1908.
+
+
+
+
+ALKULAUSE.
+
+
+T‰m‰ kirja kuuluu harvimmille. Tuskin yksik‰‰n sen lukijoista on viel‰
+syntynyt. Ne ovat niit‰, jotka ymm‰rt‰v‰t Zarathustrani: kuinka
+_saisin_ sekoittaa itse‰ni sellaisiin, jotka jo t‰n‰‰n saavat
+kuulijoita? Vasta ylihuomenna on minun aikani. Muutamat syntyv‰t is‰n
+kuoltua.
+
+Ne ehdot, joilla minua ymm‰rret‰‰n, ja ymm‰rret‰‰n silloin
+_v‰ltt‰m‰ttˆm‰sti_, vain liian hyvin ne tunnen. Tulee olla rehellinen
+henkisiss‰ asioissa aina kovuuteen saakka kest‰‰kseen vain edes
+totisuuttani, intohimoani. Tulee olla tottunut vuorilla el‰m‰‰n --
+n‰kem‰‰n viheli‰isen loruilun politiikasta ja kansojen itsekk‰isyydest‰
+_allaan_. T‰ytyy olla tullut v‰linpit‰m‰ttˆm‰ksi, ei saa milloinkaan
+kysy‰ hyˆdytt‰‰kˆ totuus, tuleeko se jollekin turmioksi... V‰kevyyden
+mielihalu kysymyksiin, joihin ei yhdell‰k‰‰n ole t‰n‰‰n rohkeutta;
+rohkeus _kiellettyyn_; ennakoltam‰‰r‰ys labyrinttiin. Seitsem‰n
+yksin‰isyyden tunteminen. Uudet korvat uutta soittoa kuulemaan. Uudet
+silm‰t et‰isint‰ n‰kem‰‰n. Uusi omatunto t‰h‰n saakka vaienneille
+totuuksille. Ja tahto ekonomiaan suurissa piirtein: s‰ilytt‰‰ voimansa,
+_ihastuksensa_ koossa... Kunnioituksen itse‰‰n kohtaan; rakkauden
+itseens‰; ehdottoman vapauden itse‰‰n kohtaan...
+
+Hyv‰! N‰m‰ yksin ovat minun lukijoitani, oikeita lukijoitani,
+ennaltam‰‰r‰ttyj‰ lukijoitani: mit‰ _j‰‰nnˆksest‰?_ -- J‰‰nnˆs on vain
+ihmiskunta -- Tulee nousta ihmiskuntaa ylemm‰ksi voiman
+sielunkorkeuden, -- ylenkatseen kautta.
+
+_Friedrich Nietzsche_.
+
+
+
+
+1.
+
+
+-- Katsokaamme toisiamme kasvoihin. Me olemme pohjanper‰l‰isi‰, -- me
+tied‰mme kyllin hyvin, kuinka erill‰mme me el‰mme. "Et maata, et vett‰
+myˆten ole lˆyt‰v‰ tiet‰ pohjanper‰l‰isten luo": sen tiesi jo Pindarus
+meist‰. Tuollapuolen Pohjolaa, j‰‰t‰, kuolemaa _meid‰n_ el‰m‰mme,
+_meid‰n_ onnemme... Me olemme lˆyt‰neet onnen, tied‰mme tien, me
+lˆysimme k‰yt‰v‰n labyrintin vuosituhansista. Ken lˆysi sen _muutoin?_
+-- Ehk‰ moderni ihminen? -- "En tied‰ tiet‰ ulos enk‰ sis‰lle; olen
+kaikkea, mik‰ ei tied‰ tiet‰ ulos eik‰ sis‰lle" -- huokaa moderni
+ihminen... _T‰st‰_ modernisuudesta me tulimme sairaiksi, -- lahosta
+rauhasta, pelkurimaisesta kompromissista, modernin myˆnt‰misen ja
+kielt‰misen koko siveellisest‰ saastasta. T‰m‰ syd‰men suvaitsevaisuus
+ja _laajuus_, joka "antaa anteeksi" kaiken, koska se "ymm‰rt‰‰" kaiken,
+on meille sciroccoa. Mieluummin el‰‰ j‰‰ss‰ kuin modernien hyveiden ja
+muiden etel‰tuulten joukossa!... Me kyll‰ olimme urhoollisia, me emme
+s‰‰st‰neet itse‰mme emmek‰ toisia: mutta me emme tienneet pitk‰‰n
+aikaan, mihin k‰ytt‰‰ urhoollisuuttamme. Me k‰vimme synkiksi, meit‰
+kutsuttiin fatalisteiksi. Meid‰n _kohtalomme_ -- oli runsaus, j‰nnitys,
+voimien patoutuminen. Me janosimme salamaa ja tekoja, me pysyttelimme
+kauimpana raihnaiden onnesta, "taipumisesta"... Ukkosta oli ilmassamme,
+luonto, jonka me muodostamme, pimeni -- _sill‰ meill‰ ei ollut yht‰‰n
+tiet‰_. Onnemme kaava: on, ei, suora viiva, p‰‰maali...
+
+
+
+
+2.
+
+
+Mik‰ on hyv‰‰? -- Kaikki, mik‰ kohottaa vallantuntoa, tahtoa valtaan,
+valtaa itse‰‰n ihmisess‰.
+
+Mik‰ on huonoa? -- Kaikki, mik‰ syntyy heikkoudesta.
+
+Mik‰ on onni? -- Tunto siit‰, ett‰ valta _kasvaa_, -- ett‰ vastarinta
+tulee voitetuksi.
+
+Ei tyytyv‰isyytt‰, vaan enemm‰n valtaa; ei rauhaa yleens‰, vaan sotaa;
+ei hyvett‰, vaan kuntoa (hyve renessansityylill‰, _virtu_, moraalin
+myrkyst‰ vapaa hyve).
+
+Heikkojen ja ep‰onnistuneiden tulee k‰yd‰ perikatoon: _meid‰n_
+ihmisrakkautemme ensimm‰inen k‰sky. Ja heit‰ on siihen viel‰
+autettavakin.
+
+Mik‰ on vahingollisempaa kuin jokainen pahe? Teon s‰‰li ep‰onnistuneita
+ja heikkoja kohtaan -- kristinoppi...
+
+
+
+
+3.
+
+
+Kysymys siit‰, mik‰ ihmisen vapauttaisi olennoiden j‰rjestysjaksosta,
+ei ole se problemi, jonka t‰ss‰ esit‰n (-- ihminen on lopputulos --):
+vaan mit‰ ihmistyyppi‰ tulee _kasvattaa_, tulee _tahtoa_
+korkeampiarvoisena, el‰m‰n-ansaitsevampana, tulevaisuudesta
+tietoisampana tyyppin‰.
+
+T‰m‰ korkeampiarvoinen tyyppi on jo usein kyll‰ ollut olemassa: mutta
+onnensattumana, poikkeuksena, ei milloinkaan _tarkoitettuna_. Pikemmin
+on h‰nt‰ juuri enin pelj‰tty, h‰n on t‰h‰n saakka ollut miltei
+_kammotus_; -- ja t‰m‰n kammon pohjalla toivottiin, kasvatettiin,
+_saavutettiin_ p‰invastainen tyyppi: kotiel‰in, laumael‰in, sairas
+el‰in ihminen, -- kristitty...
+
+
+
+
+4.
+
+
+Ihmiskunta ei osoita kehityst‰ parempaan tai voimakkaampaan tai
+korkeampaan siten kuin t‰n‰‰n uskotaan. "Edistyminen" on vain moderni
+idea, s.o. v‰‰r‰ idea. Nykyajan europalainen on arvoltaan paljon alempi
+renessansin europalaista; edelleenkehittyminen ei valitettavasti kyll‰
+ole v‰ltt‰m‰ttˆm‰sti lainkaan kohoamista, ylenemist‰, vahvistumista.
+
+Toisessa merkityksess‰ sattuu kauimpana toisistaan olevissa paikoissa
+maanpinnalla ja mit‰ erilaisimmissa kultuurioloissa onnellisia
+yksityistapauksia, jotka todellakin synnytt‰v‰t _korkeamman tyypin_:
+tyypin, joka suhteessaan ihmiskuntaan kokonaisuudessaan on jonkunlainen
+yli-ihminen. Sellaiset suuren, suotuisan kehityksen onnensattumat ovat
+alati olleet mahdollisia ja tulevat ehk‰ alati olemaankin. Ja
+suotuisien olosuhteiden vallitessa voivat kokonaiset suvut, heimot,
+kansatkin esitt‰‰ sellaisia _sattumia_.
+
+
+
+
+5.
+
+
+Ei tule koristella ja kaunistella kristinoppia: se on k‰ynyt _sotaa
+henkeen ja veriin_ t‰t‰ _korkeampaa_ ihmistyyppi‰ vastaan, se on
+kironnut t‰m‰n tyypin kaikki perusvaistot, se on n‰ist‰ vaistoista
+siivilˆinyt esiin pahan olemuksen, _pahan_ olennon: voimakkaan ihmisen
+tyypillisesti hylj‰tt‰v‰n‰, "hylkiˆn‰". Kristinoppi on asettunut kaiken
+heikon, matalan, ep‰onnistuneen puolelle, se on tehnyt vihamielisyyden
+voimakkaan el‰m‰n itses‰ilytysvaistoa vastaan ihanteeksi; se on
+turmellut myˆs henkisesti voimakkaimpien luonteiden j‰rjen opettamalla,
+ett‰ henkisyyden korkeimmat arvot ovat k‰sitett‰v‰t syntisiksi,
+harhauttaviksi, _kiusauksiksi_. Surkuteltavin esimerkki t‰st‰ on
+Pascalin turmeltuminen, h‰nen, joka uskoi perisynnin turmelleen h‰nen
+j‰rkens‰, vaikka h‰nen j‰rkens‰ olikin h‰nen kristinuskonsa
+turmelema! --
+
+
+
+
+6.
+
+
+Kiusallinen, hirvitt‰v‰ n‰ytelm‰ on minulle avautunut: ihmisen
+_turmeltuneen tilan_ edest‰ olen vet‰nyt esiripun. T‰m‰ sanani on
+turvattu silt‰ ep‰luulolta, ett‰ siin‰ voisi piill‰ siveellinen syytˆs
+ihmist‰ vastaan. Sanani on -- tahtoisin viel‰ kerran alleviivata sen --
+_moraalin myrkyst‰ vapaa_: ja siihen m‰‰rin, ett‰ voimakkaimmin tunnen
+t‰m‰n turmeltuneen tilan juuri siin‰, miss‰ t‰h‰n saakka
+itsetietoisimmin on tavoitettu "hyvett‰", "jumalallisuutta". Min‰
+tarkoitan, sen huomaa heti, turmeluksella _dekadensia_: v‰it‰n, ett‰
+kaikki arvot, joissa ihmiskunta nyt lausuu korkeimmat toiveensa, ovat
+dekadensiarvoja.
+
+Kutsun silloin sit‰ el‰int‰, sukua, yksilˆ‰ turmeltuneeksi, kun se
+kadottaa vaistonsa, kun se valitsee, kun se _pit‰‰ parempana_ sit‰,
+mik‰ sit‰ vahingoittaa. "Korkeampien tunteiden", "inhimillisten
+ihanteiden" historia -- ja mahdollista on, ett‰ minun t‰ytyy kertoa se
+-- selitt‰isikin melkein sen, _miksi_ ihminen on niin turmeltunut.
+Pid‰n el‰m‰‰ kasvavuuden, itses‰ilytyksen, voimankokoamisen, vallan
+vaistona: miss‰ tahtoa valtaan puuttuu, siell‰ alkaa alentuminen.
+V‰it‰n, ett‰ ihmiskunnan kaikilta korkeimmilta arvoilta _puuttuu_ t‰t‰
+tahtoa, -- ett‰ alentumisarvot, _nihilistiset_ arvot hallitsevat
+pyhimpien nimien varjossa.
+
+
+
+
+7.
+
+
+Kristinoppia kutsutaan _s‰‰lin_ uskonnoksi. -- S‰‰li on toonillisten
+affektien vastakohta, jotka kohottavat el‰m‰ntunnon energiaa: se
+vaikuttaa depressiivisesti. S‰‰liess‰ kadotetaan voimaa. S‰‰li
+suurentaa ja tekee moninkertaiseksi ne voimanmenetykset, joita jo
+k‰rsimys tuottaa el‰m‰lle. S‰‰li tekee itse k‰rsimyksen tarttuvaksi;
+muutamissa olosuhteissa voidaan sill‰ saavuttaa el‰m‰n ja
+el‰m‰nenergian yleinen menetys, joka on absurdissa suhteessa syyns‰
+m‰‰r‰‰n (-- kuten natsarealaisen kuolema). T‰m‰ on ensim‰inen
+n‰kˆkanta; mutta on olemassa viel‰ t‰rke‰mpi‰. Jos s‰‰li mitataan
+niiden reaktsioonien arvon mukaan, joita sill‰ on tapana synnytt‰‰,
+n‰ytt‰ytyy sen el‰m‰lle vaarallinen luonne viel‰kin selvemm‰ss‰
+valossa. S‰‰li ehk‰isee suuressa kokonaisuudessa kehityksen lakia, joka
+on _valinnan_ laki. Se s‰ilytt‰‰ sit‰, mik‰ on perikatoon kyps‰‰, se
+esiintyy el‰m‰n rappeutuneiden ja tuomittujen hyv‰ksi, se antaa kaiken
+ep‰onnistuneen runsaudella, jota se s‰ilytt‰‰ el‰m‰ss‰, el‰m‰lle
+itselleen synk‰n ja problemaattisen leiman. S‰‰li‰ on uskallettu kutsua
+hyveeksi (-- jokaisessa _ylh‰isess‰_ moraalissa sit‰ pidet‰‰n
+heikkoutena --); on menty pitemm‰lle, siit‰ on tehty hyve, kaikkien
+hyveiden pohja ja synty, -- kuitenkin, se tulee alati muistaa, vain
+yhden filosofian n‰kˆkannalta, joka oli nihilistinen, joka kirjoitti
+kilpeens‰ _el‰m‰n kielt‰misen_. Schopenhauer oli t‰ydellisesti
+oikeutettu siihen: s‰‰lill‰ kiellet‰‰n el‰m‰, tehd‰‰n _kielt‰misen
+arvoisemmaksi_, -- s‰‰li on sovellutettua nihilismi‰. Viel‰ kerran
+sanottuna: t‰m‰ depressiivinen ja tarttuva vaisto ehk‰isee niit‰
+vaistoja, jotka tarkoittavat el‰m‰n s‰ilytt‰mist‰ ja arvossa
+ylentymist‰: se on sek‰ kurjuuden _monistajana_ ett‰ kaikkien kurjien
+_s‰ilytt‰j‰n‰_ dekadensin kiiruhtamisen parhaita keinoja, -- s‰‰li
+houkuttelee tyhj‰‰n "_ei-mit‰‰n_"!... Ei sanota "_ei-mit‰‰n_": sanotaan
+sen sijaan "tuollapuolen"; tai "jumala"; tai "tosi el‰m‰"; tai Nirvana,
+lunastus, autuus... T‰m‰ uskonnollis-moraalisen luontoper‰isen
+taipumuksen synnytt‰m‰ viaton kaunopuheisuus osoittautuu heti _paljon
+v‰hemm‰n viattomaksi_, jos ymm‰rt‰‰, _mik‰_ tarkoitusper‰ t‰ss‰ on
+kietoutunut ylevien sanojen vaippaan: _el‰m‰lle vihollismielinen_
+tarkoitusper‰. Schopenhauer oli vihollismielinen el‰m‰lle: _senvuoksi_
+k‰vi s‰‰li h‰nelle hyveeksi... Aristoteles piti, kuten tiedet‰‰n,
+s‰‰li‰ sairaloisena ja vaarallisena tilana, jota oli toisinaan hyv‰
+her‰tt‰‰ purgatiivia k‰ytt‰m‰ll‰: h‰n k‰sitti tragedian purgatiivina.
+El‰m‰nvaisto vaatii todellakin, ett‰ etsit‰‰n keino, jolla kerrankin
+saadaan puhkaistuksi se s‰‰lin sairaloinen ja vaarallinen patoutuminen,
+josta Schopenhauer (ja valitettavasti kyll‰ kirjallinen ja taiteellinen
+dekadensimmekin, Pietarista Parisiin, Tolstoista Wagneriin) on
+todistuksena. Meid‰n ep‰terveellisess‰ modernisuudessamme ei mik‰‰n ole
+ep‰terveellisemp‰‰ kuin kristillinen s‰‰li. _T‰ss‰_ olla l‰‰k‰rin‰,
+_t‰ss‰_ olla heltym‰tˆn, _t‰ss‰_ k‰ytt‰‰ veist‰ -- se on _meid‰n_
+teht‰v‰mme, meid‰n ihmisrakkautemme on sit‰ laatua, me olemme siten
+filosoofeja, me pohjanper‰l‰iset! --
+
+
+
+
+8.
+
+
+On v‰ltt‰m‰tˆnt‰ selitt‰‰, _mink‰_ me tunnemme vastakohdaksemme: --
+teoloogit ja kaiken, jolla on teoloogiverta ruumiissaan -- koko
+filosofiamme... On t‰ytynyt n‰hd‰ vaara l‰helt‰, viel‰ paremmin, on
+t‰ytynyt el‰‰ se itsess‰‰n, on t‰ytynyt sen aiheuttamana olla l‰hell‰
+perikatoa, jotta ei en‰‰ tajuaisi mit‰‰n leikki‰, kun t‰st‰ on kysymys
+(-- herrojen luonnontutkijoiden ja fysioloogien vapaa-ajattelu on
+minusta pilaa, heilt‰ puuttuu intohimo n‰iss‰ asioissa, siit‰
+k‰rsiminen --). T‰m‰ verenmyrkytys ulottuu paljon pitemm‰lle kuin
+uskotaan: olen lˆyt‰nyt "pˆyhkeyden" teoloogivaistoa kaikkialla, miss‰
+nyky‰‰n pidet‰‰n itse‰‰n idealistina, -- miss‰ korkeamman alkuper‰n
+nojalla vaaditaan oikeutta katsella ylimielisesti ja vieraasti
+todellisuutta... Idealistilla on, aivan kuin papilla, kaikki suuret
+k‰sitteet k‰sill‰ (-- eik‰ ainoastaan k‰sill‰!), hyv‰ntahtoisesti
+halveksien h‰n viskaa ne "ymm‰rryst‰", "aisteja", "kunniaa",
+"hyvinvointia", "tiedett‰" vastaan, h‰n n‰kee kaiken tuollaisen
+_allaan_, vahingollisina ja viettelevin‰ voimina, joiden yll‰ "henki"
+leijailee itsest‰‰n-puhtaana: -- ik‰‰nkuin eiv‰t nˆyryys, siveys,
+kˆyhyys, sanalla sanoen _pyhyys_, olisi vahingoittaneet el‰m‰‰ t‰h‰n
+saakka ‰‰rettˆm‰n paljon enemm‰n kuin mitk‰‰n kauheudet ja paheet...
+Puhdas henki on puhdas valhe... Niin kauan kuin pappia, tuota
+ammatillista el‰m‰nkielt‰j‰‰, el‰m‰nsoimaajaa, el‰m‰nmyrkytt‰j‰‰,
+pidet‰‰n korkeampilajisena ihmisen‰, ei ole yht‰‰n vastausta
+kysymykseen: mik‰ on totuus? Totuus on asetettu jo p‰‰laelleen, kun
+tyhjyyden ja kielt‰misen itsetietoinen puoltaja on tunnustettu
+"totuuden" edustajaksi...
+
+
+
+
+9.
+
+
+T‰t‰ teoloogivaistoa vastaan min‰ k‰yn sotaa: olen lˆyt‰nyt sen j‰ljet
+kaikkialla. Kenell‰ on teoloogiverta suonissaan, h‰n asettuu alusta
+alkaen kieroon ja ep‰rehelliseen asemaan kaikkiin olioihin n‰hden.
+Paatosta, joka t‰st‰ kehittyy, kutsutaan _uskoksi_: suljetaan silm‰t
+kerta kaikkiaan n‰kem‰st‰ omaa itse‰‰n, jotta ei k‰rsitt‰isi
+parantumattoman valheellisuuden n‰ˆst‰. T‰st‰ kaikkiin olioihin n‰hden
+virheellisest‰ optiikasta tehd‰‰n itselleen moraali, hyve, pyhyys, hyv‰
+omatunto ja v‰‰rinn‰keminen liitet‰‰n yhteen, -- vaaditaan, ettei
+muunlainen optiikka saa en‰‰ olla mink‰‰n arvoinen, sittenkuin oma on
+tehty korkeasti pyh‰ksi nimill‰ "jumala", "lunastus", "iankaikkisuus".
+Olen kaivanut teoloogivaiston esiin kaikkialta: se on enin levinnyt,
+alkuper‰isimm‰n _maanalainen_ valheellisuuden muoto mit‰ maanp‰‰ll‰ on.
+Mit‰ teoloogi pit‰‰ totena, sen _t‰ytyy_ olla v‰‰r‰‰: siin‰ on miltei
+totuuden kriteriumi. H‰nen alin itses‰ilytysvaistonsa kielt‰‰, ettei
+todellisuus yhdess‰ ainoassakaan kohdassa p‰‰se arvoonsa, ei edes tule
+kysymykseenk‰‰n. Niin pitk‰lle kuin teoloogivaikutusta riitt‰‰, on
+_arvojen arvioiminen_ asetettu p‰‰laelleen, ovat k‰sitteet "tosi" ja
+"v‰‰r‰" sekoitetut: mik‰ el‰m‰lle on vahingollisinta, sit‰ kutsutaan
+t‰‰ll‰ "todeksi", mik‰ nostaa, kohottaa, myˆnt‰‰, vanhurskauttaa el‰m‰n
+ja tekee sen voitolliseksi, sit‰ kutsutaan "v‰‰r‰ksi"... Jos sattuu,
+ett‰ teoloogit ruhtinaiden (tai kansojen --) ‰‰nettˆm‰ll‰
+suostumuksella tavoittavat valtaa, niin ‰lk‰‰mme ep‰ilkˆ, mit‰ joka
+kerta pohjalla tapahtuu: tahto loppuun, nihilistinen tahto tahtoo
+valtaan...
+
+
+
+
+10.
+
+
+Saksalaiset ymm‰rt‰v‰t minut heti, jos sanon, ett‰ teoloogiveri on
+turmellut filosofian. Protestanttinen pappi on saksalaisen
+filosofian isois‰, protestantisuus itse sen _peccatum originale_.
+Protestantisuuden m‰‰ritelm‰: kristinopin -- ja j‰rjen -- toispuolinen
+halvaantuminen... Ei tarvitse lausua muuta kuin sana "T¸binger-Stift"
+k‰sitt‰‰kseen, mit‰ saksalainen filosofia oikeastaan on -- salakavalaa
+teologiaa... Svaabit ovat Saksan parhaat valhettelijat, he
+valhettelevat viattomasti... Mist‰ se riemu, joka Kantin esiintyess‰
+valtasi Saksan oppineen maailman, jonka j‰senist‰ kolme nelj‰sosaa on
+papin- ja opettajanpoikia, -- mist‰ tuo saksalainen vakaumus, joka
+her‰tt‰‰ vastakaikua viel‰ t‰n‰‰n, ett‰ Kantin kautta olisi tapahtunut
+k‰‰nnˆs _parempaan_? Saksalaisen oppineen teoloogivaisto vainusi, mik‰
+nyt j‰lleen oli mahdollista... salatie vanhaan ihanteeseen oli auki,
+k‰site "_tosi maailma_", moraalik‰site maailman esanssina (-- n‰m‰
+kaksi eniten onnettomuutta tuottavaa erhetyst‰ mit‰ on olemassa!)
+olivat uudelleen, kiitos olkoon kavalan-viisaan ep‰ilyn, ainakin
+_kumoamattomia_, vaikkakaan niit‰ ei voinut todistaa... J‰rki, j‰rjen
+_oikeus_ ei ulotu niin et‰‰lle... Todellisuus oli tehty
+"n‰enn‰isyydeksi"; kokonaan valheteltu maailma, olemisen maailma, oli
+tehty todellisuudeksi... Kantin menestys on vain teoloogimenestyst‰:
+Kant oli, kuten Luther, kuten Leibniz, saksalaisen itsess‰‰n
+tahdittoman rehellisyyden lis‰hillike --
+
+
+
+
+11.
+
+
+Viel‰ sana Kantia vastaan _moralistina_. Hyveen tulee olla _meid‰n_
+keksintˆ‰mme, _meid‰n_ personallinen puolustuksemme ja tarpeemme:
+kaikissa muissa tapauksissa se on vaara. Mik‰ ei ole el‰m‰mme
+ehtona, se _vahingoittaa_ sit‰: hyve, joka perustuu ainoastaan
+kunnioituksentunteeseen "hyve" k‰sitett‰ kohtaan, kuten Kant tahtoi, on
+vahingollinen. "Hyve", "velvollisuus", "hyv‰ itsess‰‰n", hyv‰, jolla
+on personattomuuden ja yleisp‰tevyyden leima -- houre, jossa
+rappeutuminen, el‰m‰n viimeinen voimain loppuminen, kˆnigsbergil‰inen
+kiinalaisuus saa ilmaisumuotonsa. S‰ilymisen ja kasvamisen sisimm‰t
+lait vaativat p‰invastoin, ett‰ kukin keksii itselleen _oman_ hyveens‰,
+_oman_ kategoorisen imperatiivinsa. Kansa k‰y perikatoon, jos se
+sekoittaa _oman_ velvollisuutensa velvollisuusk‰sitteeseen yleens‰.
+Mik‰‰n ei h‰vit‰ perinpohjaisemmin, syvemmin kuin personaton
+"velvollisuus", uhri abstraktsioonin Molokille. -- Oi, ett‰ Kantin
+kategoorista imperatiivia ei ole huomattu _el‰m‰lle vaaralliseksi_!...
+Teoloogivaisto yksin otti sen turviinsa! Teon, johon el‰m‰nvaisto
+pakottaa, todistaa mielihalu _oikeaksi_ teoksi: ja t‰m‰ nihilisti,
+jolla oli kristillis-dogmaattiset sis‰lmykset, piti mielihalua
+_vastav‰itteen‰_... Mik‰ turmelee pikaisemmin kuin tyˆnteko,
+ajatteleminen, tunteminen ilman sis‰llist‰ tarvetta, ilman syv‰sti
+personallista valintaa, ilman _mielihalua_? "velvollisuuden"
+automaattina? Se on aivan yksinkertaisesti dekadensin _resepti_,
+viel‰p‰ idioottisuuden... Kant tuli idiootiksi. -- Ja h‰n oli _Goethen_
+aikalainen! T‰t‰ h‰m‰h‰kkiluonnetta pidettiin _saksalaisena_
+filosoofina, -- pidet‰‰n yh‰ viel‰!... En tahdo sanoa, mit‰
+saksalaisista ajattelen... Eikˆ Kant pit‰nyt Ranskan vallankumousta
+siirtymisen‰ ep‰-organisesta valtiomuodosta _organiseen_? Eikˆ h‰n ole
+miettinyt, lˆytyykˆ tapausta, jota ei voi selitt‰‰ muutoin, kuin ett‰
+ihmiskunnalla on joku moraalinen taipumus, niin ett‰ sill‰ "ihmiskunnan
+tendensi hyv‰‰n" on kerta kaikkiaan _todistettu_? Kantin vastaus: se on
+"vallankumous". Kaikessa harhaanosuva vaisto, luonnonvastainen
+vaistoaa, saksalainen dekadensi filosofiana -- _siin‰ Kant_! --
+
+
+
+
+12.
+
+
+Erotan pari skeptikkoa, s‰‰dyllisen tyypin filosofian historiassa:
+mutta j‰‰nnˆs ei tunne intellektuaalin rehellisyyden ensim‰isi‰
+vaatimuksia. He kaikki tyyni tekev‰t kuin naiset, kaikki n‰m‰ suuret
+haaveksijat ja ihme-el‰imet, -- he pit‰v‰t "kauniita tunteita" jo
+todistuskappaleena, "pullistunutta rintaa" jumaluuden palkeina,
+vakuutusta totuuden _kriteriumina_. Lopuksi viel‰ on Kant,
+"saksalaisessa viattomuudessa", koettanut "k‰yt‰nnˆllisen j‰rjen"
+k‰sitteess‰ tehd‰ tieteelliseksi t‰m‰n korruptsioonin muodon, t‰m‰n
+intellektuaalin omantunnon puutteen: h‰n keksi erityisen j‰rjen siihen
+kohtaan, jolloin ei tarvitse huolehtia j‰rjest‰, nimitt‰in silloin kuin
+moraali, silloin kuin ylh‰inen vaatimus "sinun t‰ytyy" korottaa
+‰‰nens‰. Jos ajatellaan, ett‰ melkein kaikkien kansojen filosoofit ovat
+papillisen tyypin edelleenkehityst‰, silloin ei en‰‰ h‰mm‰styt‰ t‰m‰
+pappien perintˆ, t‰m‰ _v‰‰ristely itse‰‰n_ kohtaan. Kun on pyhi‰
+teht‰vi‰ hallussaan, esim. tehd‰ ihmiset paremmiksi, pelastaa, lunastaa
+heid‰t, kun kantaa povessaan jumaluutta, on tuonpuolisen imperatiivin
+puhetorvi, silloin on jo ulkopuolella kaikkia arvioimisia, jotka vain
+ovat j‰rjellisi‰, -- _itse_ jo sellaisen teht‰v‰n pyhitt‰m‰n‰, itse jo
+korkeamman j‰rjestyksen tyyppin‰!... Mit‰ kuuluu _tiede_ pappiin? H‰n
+on liian korkealla siihen n‰hden! -- Ja pappi on hallinnut t‰h‰n
+saakka! -- H‰n m‰‰r‰si k‰sitteen "tosi" ja "valhe"!...
+
+
+
+
+13.
+
+
+ƒlk‰‰mme v‰heksikˆ sit‰: me _itse_, me vapaat henget, olemme jo
+"kaikkien arvojen uudestaan arvioimista", ilmiel‰v‰ sodan- ja
+voitonjulistus kaikkia vanhoja "tosi" ja "valhe" k‰sitteit‰ vastaan.
+Arvokkaimmat tiedot lˆydet‰‰n viimeiseksi; mutta arvokkaimmat tiedot
+ovat _metoodit_. Nykyaikaisen tieteellisyytemme _kaikki_ metoodit,
+_kaikki_ edellytykset ovat vuosituhansien kuluessa olleet syvimm‰n
+ylenkatseen esineen‰: niiden takia oli suljettu pois kaikkien
+"kunniallisten" ihmisten seurasta -- pidettiin "jumalan vihollisena",
+totuuden halveksijana, "riivattuna". Tieteelliselt‰ luonteelta oli
+Tshandalaa... Ihmiskunnan koko paatos on ollut vastassamme -- sen
+k‰site siit‰, mit‰ totuuden _tulee_ olla, mit‰ totuuden palveluksen
+_tulee_ olla: jokainen "sinun t‰ytyy" on t‰h‰n saakka ollut meit‰
+vastaan kohdistettu... Meid‰n objektimme, meid‰n menettelytapamme,
+meid‰n hiljainen, varovainen, ep‰ilev‰inen tapamme -- kaikki on
+tuntunut ihmiskunnasta t‰ydellisesti arvottomalta ja halveksittavalta.
+-- Viimein saattoi t‰ydell‰ syyll‰ kysy‰ itselt‰‰n, eikˆ se ole
+oikeastaan ollut esteettinen maku, joka on pit‰nyt ihmiskuntaa niin
+pitk‰aikaisessa sokeudessa: se vaati totuudelta _pittoreskia_
+vaikutusta, samoin vaati se tiet‰v‰iselt‰, ett‰ h‰n vaikuttaisi
+voimakkaasti aisteihin. Meid‰n _h‰veli‰isyytemme_ on ollut sille
+kaikkein vastenmielisint‰... Oi, kuinka hyvin he k‰sittiv‰t sen, n‰m‰
+jumalan kalkkunakukot --
+
+
+
+
+14.
+
+
+Me olemme muuttuneet. Me olemme kaikessa k‰yneet h‰veli‰‰mmiksi. Me
+emme johda en‰‰ ihmisen alkuper‰‰ "hengest‰", "jumaluudesta", me olemme
+asettaneet h‰net takaisin el‰inten joukkoon. H‰n on meist‰ voimakkain
+el‰in, koska h‰n on viekkain: seurauksena siit‰ on h‰nen henkisyytens‰.
+Toiselta puolen me suojelemme itse‰mme er‰‰st‰ turhamaisuudesta, joka
+t‰ss‰kin voisi tahtoa her‰t‰ j‰lleen eloon: siit‰ turhamaisuudesta,
+ett‰ ihminen olisi ollut el‰inmaailman kehityksen suuri salatarkoitus.
+H‰n ei ole suinkaan mik‰‰n luomisen kruunu, jokainen olento on h‰nen
+rinnallaan samallaisella t‰ydellisyyden asteella... Ja v‰itt‰ess‰mme
+t‰t‰, me v‰it‰mme viel‰ liikaa: ihminen on, suhteellisesti
+katsottuna, ep‰onnistunein el‰in, sairaloisin, vaistoistaan
+vaarallisimmin _eksynyt_ -- tosin, lukuunottaen kaiken t‰m‰n, myˆskin
+_mielt‰kiinnitt‰vin_! -- Mit‰ el‰imiin tulee, on Descartes ensim‰isen‰
+kunnioitettavalla rohkeudella uskaltanut ajatella, ett‰ el‰in on
+ymm‰rrett‰viss‰ koneena: koko fysiologiamme panee parhaansa t‰m‰n
+v‰itteen todistamiseksi. Loogillisesti menetellen me emme aseta
+ihmist‰k‰‰n ulkopuolelle, kuten Descartes viel‰ teki: mit‰ t‰n‰‰n on
+yleens‰ ihmisest‰ ymm‰rretty, ulottuu tasan niin et‰‰lle kuin h‰nt‰ on
+ymm‰rretty mekaanisena ilmiˆn‰. Muinoin annettiin ihmiselle, korkeamman
+j‰rjestyksen h‰nelle suomana myˆt‰j‰islahjana, "vapaa tahto": t‰n‰‰n
+olemme riist‰neet h‰nelt‰ tahdonkin siin‰ mieless‰, ettei siin‰ ole
+en‰‰ mit‰‰n valtaa ymm‰rrett‰viss‰. Vanha sana "tahto" on vain
+kelvollinen ilmaisemaan resultantia, jonkunlaista yksilˆllist‰
+reaktsioonia, joka v‰ltt‰m‰ttˆm‰sti seuraa osittain ristiriitaisten,
+osittain yhteensointuvien kiihoitusten paljoutta: -- tahto ei "toimi"
+en‰‰, ei "pane liikkeeseen" en‰‰... Muinoin n‰htiin ihmisen
+tietoisuudessa, "hengess‰", todistus h‰nen korkeammasta alkuper‰st‰‰n,
+h‰nen jumalallisuudestaan; jotta ihminen _t‰ydellistyisi_, neuvottiin
+h‰nt‰ kilpikonnan lailla k‰tkem‰‰n aistinsa sis‰‰ns‰, katkaisemaan
+siteet maalliseen, heitt‰m‰‰n ylt‰‰n kuolevainen verho: silloin j‰isi
+p‰‰asia h‰nest‰ j‰ljelle, "puhdas henki". Me olemme t‰ss‰kin suhteessa
+johtuneet parempiin ajatuksiin: tietoisuuden kyky -- "henki" on meille
+juuri organismin suhteellisen ep‰t‰ydellisyyden oire, vain koe,
+hapuileminen ja hairahtuminen, voimainponnistus, jossa kulutetaan
+turhaan suurta hermovoimaa, -- me kiell‰mme, ett‰ mit‰‰n voidaan tehd‰
+t‰ydelliseksi, niin kauan kuin se tehd‰‰n tietoisesti. "Puhdas henki"
+on puhdas tuhmuus: ellemme ota lukuun hermorakennetta ja aisteja, _niin
+me erhetymme laskussamme_ -- siin‰ kaikki!...
+
+
+
+
+15.
+
+
+Kristillisell‰ moraalilla ja kristinuskolla ei ole yht‰‰n
+kosketuskohtaa todellisuuden kanssa. Yksinomaan kuvitteellisia _syit‰_
+("jumala", "sielu", "min‰", "henki", "vapaa tahto" -- tai myˆs
+"ep‰vapaa"); yksinomaan kuvitteellisia _vaikutuksia_ ("synti",
+"lunastus", "armo", "rangaistus", "syntien anteeksiantamus").
+Kanssak‰yminen kuvitteellisien _olentojen_ kanssa ("jumala", "henget",
+"sielut"); kuvitteellinen _luonnontiede_ (antroposentrinen;
+luonnollisten syiden k‰sitt‰misen t‰ydellinen vajavaisuus);
+kuvitteellinen psykologia (pelkk‰‰ itsens‰-v‰‰rinymm‰rt‰mist‰,
+mieluisien tai ep‰mieluisien yleistunteiden tulkintaa, esim. _nervus
+sympathicuksen_ tilan, uskonnollismoraalisen luontoper‰isen taipumuksen
+merkkikielen avulla -- "katumus", "omantunnonvaiva", "perkeleen
+kiusaaminen", "jumalan l‰heisyys"); kuvitteellinen teleologia ("jumalan
+valtakunta", "viimeinen tuomio", "iankaikkinen el‰m‰"). -- T‰m‰ puhdas
+_valhemaailma_ eroaa hyvin ep‰edullisesti unelmamaailmasta siin‰, ett‰
+j‰lkim‰inen _kuvastelee_ todellisuutta, jota vastoin edellinen
+v‰‰ristelee, alentaa sen arvon ja kielt‰‰ sen. Kun kerran "luonto"
+k‰site oli havaittu vastakkaiseksi "jumala" k‰sitteelle, t‰ytyi sanan
+"luonnollinen" merkit‰ "hylj‰tt‰v‰‰", -- koko t‰m‰n valhemaailman
+maaper‰ on _viha_ luonnollisuutta (-- todellisuutta! --) kohtaan, se on
+syv‰n tyytym‰ttˆmyyden ilmaisumuoto todellisuutta kohtaan... _Mutta
+t‰m‰ selitt‰‰ kaiken_. Kenell‰ yksin on syyt‰ valheella vet‰yty‰ pois
+todellisuudesta? Sill‰, joka siit‰ _k‰rsii_. Mutta k‰rsi‰
+todellisuudesta, se on olla _ep‰onnistunut_ todellisuus... T‰m‰n
+valheellisen moraalin ja uskonnon _synnytt‰‰_ se, ett‰ haluttomuuden
+tunteet voittavat halun tunteet, mutta t‰llaisessa voitossa on
+dekadensin _kaava_ valmiina...
+
+
+
+
+16.
+
+
+Samaan lopputulokseen pakottaa arvostelu _kristillisest‰
+jumalak‰sitteest‰_. -- Kansalla, joka uskoo viel‰ itseens‰, on myˆskin
+viel‰ oma jumalansa. H‰ness‰ se kunnioittaa niit‰ ehtoja, joilla se
+p‰‰see voittoon, hyveit‰‰n, -- se projiseeraa halun itseens‰,
+vallantuntonsa olentoon, jota siit‰ voi kiitt‰‰. Ken on rikas, h‰n
+tahtoo lahjoittaa; ylv‰s kansa tarvitsee jumalan, jolle _uhrata_...
+Uskonto t‰llaisilla edellytyksill‰ on kiitollisuuden muoto. Ollaan
+kiitollisia omasta itsest‰‰n: senvuoksi tarvitaan jumala. -- Sellaisen
+jumalan t‰ytyy voida hyˆdytt‰‰ ja vahingoittaa, t‰ytyy voida olla
+yst‰v‰ ja vihollinen, -- h‰nt‰ ihaillaan niin hyv‰ss‰ kuin huonossakin.
+Jumalan _luonnotonta_ kastreerausta pelk‰ksi hyv‰n jumalaksi ei ole
+lainkaan syyt‰ toivoa. Tarvitaan niin pahaa kuin hyv‰‰kin jumalaa:
+eih‰n ole juuri kiitt‰minen suvaitsevaisuutta ja ihmisyst‰v‰llisyytt‰
+omasta olemassaolostaan... Mit‰ jumalasta, joka ei tuntisi vihaa,
+kostoa, kateutta, pilkkaa, viekkautta, v‰kivaltaa? Joka ehk‰ ei tuntisi
+edes voiton ja h‰vityksen hurmaavaa kiihkoa? Sellaista jumalaa ei
+ymm‰rrett‰isi: mihin h‰nt‰ k‰ytt‰‰? Tosin: kun kansa k‰y perikatoon;
+kun se tuntee uskon tulevaisuuteen, toiveensa vapaudesta i‰ksi
+katoavan; kun sille selvenee, ett‰ alistuminen on hyˆdyllisint‰ ja ett‰
+alistettujen hyveet ovat ainoat itses‰ilytysehdot, silloin _t‰ytyy_ sen
+jumalankin muuttua. H‰nest‰ tulee nyt liehakoiva, arka, nˆyr‰,
+kehoittaa etsim‰‰n "sielun rauhaa", kielt‰‰ vihaamasta, kehoittaa
+lempe‰sti s‰‰st‰m‰‰n, "rakastamaan" niin yst‰v‰‰ kuin vihollistakin.
+H‰n saarnaa siveytt‰ alati, h‰n ryˆmii jokaisen yksityishyveen luolaan,
+h‰nest‰ tulee jokaisen jumala, tulee yksityinen, tulee kosmopoliitti...
+Ennen h‰n edusti kansaa, kansan voimaa, kaikkea hyˆkk‰‰v‰‰ ja
+vallanhimoista kansan sielussa: nyt h‰n on ainoastaan hyv‰ jumala...
+Totisesti, jumalilla ei ole muuta valintaa, _joko_ he ovat tahtoa
+valtaan -- ja niin kauan he pysyv‰t kansanjumalina --, _tai_ ovat he
+myˆskin kykenem‰ttˆmyytt‰ valtaan -- ja silloin heist‰ tulee
+v‰ltt‰m‰ttˆm‰sti _hyvi‰_...
+
+
+
+
+17.
+
+
+Miss‰ tahto valtaan jossakin muodossa alenee, siell‰ alkaa myˆs joka
+kerta fysiolooginen taantumus, dekadensi. Dekadensin jumaluudesta,
+jonka miehekk‰imm‰t hyveet ja halut ovat ymp‰rileikatut, tulee nyt
+v‰ltt‰m‰ttˆm‰sti fysioloogisesti taantuneiden, heikkojen jumala. Itse
+he _eiv‰t_ kutsu itse‰‰n heikoiksi, he kutsuvat itse‰‰n "hyviksi"...
+Ymm‰rret‰‰n, ilman vihjausta jo, min‰ historian silm‰nr‰p‰yksin‰
+dualistinen fiktsiooni hyv‰st‰ ja pahasta jumalasta vasta k‰y
+mahdolliseksi. Saman vaiston ohjaamana, joka sai voitetut alentamaan
+jumalansa "yksinomaan hyv‰ksi", poistavat he voittajiensa jumalalta
+hyv‰t ominaisuudet: he kostavat herroilleen siten, ett‰
+_perkeleellist‰v‰t_ heid‰n jumalansa. -- Niin _hyv‰_ jumala kuin
+perkelekin: molemmat dekadensin sikiˆit‰. Kuinka voidaan viel‰ t‰n‰‰n
+mukautua siihen m‰‰rin kristillisten teoloogien tuhmuuteen, ett‰ heid‰n
+kanssaan s‰‰det‰‰n _edistykseksi_ jumalak‰sitteen kehitys "Israelin
+jumalasta", kansanjumalasta, kristilliseen jumalaan, kaiken hyv‰n
+yhteenvetoon? -- Mutta itse Renan tekee niin. Ik‰‰nkuin Renanilla olisi
+mit‰‰n oikeutta tuhmuuteen! Vastakohtahan on silmiinpist‰v‰. Kun
+_kohoavan_ el‰m‰n edellytykset, kun kaikki voimakas, urhoollinen,
+k‰skev‰, ylv‰s poistetaan jumalak‰sitteest‰, kun h‰n askel askeleelta
+vajoaa v‰syneiden sauvan, kaikkien hukkuvien pelastusankkurin
+symbooliksi, kun h‰nest‰ tulee vaivaisten ihmisten jumala, syntisten
+jumala, sairaitten jumala _par excellence_, ja predikaatti "vapahtaja",
+"lunastaja" pysyy jumalallisena predikaattina yleens‰; mist‰ puhuu
+sellainen muutos? Sellainen jumalallisuuden supistus? Tosin: "jumalan
+valtakunta" on siten suurentunut. Ennen h‰nell‰ oli vain oma kansansa,
+"valittu" kansansa. Kuitenkin l‰ksi h‰n, aivan kuin h‰nen kansansakin,
+vieraisiin maihin, vaellukselle, siit‰ p‰ivin h‰n ei pysynyt miss‰‰n
+alallaan: kunnes h‰n viimein koteutui kaikkialla, tuo suuri
+kosmopoliitti, -- kunnes h‰n sai "suuren joukon" ja puolet maailmaa
+puolellensa. Mutta "suuren joukon" jumalasta, demokraatista jumalien
+seassa, ei tullut siit‰ huolimatta ylv‰st‰ pakanajumalaa! H‰n j‰i
+juutalaiseksi, h‰n j‰i loukkojen jumalaksi, kaikkien pimeiden nurkkien
+ja paikkojen, maailman kaikkien ep‰terveellisten majojen jumalaksi!...
+H‰nen maailmanvaltakuntansa on nyt kuten ennenkin Tuonenvaltakunta,
+sairashuone, _kellarikerros_-valtakunta, Ghetto-valtakunta... Ja h‰n
+itse, niin kalpea, niin heikko, niin dekadentti... Viel‰p‰ kalpeista
+kalpeimmat p‰‰siv‰t h‰nen herroikseen, herrat metafyysikot,
+k‰site-albinokset. N‰m‰ kutoivat verkkojaan niin kauan h‰nen
+ymp‰rilleen, ett‰ h‰nest‰ itsest‰‰n, heid‰n liikkeittens‰
+hypnotiseeraamana, tuli h‰m‰h‰kki, tuli metafyysikko. Nyt h‰n
+vuorostaan kehr‰si maailman itsest‰‰n -- _sub specie Spinozae_ -- nyt
+h‰n uudestimuodosti itsens‰ yh‰ ohuemmaksi ja kalpeammaksi, tuli
+"ideaaliksi", tuli "puhtaaksi hengeksi", tuli "absoluutiksi", tuli
+"olioksi itsess‰‰n"... _Jumalan h‰viˆ_: jumalasta tuli "olio
+itsess‰‰n"...
+
+
+
+
+18.
+
+
+Kristillinen jumalak‰site -- jumala sairaana jumalana, jumala
+h‰m‰h‰kkin‰, jumala henken‰ -- on turmeltuneimpia jumalak‰sitteit‰
+mit‰ maan p‰‰ll‰ on saavutettu; se muodostaa miltei jumalak‰sitteen
+alenevan kehityksen alhaisimman tason. Jumala rappeutunut el‰m‰n
+_vastav‰itteeksi_, sen sijaan ett‰ h‰nen tulisi olla sen selitys ja
+iankaikkinen myˆnt‰minen! Jumalassa julistettu vihollisuus el‰m‰‰,
+luontoa, el‰m‰ntahtoa vastaan! Jumala "t‰m‰n maailman" jokaisen
+pilkkaamisen muotona, jokaisen valheen "toisesta"! Jumalassa
+"ei-mit‰‰n" jumalallistettuna, tahto "ei-mihink‰‰n" pyh‰ksi
+julistettuna!...
+
+
+
+
+19.
+
+
+Ett‰ pohjois-Europan voimakkaat rodut eiv‰t ole tyˆnt‰neet luotaan
+kristillist‰ jumalaa, se ei todellakaan ole kunniaksi heid‰n
+uskonnollisille lahjoilleen, mausta puhumattakaan. Tuollaisesta
+sairaasta ja vanhuudenheikosta dekadensin sikiˆst‰ olisi heid‰n tullut
+vapautua. Mutta heid‰n yll‰‰n lep‰‰ senvuoksi kirous, etteiv‰t ole
+h‰nest‰ vapautuneet: he ovat kaikkiin vaistoihinsa istuttaneet
+sairauden, vanhuuden, vastav‰itteen, he eiv‰t ole senj‰lkeen _luoneet_
+en‰‰ yht‰‰n jumalaa! Kaksi vuosituhatta melkein eik‰ yht‰‰n ainoata
+uutta jumalaa! Vaan yh‰ viel‰ ja j‰rk‰ht‰m‰tt‰ kuin laillisella
+oikeudella, kuin jumalaamuodostavan voiman _ultimaatina ja maksimina,
+creator spirituksena_ ihmisess‰, t‰m‰ kristillisen monotonoteismin
+surkuteltava jumala! T‰m‰ nollan, k‰sitteen ja vastav‰itteen
+sekamuotoinen rappeutumistuote, jossa kaikki dekadensi-vaistot, kaikki
+sielun pelkuruudet ja v‰symykset saavat vahvistuksensa.
+
+
+
+
+20.
+
+
+Tuomiollani kristinopista en ole tahtonut tehd‰ v‰‰ryytt‰ er‰‰lle
+samansukuiselle uskonnolle, joka tunnustajiensa lukum‰‰r‰‰n katsoen on
+t‰rke‰mpikin: _buddalaisuudelle_. Molemmat kuuluvat nihilistisin‰
+uskontoina yhteen -- ne ovat dekadensiuskontoja --, molemmat
+ovat mit‰ merkillisimm‰ll‰ tavalla toisistaan eroitetut. Ett‰ niit‰
+nyt voi _vertailla_, siit‰ on kristinopin arvostelija syv‰ss‰
+kiitollisuudenvelassa intialaisille oppineille. Buddalaisuus on sata
+kertaa realistisempi kuin kristinoppi, -- se on perinyt kyvyn asettaa
+objektiivisesti ja viile‰sti probleemeja, se seuraa monisatavuotisen
+filosoofisen virtauksen lopputuloksena; "jumala" k‰site on jo
+poistettu, kun buddalaisuus alkaa. Buddalaisuus on ainoa
+varsinainen _positivistinen_ uskonto, mink‰ historia tiet‰‰, viel‰
+tietoteoriassaankin (ankaraa fenomenalismia), se ei sano en‰‰ "taistelu
+_synti‰_ vastaan", vaan, antaen t‰yden oikeuden todellisuudelle,
+"taistelu _k‰rsimyst‰_ vastaan". Se on -- t‰m‰ eroittaa sen syv‰sti
+kristinopista -- vapautunut jo moraalik‰sitteiden itsepetoksesta, -- se
+on, minun kielell‰ni puhuaksemme, _tuollapuolen_ hyv‰‰ ja pahaa. -- Ne
+kaksi fysioloogista tosiasiaa, joihin se perustuu ja joihin se on
+kiinnitt‰nyt katseensa, ovat: _tuntoherkkyyden ylen suuri ‰rtyisyys_,
+joka saa ilmaisumuotonsa raffineeratussa kyvyss‰ tuntea tuskaa, ja
+_suunnaton henkevˆityminen_, liian pitk‰llinen oleskelu k‰sitteiden ja
+loogillisten proseduurien parissa, jolloin personavaisto on turmeltunut
+"personattoman" eduksi (-- molemmat tiloja, jotka ainakin muutamat
+lukijoistani, "objektiiviset", tuntevat kokemuksesta kuten min‰kin).
+N‰iden fysioloogisten ehtojen pohjalla on syntynyt _depressiooni_:
+t‰h‰n Buddha k‰y hygienisesti k‰siksi. H‰n k‰ytt‰‰ keinona sit‰ vastaan
+el‰m‰‰ ulkoilmassa, vaellusel‰m‰‰; kohtuullisuutta ja ruuan valintaa;
+varovaisuutta kaikenlaisia v‰kijuomia kohtaan; samoin varovaisuutta
+kaikkia mielen liikutuksia kohtaan, jotka kiihottavat sappea, jotka
+kuumentavat verta; _suruja_ ei lainkaan, ei itsens‰ eik‰ toisten
+vuoksi. H‰n vaatii esityksi‰, jotka joko rauhoittavat tai huvittavat --
+h‰n keksii keinoja vieroittaakseen toisista. H‰n k‰sitt‰‰ hyvyyden,
+hyv‰ntahtoisuuden terveytt‰ vaativiksi. Rukous on poistettu, samoin
+myˆs _itsens‰ kiduttaminen_; ei mit‰‰n kategoorista imperatiivia, ei
+mit‰‰n _pakkoa_ yleens‰, ei edes luostarikunnassakaan (-- saattaa
+p‰‰st‰ j‰lleen pois --). N‰m‰ kaikki olivat keinoja tekem‰‰n
+voimakkaammaksi tuon ylen suuren ‰rtyisyyden. Senvuoksi juuri h‰n ei
+vaadikaan taistelua toisinajattelevia vastaan; h‰nen oppinsa ei suojele
+itse‰‰n milt‰‰n niin kuin kostontunteelta, v‰kin‰isyydelt‰,
+_ressentimentilt‰_ (-- "ei vihollisuudella vihollisuus lopu": koko
+buddalaisuuden liikuttava loppukerto...). Ja syyst‰ kyll‰: juuri
+n‰m‰ mielenliikutukset olisivat t‰ydellisesti _ep‰terveellisi‰_
+dieteettiseen p‰‰tarkoitukseen katsoen. Henkisen v‰symyksen, jonka h‰n
+lˆyt‰‰, ja joka ilmenee aivan liian suuressa "objektiivisuudessa" (s.o.
+yksilˆintressin heikentymisess‰, tasapainon, "itsekk‰isyyden"
+menett‰misess‰), h‰n voittaa ankarasti palauttamalla henkisimm‰tkin
+intressit _persooniin_. Buddan opissa k‰y itsekk‰isyys
+velvollisuudeksi: "yksi on tarpeellinen", "kuinka vapaudut
+k‰rsimyksest‰" tasoittaa ja rajoittaa koko henkisen dieetin (-- on ehk‰
+johdettava mieleen tuo ateenalainen, joka samoin soti puhdasta
+"tieteellisyytt‰" vastaan, Sokrates, joka myˆs probleemien maailmassa
+kohotti personaali-egoismin moraaliksi).
+
+
+
+
+21.
+
+
+Edellytyksen‰ buddalaisuuteen on hyvin leuto ilmanala, tapojen suuri
+lempeys ja ylevyys; militarismia ei ole olemassa; sek‰ ett‰ liike on
+saanut alkunsa korkeammista ja viel‰p‰ oppineista s‰‰dyist‰.
+Tavoitetaan iloisuutta, hiljaisuutta, toiveista vapautumista
+korkeimpana p‰‰m‰‰r‰n‰, ja p‰‰m‰‰r‰ _saavutetaan_. Buddalaisuus ei ole
+uskonto, miss‰ vain pyrit‰‰n t‰ydellisyyteen: t‰ydellisyys on siin‰
+normaalista. --
+
+Kristinopissa tunkevat voitettujen ja alistettujen vaistot etualalle:
+alhaisimmat luokat etsiv‰t siin‰ onneaan. T‰‰ll‰ k‰ytet‰‰n sellaisia
+keinoja ik‰v‰‰ vastaan kuin kasuistiikkaa synnist‰, itsekritiikki‰,
+omantunnoninkvisitsioonia; t‰‰ll‰ yll‰pidet‰‰n taukoamatta
+(rukouksella) mielenliikutusta _mahtavaa olentoa_ kohtaan, jota
+kutsutaan "jumalaksi"; t‰‰ll‰ pidet‰‰n korkeinta saavuttamattomana,
+lahjana, "armona". T‰‰ll‰ puuttuu myˆskin julkisuutta: lymypaikka,
+pime‰ ala on kristillist‰. T‰‰ll‰ halveksitaan ruumista, terveydenhoito
+kiellet‰‰n aistillisuutena; kirkko suojelee itse‰‰n puhtaudeltakin
+(ensim‰inen kristillinen teko maurilaisten karkottamisen j‰lkeen oli
+yleisten kylpypaikkojen sulkeminen, joita Kordovassa yksin oli 270).
+Kristillist‰ on jonkunlainen halu julmuuteen itse‰‰n ja toisia kohtaan;
+viha toisinajattelevia kohtaan; tahto vainoamiseen. Synk‰t ja
+kiihdytt‰v‰t esitykset ovat etualalla; halutuimmat, korkeimmilla
+nimill‰ kuvatut tilat ovat kaatumataudinkohtauksia; ruokaj‰rjestelm‰
+valitaan siten, ett‰ se edist‰‰ sairaloisia ilmiˆit‰ ja kiihottaa
+liiaksi hermoja. Kristillist‰ on verivihollisuus maan herroja kohtaan,
+"ylh‰isi‰" kohtaan -- sek‰ myˆskin kavala, salainen kilpailupyrkimys
+(-- heille j‰tet‰‰n "ruumis", tahdotaan vain "sielua"...). Kristillist‰
+on viha henke‰ kohtaan, hengen uljuutta, rohkeutta, vapautta,
+_libertinagea_ kohtaan; kristillist‰ on viha aisteja kohtaan, aistien
+iloja kohtaan, iloa kohtaan yleens‰...
+
+
+
+
+22.
+
+
+Kun kristinoppi j‰tti ensim‰isen maaper‰ns‰, alhaisimmat s‰‰dyt,
+antiikisen maailman _Manalan_, ja l‰ksi barbaarikansojen keskuuteen
+etsim‰‰n valtaa, ei sill‰ ollut edellytyksen‰ en‰‰ v‰syneit‰ ihmisi‰,
+vaan henkisesti villiytyneit‰ ja itse‰‰n raatelevia, voimakas, mutta
+ep‰onnistunut ihminen. Tyytym‰ttˆmyys itseens‰, itsest‰‰n k‰rsiminen ei
+ole t‰‰ll‰ kuten buddalaisten keskuudessa suunnatonta ‰rtyisyytt‰ ja
+kyky‰ tuntea tuskaa, vaan pikemmin valtavaa halua tuottaa tuskaa, antaa
+tilaisuus sis‰llisen j‰nnityksen puhkeamiselle vihollismielisiss‰
+teoissa ja esityksiss‰. Kristinoppi tarvitsi _barbaarisia_ k‰sitteit‰
+ja arvoja p‰‰st‰kseen barbaarien herraksi: sellaisia k‰sitteit‰ ovat
+esikoisuhri, verenjuominen ehtoollisessa, hengen ja kultuurin
+halveksiminen; kiduttaminen jokaisessa muodossa, aistillisissa ja
+ep‰aistillisissa; jumalanpalveluksen suuri komeus. Buddalaisuus on
+uskonto _myˆt‰syntyisille_ ihmisille, lempeille, hiljaisille, liian
+henkeviksi k‰yneille roduille (-- Europa ei ole viel‰ pitkiin aikoihin
+kypsynyt siihen --): se palauttaa heid‰t rauhaan ja iloisuuteen,
+dieettiin henkisiss‰ asioissa, jonkunlaiseen karkaisuun ruumiillisessa
+suhteessa. Kristinoppi tahtoo p‰‰st‰ _petoel‰inten_ herraksi; sen
+keinona on tehd‰ ne sairaiksi -- heikontaminen on kesytt‰misen,
+"sivistyksen" kristillinen resepti. Buddalaisuus on p‰‰ttyneen,
+v‰syneen sivistyksen uskonto, kristinoppi sit‰vastoin ei lˆyd‰ sit‰
+alettunakaan, -- muutamissa olosuhteissa se perustaa sen.
+
+
+
+
+23.
+
+
+Buddalaisuus, toistan sen viel‰, on sata kertaa kylmempi,
+totuudenmukaisempi, objektiivisempi. Sen ei tarvitse en‰‰ tehd‰
+itselleen k‰rsimyst‰‰n, taipumustaan tuskaan s‰‰dylliseksi selitt‰m‰ll‰
+sit‰ synnin seuraukseksi, -- se lausuu vain, mit‰ se ajattelee: "min‰
+k‰rsin". Barbaarille sit‰vastoin ei k‰rsimys itsess‰‰n ole s‰‰dyllist‰:
+h‰n tarvitsee ensin selityksen myˆnt‰‰kseen itselleen, _ett‰_ h‰n
+k‰rsii (h‰nen vaistonsa k‰skee h‰nen pikemmin kielt‰m‰‰n k‰rsimyksen,
+‰‰nettˆm‰n‰ kantamaan sen). T‰‰ll‰ oli sana "perkele" hyv‰teko: oli
+olemassa ylivoimainen ja pelj‰tt‰v‰ vihollinen, ei tarvinnut h‰vet‰,
+ett‰ k‰rsi sellaisesta vihollisesta.
+
+Kristinopilla on oikeastaan muutamia hienouksia, jotka kuuluvat
+it‰maihin. Ennen kaikkea se tiet‰‰, ett‰ itse asiassa on t‰ydellisesti
+yhdentekev‰‰, onko jokin totta, mutta t‰rkeint‰ on, _jos_ se uskotaan
+todeksi. Totuus ja jonkin todeksi _uskominen_ ovat kaksi toisistaan
+kokonaan ulkopuolella olevaa intressimaailmaa, melkein toistensa
+_vastakohtia_, -- niihin joutuu perinpohjin toisistaan eroitettuja
+teit‰. Olla t‰st‰ tietoinen -- se _tekee_ it‰mailla jo miltei
+viisaaksi: niin ymm‰rt‰v‰t bramiinit sen, niin ymm‰rt‰‰ Plato sen, niin
+jokainen esoteerisen viisauden oppilas. Jos siin‰ uskossa esim. on
+_onnea_, ett‰ on lunastettu synnist‰, niin siihen _ei_ vaadita
+edellytykseksi, ett‰ ihminen on syntinen, vaan ett‰ h‰n _tuntee_
+itsens‰ syntiseksi. Mutta jos yleens‰ usko ennen kaikkea on
+v‰ltt‰m‰tˆn, t‰ytyy j‰rki, tieto, tutkimus saada huonoon maineeseen:
+tie totuuteen k‰y _kielletyksi_ tieksi. -- V‰kev‰ _toive_ on paljon
+suurempi el‰m‰n kiihoitin kuin jokin erikoinen, todellisesti sattuva
+onni. T‰ytyy yll‰pit‰‰ k‰rsivi‰ toiveella, jota mik‰‰n todellisuus ei
+voi kumota, -- jota t‰yttymys ei ratkaise: tuonpuoleinen toive. (Juuri
+kykyns‰ takia yll‰pit‰‰ onnetonta, pitiv‰t kreikkalaiset toivoa
+pahimpana pahana, todellisena _salakavalana_ pahana: se pysyi
+pohjasakkana pahan astiassa). -- Jotta _rakkaus_ olisi mahdollinen,
+t‰ytyy jumalan olla persoona; jotta alimmat vaistot voisivat puhua
+puolestaan, t‰ytyy jumalan olla nuori. Naisten kaipuun takia t‰ytyi
+tyˆnt‰‰ etualalle ihana pyhimys, miesten takia Maria. T‰m‰ sill‰
+edellytyksell‰, ett‰ kristinoppi tahtoo p‰‰st‰ herraksi maaper‰‰n,
+miss‰ afrodiitiset tai adoniskultit ovat m‰‰r‰nneet kultin k‰sitteen.
+Siveysvaatimus vahvistaa uskonnollisen vaiston kiihkeytt‰ ja hartautta
+-- se tekee kultin l‰mpim‰mm‰ksi, haaveksivammaksi, sielukkaammaksi. --
+Rakkaus on tila, miss‰ ihminen el‰vimmin n‰kee oliot sellaisina kuin ne
+_eiv‰t_ ole. Illusoorinen voima on saavuttanut silloin huippunsa,
+samoin myˆs sulostuttava, _kirkastava_ voima. Rakkaudessa siet‰‰
+enemm‰n kuin muutoin, k‰rsii kaikkea. Tuli keksi‰ uskonto, jossa voi
+tulla rakastetuksi: sill‰ on p‰‰sty pahimmasta el‰m‰ss‰ -- sit‰ ei
+n‰hd‰ en‰‰ lainkaan. -- Olkoon se sanottu kolmesta kristillisest‰
+hyveest‰ uskosta, rakkaudesta, toivosta: min‰ kutsun niit‰ kristinopin
+kolmeksi _viisaudeksi_. -- Buddalaisuus on liian kyps‰ liian
+positiivinen ollakseen siten ‰lyk‰s.
+
+
+
+
+24.
+
+
+Tahdon koskettaa t‰ss‰ ainoastaan kristinopin _syntyprobleemia_. Sen
+ratkaisun _ensim‰inen_ lause on: kristinoppi on ymm‰rrett‰viss‰
+ainoastaan silm‰ll‰pit‰en sit‰ maaper‰‰, josta se on noussut, se ei ole
+juutalaisen vaiston vastaliike, se on itse seuraus siit‰, se on sen
+kauhistuttavan logiikan johtop‰‰tˆs. Lunastajan lausumana: "pelastus
+tulee juutalaisten joukosta". -- Toinen lause on: galilealaisen
+psykolooginen tyyppi on viel‰ huomattavissa, mutta vasta t‰ydellisesti
+rappeutuneena (joka samalla on typistys ja vieraiden piirteitten
+ylenm‰‰r‰inen kasaantuminen --) on h‰n k‰ynyt kelvolliseksi siihen,
+mihin h‰nt‰ on k‰ytetty, ihmiskunnan _lunastajan_ tyypiksi.
+
+Juutalaiset ovat maailmanhistorian merkillisin kansa, koska he,
+asetettuina olemassaolon tai h‰vi‰misen kysymyksen eteen, ovat aivan
+hirvitt‰v‰ll‰ tietoisuudella valinneet olemassaolon _mist‰ hinnasta
+tahansa_: hinta oli kaiken luonnon, kaiken luonnollisuuden, kaiken
+todellisuuden, niin sis‰isen kuin ulkonaisenkin maailman, radikaali
+v‰‰rent‰minen. He eristiv‰t itsens‰ kaikista ehdoista, joilla kansa
+t‰h‰n saakka saattoi el‰‰, _sai_ el‰‰; he loivat itsest‰‰n
+_luonnollisten_ ehtojen vastak‰sitteen, -- he ovat, toinen toisensa
+j‰lkeen, v‰‰nt‰neet auttamattomasti uskonnon, kultin, moraalin,
+historian, psykologian _luonnonarvojen ristiriidaksi_. Me tapaamme
+samat ilmiˆt viel‰ kerran ja suunnattomasti suuremmissa suhteissa,
+mutta siit‰ huolimatta ainoastaan j‰ljennettyin‰: -- kristilliselt‰
+kirkolta puuttuu, "pyhien kansaan" verrattuna, alkuper‰isyyden jokainen
+vaatimus. Juutalaiset ovat, juuri senvuoksi, maailmanhistorian
+turmiollisin kansa: j‰lkivaikutuksellaan he ovat tehneet ihmiskunnan
+siihen m‰‰rin v‰‰r‰ksi, ett‰ kristitty viel‰ t‰n‰‰n voi tuntea
+juutalaisvihollisia tunteita ymm‰rt‰m‰tt‰, ett‰ h‰n itse on _viimeinen
+juutalainen konsekvenssi_.
+
+Olen teoksessani "Genealogie der Moral" ensi kerran tehnyt
+psykoloogisen selonteon vastakkaisista k‰sitteist‰ ylh‰inen moraali ja
+ressentimentimoraali, j‰lkim‰inen syntynyt edellisen _kielt‰misest‰_:
+mutta t‰m‰ on kokonaisuudessaan juutaiaiskristillist‰ moraalia.
+Voidakseen sanoa "ei" kaikelle, mit‰ el‰m‰n nouseva liikunto, menestys,
+valta, kauneus, itsens‰myˆnt‰minen muodostaa maan p‰‰ll‰, t‰ytyi
+neroksi tulleen ressentimentivaiston keksi‰ itselleen _toinen maailma_,
+jonka n‰kˆkannalta _el‰m‰n myˆnt‰minen_ n‰ytti pahalta, itsest‰‰n
+hylj‰tt‰v‰lt‰. Psykoloogiselta kannalta on Juudan kansa sitkeimmin
+elinvoimainen kansa, joka, joutuneena mahdottomiin elinehtoihin,
+vapaaehtoisesti, itses‰ilytyksen syvimm‰st‰ viisaudesta, asettuu
+kaikkien dekadensivaistojen puolelle, -- ei sen vuoksi, ett‰ ne
+hallitsevat sit‰, vaan siksi, ett‰ se on vainunnut niiss‰ vallan, joka
+voi "maailmasta" _huolimatta_ p‰‰st‰ perille. Juutalaiset ovat kaikkien
+dekadenttien vastakohta: heid‰n on t‰ytynyt n‰ytell‰ dekadenttej‰ aina
+illusiooniin saakka, he ovat n‰yttelij‰neron _non plus ultralla_
+ymm‰rt‰neet asettua kaikkien dekadensiliikkeiden etunen‰‰n (-- kuten
+Paavalin kristinoppi --), luodakseen niist‰ jotakin, joka on
+voimakkaampi kuin jokainen el‰m‰n _myˆnt‰v‰_ puolue. Dekadensi on
+juutalaisuuden ja kristinopin valtaan pyrkiv‰lle ihmislajille, s.o.
+_papilliselle_, ainoastaan _v‰likappale_: t‰m‰n ihmislajin
+el‰m‰nintressi on tehd‰ ihmiskunta sairaaksi ja v‰‰nt‰‰ k‰sitteet
+"hyv‰" ja "paha", "tosi" ja "v‰‰r‰", kunnes ne ovat saaneet el‰m‰lle
+vaarallisen ja maailmaasoimaavan merkityksen. --
+
+
+
+
+25.
+
+
+Israelin historia on verraton tyypillisen‰ historiana _luonnollisuuden
+h‰vi‰misest‰_ luonnonarvoista: mainitsen viisi tosiasiaa siit‰.
+Alkuaan, etenkin kuninkuuden aikana, oli Israelkin _oikeassa_, s.o.
+luonnollisessa suhteessa kaikkiin olioihin. Sen Jahve oli vallantunnon,
+itsest‰‰n iloitsemisen, itsest‰‰n toivomisen ilmaisumuoto: h‰ness‰
+odotettiin voittoa ja menestyst‰, h‰ness‰ luotettiin luontoon, ett‰ se
+antaisi, mit‰ kansa tarvitsi -- _ennen_ kaikkea sadetta. Jahve on
+Israelin jumala ja siis oikeuden jumala: jokaisen kansan logiikka, joka
+on vallassa ja on siit‰ tietoinen. Juhlakultissa ilmenev‰t n‰m‰ kansan
+itsens‰myˆnt‰misen molemmat puolet: se on kiitollinen niist‰ suurista
+kohtaloista, jotka johtivat sen valtaan, se on kiitollinen vuoden
+vaihteluista ja kaikesta onnesta karjanhoidossa ja maanviljelyksess‰.
+-- T‰m‰ asiaintila j‰i viel‰ kauan ihanteeksi, senkin j‰lkeen kuin se
+oli surullisella tavalla poistettu: anarkia sis‰llisen‰ syyn‰,
+assyyrialainen ulkopuolelta tulevana. -- Mutta kansa piti korkeimmin
+toivottavana mielikuvaa kuninkaasta, joka on hyv‰ sotilas ja
+ankara tuomari: ennen kaikkea tuo tyypillinen profeetta (s.o.
+silm‰nr‰p‰yskriitikko ja satiirikko) Jesaias. -- Mutta jokainen toive
+j‰i t‰yttym‰tt‰. Vanha jumala ei _kyennyt_ en‰‰ mihink‰‰n, mihin h‰n
+muinoin kykeni. Olisi pit‰nyt antaa h‰nen menn‰ menojaan. Mit‰
+tapahtui? K‰sitett‰ _muutettiin_, -- silt‰ _riistettiin_ sen
+_luonnollisuus_: t‰ll‰ hinnalla saatiin pit‰‰ h‰net. -- Jahve
+"oikeuden" jumala, -- _ei en‰‰_ yht‰ kuin Israel, ei en‰‰ ilmaisumuoto
+sen itsetunnosta kansana, vaan t‰st‰l‰hin ainoastaan ehdollinen
+jumala... Jumalak‰site k‰y v‰likappaleeksi papillisten agitaattorien
+k‰siss‰, jotka nyt selitt‰v‰t kaiken onnen palkkioksi, kaiken
+onnettomuuden rangaistukseksi tottelemattomuudesta jumalaa vastaan,
+"synnin" rangaistukseksi: t‰m‰ valheellisin kaikista tavoista tulkita
+luuloteltua "siveellist‰ maailmanj‰rjestyst‰", ja jolla luonnonk‰site
+"syy" ja "seuraus" on kerta kaikkiaan asetettu p‰‰laelleen. Jos vasta
+palkkiolla ja rangaistuksella on poistettu maailmasta luonnollinen
+syysuhteisuus, niin tarvitaan _luonnotonta_ syysuhteisuutta: ja nyt
+seuraa ep‰luonnollisuuden koko j‰‰nnˆs. Jumala, joka _vaati_, --
+jumalan asemesta, joka auttaa, joka tiet‰‰ neuvoja, joka on oikeastaan
+rohkeuden ja itseluottamuksen jokaisen onnellisen inspiratsioonin
+sana... _Moraali_ ei en‰‰ kansan el‰m‰n ja kasvavuusehtojen ilmaisuna,
+ei en‰‰ sen sisimp‰n‰ el‰m‰nvaistona, vaan abstraktiseksi k‰yneen‰,
+el‰m‰n vastakohdaksi k‰yneen‰, -- moraali mielikuvituksen
+periaatteellisena huonontumisena, kaikkien olioiden "pahana katseena".
+Mit‰ on juutalainen, _mit‰_ on kristillinen moraali? Sattuma, jolta on
+ryˆstetty sen viattomuus; onnettomuus, joka on tahrattu k‰sitteell‰
+"synti", hyvinvointi vaarana, "kiusauksena", fysiolooginen pahoinvointi
+omantunnontuskalla myrkytettyn‰...
+
+
+
+
+26.
+
+
+Jumalak‰site v‰‰rennetty; moraalik‰site v‰‰rennetty: -- juutalainen
+papisto ei pys‰htynyt t‰h‰n. Koko Israelin _historiaa_ ei voitu
+k‰ytt‰‰: pois se! N‰m‰ papit ovat saaneet aikaan sen v‰‰rennyksen
+ihmetyˆn, jonka todistuskappaleena suuri osa raamattua on: he ovat
+jokaista traditsioonia, jokaista historiallista realiteettia
+suunnattomasti h‰v‰isten _k‰‰nt‰neet_ oman kansansa muinaisuuden
+_uskonnolliseksi_, s.o. tehneet sen typer‰ksi pelastuskoneistoksi
+rikoksesta Jahvea vastaan ja rangaistuksesta, hurskaudesta Jahvea
+kohtaan ja palkkiosta. Meihin koskisi paljon kipe‰mmin t‰m‰
+historianv‰‰rennyksen h‰pe‰llisin teko, ellei _kirkollinen_
+historiantulkinta sitten vuosituhansien olisi tehnyt meit‰ miltei
+tylsiksi vaatimaan rehellisyytt‰ _historioitsijoissa_. Ja filosoofit
+avustivat kirkkoa: _valhe_ "siveellisest‰ maailmanj‰rjestyksest‰" k‰y
+l‰pi uudemmankin filosofian kehityksen. Mit‰ merkitsee "siveellinen
+maailmanj‰rjestys?" Ett‰ kerta kaikkiaan on olemassa jumalan tahto
+siit‰, mit‰ ihmisen tulee tehd‰, mit‰ h‰nen tulee olla tekem‰tt‰; ett‰
+kansan tai yksilˆn arvo mitataan sen mukaan kuinka paljon tai kuinka
+v‰h‰n jumalan tahtoa totellaan; ett‰ kansan tai yksilˆn kohtaloissa
+jumalan tahto osoittautuu _hallitsevaksi_, s.o. rangaisten ja palkiten,
+aina kuuliaisuuden mukaan. T‰m‰n surkuteltavan valheen _realiteetti_
+sensijaan on: loisihmislaji, joka menestyy ainoastaan el‰m‰n kaikkien
+terveitten muodostumien kustannuksella, _pappi_, v‰‰rink‰ytt‰‰ jumalan
+nime‰; h‰n mainitsee olioiden tilan, jossa pappi m‰‰r‰‰ olioiden arvon,
+"jumalan valtakunta"; h‰n mainitsee keinot, joiden avulla sellainen
+tila saavutetaan tai yll‰pidet‰‰n sit‰, "jumalan tahto"; h‰n mittaa
+kylm‰verisell‰ kyynillisyydell‰ kansoja, aikoja ja yksilˆit‰ sen
+mukaan, hyˆdytt‰v‰tkˆ ne vai vastustavat pappien ylivaltaa.
+Katsottakoon heit‰ tyˆss‰: juutalaisten pappien k‰siss‰ tuli Israelin
+historian _suuri_ aika rappion ajaksi; maanpakolaisuus, tuo pitk‰
+onnettomuus muutettiin iankaikkiseksi _rangaistukseksi_ suuresta ajasta
+-- ajasta, jolloin ei pappi ollut viel‰ mit‰‰n. He ovat Israelin
+historian mahtavista, luonnostaan _hyvin vapaista_ hahmoista tehneet
+tarpeen mukaan surkuteltavia teeskentelijˆit‰ ja ryˆmijˆit‰ tai myˆskin
+"jumalattomia", he ovat yksinkertaistuttaneet jokaisen suuren
+tapahtuman psykologian idioottikaavan mukaan "tottelevainen tai
+tottelematon jumalaa kohtaan". -- Askel eteenp‰in: "jumalan tahto",
+s.o. papin vallan s‰ilytysehdot, t‰ytyy olla _tunnettu_, -- t‰h‰n
+tarkoitukseen tarvitaan "ilmestyst‰". Suomeksi: suuri kirjallinen
+v‰‰rennys k‰y v‰ltt‰m‰ttˆm‰ksi, "pyh‰ kirja" lˆydet‰‰n, -- kaikella
+papillisella prameudella, katumusp‰ivill‰ ja pitk‰llist‰ "synti‰"
+valittaen se saatetaan julkisuuteen. "Jumalan tahto" on jo kauan ollut
+selv‰: koko onnettomuus on siin‰, ett‰ on k‰‰nnytty pois "pyh‰st‰
+sanasta"... Mosekselle jo oli "jumalan tahto" ilmoitettu... Mit‰ oli
+tapahtunut? Pappi oli ankarasti, turhantarkasi, aina suuriin ja pieniin
+veroihin saakka, joita h‰nelle oli maksettava (-- maukkaimpia
+lihapaloja unohtamatta: sill‰ pappi on pihvinahmija), kerta kaikkiaan
+lausunut, _mit‰ h‰n tahtoo saada_, "mik‰ on jumalan tahto"... T‰st‰
+alkaen ovat el‰m‰n kaikki asiat niin j‰rjestetyt, ett‰ pappi
+_kaikkialla on v‰ltt‰m‰tˆn_; el‰m‰n kaikissa luonnollisissa
+tapahtumissa, syntymisess‰, avioliitossa, sairaudessa, kuolemassa,
+puhumattakaan uhrista ("ateria"), ilmestyy tuo pyh‰ loinen _riist‰m‰‰n
+n‰ilt‰ tapahtumilta niiden luonnollisuuden_: h‰nen kielell‰‰n
+"pyhitt‰m‰‰n"... Sill‰ t‰m‰ on ymm‰rrett‰v‰: jokaisen luonnollisen
+tavan, jokaisen luonnollisen laitoksen (valtio, oikeustoimi,
+avioliitto, sairaan- ja kˆyh‰inhoito), jokaisen el‰m‰nvaiston
+synnytt‰m‰n vaatimuksen, lyhyesti sanoen kaiken, jolla on
+arvonsa _itsess‰‰n_, tekee papin parasitismi (tai "siveellinen
+maailmanj‰rjestys") perinpohjin arvottomaksi, iljett‰v‰n arvoiseksi: se
+tarvitsee j‰lkeenp‰in pyhityksen, -- _arvoa antava_ valta on tarpeen,
+joka kielt‰‰ siin‰ luonnon ja juuri sill‰ mik‰ ensin luo arvon... Pappi
+riist‰‰ luonnolta sen arvon, saastuttaa sen: t‰m‰ on se hinta, jolla
+h‰n ostaa olemassaolonsa yleens‰. -- Tottelemattomuus jumalaa kohtaan,
+s.o. pappia kohtaan, "lakia" kohtaan, saa nyt nimen "synti", keinot
+j‰lleen "sopia jumalan kanssa" ovat, kuten soveliasta on, keinoja,
+joiden kautta alistuminen papin vallan alle vain perinpohjaisemmin
+taataan: pappi yksin "lunastaa"... Psykoloogiselta kannalta k‰yv‰t
+"synnit" jokaisessa papillisesti j‰rjestetyss‰ yhteiskunnassa
+v‰ltt‰m‰ttˆmiksi: ne ovat itse vallan voimassapidon v‰likappaleita,
+pappi el‰‰ synneist‰, h‰nen takiaan t‰ytyy "tehd‰ synti‰"... P‰‰lause:
+"jumala antaa sille anteeksi, joka katuu" -- suomeksi: _sille joka
+taipuu papin vallan alle_. --
+
+
+
+
+27.
+
+
+Niin _v‰‰r‰st‰_ maaper‰st‰, jossa jokaista luontoa, jokaista
+luonnollista arvoa, jokaista realiteettia hallitsevan luokan syvimm‰t
+vaistot vastustivat, nousi _kristinoppi_, t‰h‰n saakka saavuttamaton
+verivihollisuuden muoto todellisuutta kohtaan. "Pyh‰ kansa", joka on
+pid‰tt‰nyt kaikille olioille yksinomaan pappisarvot, pappissanat ja
+joka pelj‰tt‰v‰ll‰ johdonmukaisuudella on tyˆnt‰nyt luotaan
+"saastaisena", "maailmana", "syntin‰" kaiken, mik‰ viel‰ oli maan
+p‰‰ll‰ vallassa, -- t‰m‰ kansa keksi vaistolleen viimeisen muodon, joka
+on loogillinen aina itsens‰kielt‰miseen saakka: se kielsi, kuten
+_kristinoppi_, viel‰ todellisuuden viimeisen muodon, "pyh‰n kansan",
+"valitun kansan", itse _juutalaisen_ realiteetin. Tapaus on arvoltaan
+ensim‰inen: pieni kapinallinen liike, joka saa nimens‰ Jeesus
+Natsarealaisen mukaan, on juutalainen vaisto _uudessa muodossa_, --
+toisin sanoen, pappisvaisto, joka ei k‰rsi en‰‰ pappia realiteettina,
+viel‰ _ytimettˆm‰mm‰n_ olemismuodon, viel‰ ep‰todellisemman
+maailmankuvan keksiminen kuin se on, jota kirkon organisatsiooni
+vaatii. Kristinoppi kielt‰‰ kirkon...
+
+En k‰sit‰, mit‰ vastaan se kapina oli t‰hd‰tty, jonka alkuunpanijana
+Jeesus on ymm‰rretty tai _v‰‰rinymm‰rretty_, ellei se ollut kapina
+juutalaista kirkkoa vastaan, kirkko aivan samassa merkityksess‰ kuin me
+t‰n‰‰n k‰sit‰mme sen sanan. Se oli kapina "hyvi‰ ja vanhurskaita"
+vastaan, "Israelin pyhi‰" vastaan, yhteiskunnan pappisvaltaa vastaan --
+ei sen turmelusta vastaan, vaan kastia, etuoikeutta, j‰rjestyst‰,
+muotoa vastaan, se oli _puuttuvaa uskoa_ "korkeampaan ihmiseen", "ei"
+sanottu kaikelle, mik‰ oli pappia ja teoloogia. Mutta pappisvalta, joka
+siten, vaikkakin vain silm‰nr‰p‰ykseksi, pantiin kysymykseen, oli se
+paalurakennus, jonka varassa Juudan kansa kaikesta huolimatta viel‰
+s‰ilytti itsens‰ keskell‰ "vett‰", vaivaloisesti voitettu viimeinen
+mahdollisuus j‰‰d‰ j‰ljelle, sen poliittisen itsen‰isyyden _residuumi_:
+sen loukkaaminen oli syvimm‰n kansanvaiston loukkaamista, sitkeimm‰n
+kansanel‰mistahdon, mit‰ maan p‰‰ll‰ milloinkaan on ollut. T‰m‰ pyh‰
+anarkisti, joka kehoitti alempaa kansaa, hylj‰ttyj‰ ja "syntisi‰",
+juutalaisuuden Tshandalaa, taisteluun vallitsevaa j‰rjestyst‰ vastaan
+-- k‰ytt‰m‰ll‰ kielt‰, jos evankeliumeihin olisi luottamista, joka
+viel‰ t‰n‰‰n veisi Siperiaan, oli poliittinen rikollinen siihen m‰‰rin
+kuin poliittiset rikolliset olivat mahdollisia _absurdisen
+ep‰poliittisessa_ yhdyskunnassa. T‰m‰ vei h‰net ristille: todistuksena
+siit‰ on ristin p‰‰llekirjoitus. H‰n kuoli oman syyllisyytens‰ takia,
+-- ei ole olemassa mit‰‰n perustetta siihen, niin usein kuin sit‰ onkin
+v‰itetty, ett‰ h‰n kuoli toisten syntien takia. --
+
+
+
+
+28.
+
+
+Aivan toinen asia on, tiesikˆ h‰n yleens‰ tuollaisesta vastakohdasta,
+-- eikˆ h‰nt‰ vain _k‰sitetty_ t‰ksi vastakohdaksi. Ja t‰ss‰ vasta
+kosketan _lunastajan psykologian_ probleemia. -- Tunnustan, ett‰
+harvojen kirjojen lukeminen tuottaa minulle sellaisia vaikeuksia kuin
+evankeliumien. N‰m‰ vaikeudet ovat toisia, kuin ne, joiden
+osoittamisessa saksalaisen hengen oppinut uteliaisuus on viett‰nyt
+yhden unhoittumattomimmista voitoistaan. Siit‰ on kauan kun min‰kin,
+jokaisen nuoren oppineen lailla, sulatin raffineeratun filoloogin
+viisaalla hitaudella perinpohjin verrattoman Straussin teoksen. Silloin
+olin kaksikymmenvuotias: nyt olen liian vakava sellaiseen. Mit‰
+kuuluvat minulle "traditsioonien" ristiriitaisuudet? Kuinka yleens‰
+voidaan kutsua pyhimystaruja "traditsiooniksi!" Pyhimyshistoriat ovat
+arveluttavinta kirjallisuutta, mit‰ yleens‰ on olemassa: sovittaa
+niihin tieteellinen metoodi, _kun muita l‰hdekirjoja ei ole tarjolla_,
+n‰ytt‰‰ minusta olevan alusta alkain tuomittu -- vain oppineeksi
+ajankulukkeeksi...
+
+
+
+
+29.
+
+
+Lunastajan psykolooginen tyyppi on se, mik‰ kuuluu _minulle. Se voisi_
+sis‰lty‰ evankeliumeihin evankeliumeista huolimatta, vaikkakin sit‰ on
+typistetty ja kasattu siihen vieraita piirteit‰: kuten Fransiscus
+Assisilaisen tyyppi on s‰ilynyt legendoissa h‰nest‰, huolimatta
+legendoista, jotka koskevat h‰nt‰. Ei totuus siit‰, mit‰ h‰n teki, mit‰
+h‰n sanoi, kuinka h‰n oikeastaan kuoli: vaan kysymys, _onko_ yleens‰
+viel‰ mahdollista synnytt‰‰ h‰nen tyyppi‰‰n, onko se s‰ilynyt
+"traditsioonissa"? -- Kokeet, jotka tunnen, etsi‰ evankeliumeista
+sielun _tarinaakin_, n‰ytt‰v‰t minusta todistavan inhoittavaa
+psykoloogista kevytmielisyytt‰. Herra Renan, t‰m‰ ilveilij‰
+psykoloogien joukossa, on ottanut avukseen Jeesuksen tyyppi‰
+selitt‰ess‰‰n kaksi _sopimattominta_ k‰sitett‰, mit‰ t‰h‰n
+tarkoitukseen voi olla: k‰sitteen _nero_ ja k‰sitteen _sankari_
+("hÈros"). Jos mik‰‰n, niin k‰site sankari on ep‰evankeelista. Juuri
+kaiken taistelevan, kaikkien taistelutunteiden vastakohta on k‰ynyt
+t‰‰ll‰ vaistoksi: kykenem‰ttˆmyys vastarintaan k‰y t‰‰ll‰ moraaliksi
+("‰l‰ seiso pahaa vastaan" on evankeliumien syvin sana, niiden
+avain er‰‰ss‰ suhteessa), autuus on rauhassa, lempeydess‰,
+kykenem‰ttˆmyydess‰ _voida_ olla vihollinen. Mit‰ merkitsee "iloinen
+sanoma"? Tosi el‰m‰, iankaikkinen el‰m‰ on lˆydetty -- sit‰ ei luvata,
+se on t‰‰ll‰, se on _teiss‰_: el‰m‰n‰ rakkaudessa, rakkaudessa
+tinkim‰tt‰ ja erottamatta, ilman v‰limatkaa. Jokainen on jumalan lapsi
+-- Jeesus ei vaadi lainkaan mit‰‰n erikoista itselleen --, jumalan
+lapsena on jokainen toisensa arvoinen... Tehd‰ Jeesuksesta _sankari_!
+-- Ja mink‰lainen erhetys onkaan sana "_nero_"! Koko meid‰n
+k‰sitteell‰mme, kultuurik‰sitteell‰mme "henki" ei ole siin‰ maailmassa,
+miss‰ Jeesus el‰‰, v‰hint‰k‰‰n merkityst‰. Fysioloogin ankaruudella
+puhuen, olisi kokonaan toinen sana t‰‰ll‰ paremmin paikallaan... Me
+tunnemme _tuntoaistin_ sairaloisen ‰rtyisyyden er‰‰n tilan, joka
+silloin kauhistuen pakenee jokaista kosketusta, jokaista tarttumista
+kiinte‰‰n kappaleeseen. K‰‰nnett‰kˆˆn tuollainen fysiolooginen
+_habitus_ sen viimeisess‰ logiikassa -- vaistovihana kaikkea
+todellisuutta kohtaan, pakona "k‰sitt‰m‰ttˆm‰‰n", "tajuamattomaan",
+vastenmielisyyten‰ jokaista kaavaa kohtaan, jokaista aika- ja
+paikkak‰sitett‰, kaikkea kohtaan, mik‰ on kiinte‰‰, mik‰ on tapaa,
+laitosta, kirkkoa, koteutumisena maailmaan, minne mink‰‰nlainen
+todellisuus ei en‰‰ ulotu, kokonaan "sis‰lliseen" maailmaan,
+"tosi"-maailmaan, "iankaikkiseen" maailmaan -- "Jumalan valtakunta on
+_teiss‰_"...
+
+
+
+
+30.
+
+
+_Vaistoviha todellisuutta kohtaan_: Seuraus ‰‰rimm‰isest‰ kyvyst‰
+tuntea tuskaa ja ‰rtyisyytt‰, joka ei yleens‰ en‰‰ tahdo tulla
+"kosketetuksi", koska se tuntee jokaisen kosketuksen liian syv‰sti.
+
+_Kaiken vastenmielisyyden, kaiken vihollisuuden, kaikkien rajojen ja
+v‰limatkojen vaistomainen eroittaminen tunteesta_: Seuraus
+‰‰rimm‰isest‰ kyvyst‰ tuntea tuskaa ja ‰rtyisyytt‰, joka tuntee
+jokaisen vastarinnan, pakon vastarintaan siet‰m‰ttˆm‰n‰
+vastenmielisyyten‰, (s.o. vahingollisena, sellaisena, jonka
+itses‰ilytysvaisto kielt‰‰) ja tuntee autuuden (halun) ainoastaan
+siin‰, ett‰ ei tee en‰‰ vastarintaa, ei kenellek‰‰n, ei pahalle
+eik‰ _pahan_ olennolle, -- rakkauden ainoana, _viimeisen‰_
+el‰mismahdollisuutena...
+
+N‰m‰ ovat ne kaksi _fysioloogista realiteettia_, joiden varassa ja
+joista lunastusoppi on noussut. Kutsun sit‰ hedonismin ylev‰ksi
+edelleenkehittymiseksi kokonaan sairaloisella perustuksella. Sen l‰hin
+sukulainen on, vaikkakin kreikkalainen elinvoima ja hermovoima suurena
+lis‰n‰, epikuurolaisuus, pakanuuden lunastusoppi. Epikur _tyypillinen
+dekadentti_: min‰ vasta h‰net tunsin sellaiseksi. -- Tuskan pelko,
+viel‰p‰ ‰‰rettˆm‰n pienen tuskan -- se ei voi p‰‰tty‰ muuhun kuin
+rakkauden uskontoon...
+
+
+
+
+31.
+
+
+Olen vastannut ennakolta probleemiin. Edellytyksen‰ t‰h‰n vastaukseen
+on, ett‰ lunastajan tyyppi on s‰ilynyt meille hyvin v‰‰rennellyss‰
+muodossa. T‰ss‰ v‰‰rennyksess‰ on paljon todenn‰kˆisyytt‰: sellainen
+tyyppi ei voisi useista syist‰ pysy‰ puhtaana, kokonaisena, lis‰yksist‰
+vapaana. Sek‰ sen ymp‰ristˆn, jossa t‰m‰ vieras olento liikkui, ett‰
+viel‰ enemm‰n ensim‰isen kristillisen seurakunnan historian, sen
+kohtalon, on t‰ytynyt j‰tt‰‰ h‰neen j‰lkens‰: ymp‰rˆivien olosuhteiden
+vastavaikutus lis‰si tyyppiin piirteit‰, jotka vasta taistelu ja
+opinlevitt‰mistarkoitukset selitt‰v‰t. Tuon kummallisen ja sairaan
+maailman, minne evankeliumit viev‰t meid‰t -- maailman, joka on
+ik‰‰nkuin ven‰l‰isest‰ romaanista otettu ja johon yhteiskunnan hylyt,
+hermosairaat, lapset ja mielipuolet n‰ytt‰v‰t kokoontuvan -- on
+t‰ytynyt tehd‰ tyyppi kaikissa kohdissa _karkeammaksi_: vallankin
+ensim‰iset opetuslapset k‰‰nt‰v‰t omaan kruditeettiinsa kokonaan
+symboolissa ja ep‰aistillisuudessa uivan olemassaolon, ennenkuin
+ymm‰rt‰v‰t mit‰‰n siit‰, -- heille oli tyyppi _tarjona_ vasta sitten
+kuin se oli muodostettu tutumpiin muotoihin... Profeetta, Messias,
+tulevainen tuomari, moraaliopettaja, ihmeittentekij‰, Johannes kastaja
+-- niin monta tilaisuutta tuntea tyyppi v‰‰rin... Ja lopuksi ‰lk‰‰mme
+v‰heksikˆ sit‰ mik‰ on ominaista kaikelle suurelle, nimitt‰in
+lahkolaisten jumaloimista: se eroittaa jumaloidusta olennosta
+alkuper‰iset, usein tuskallisen vieraat piirteet ja luontoper‰iset
+taipumukset -- _se ei n‰e edes niit‰_. Valitettavasti ei mik‰‰n
+Dostojewski ole el‰nyt t‰m‰n mielt‰kiinnitt‰vimm‰n dekadentin
+l‰heisyydess‰ -- tarkoitan joku, joka olisi k‰sitt‰nyt valtavan
+vieh‰tyksen t‰llaisessa ylevyyden, sairauden ja lapsellisuuden
+sekoituksessa. Viimeinen n‰kˆkohta: tyyppi olisi dekadensityyppin‰
+todellakin _voinut_ olla ristiriitaisuuksien moninaisuus ja runsaus:
+t‰llainen mahdollisuus ei ole kokonaan poistettu. Ja kuitenkin kielt‰‰
+kaikki sellaisen otaksuman: juuri traditsiooni olisi siin‰ tapauksessa
+ollut merkillisen tarkka ja objektiivinen: meill‰ on senvuoksi syyt‰
+otaksua p‰invastaista. Toisinaan ammottaa ristiriita vuori-, meri- ja
+kentt‰saarnaajan v‰lill‰, jonka hahmo on miellytt‰v‰ kuin Buddha hyvin
+v‰h‰n intialaisella maaper‰ll‰, ja rynt‰ysfanaatikon, teoloogien ja
+pappien verivihollisen, jonka Renanin h‰ijyys on ihannoinut "_ivan
+suureksi mestariksi_". Omasta puolestani en ep‰ile, ett‰ tuo runsas
+m‰‰r‰ sappea (ja viel‰p‰ _esprit‰_) vasta kiihoitetusta kristillisest‰
+propagandasta on siirtynyt mestarin tyyppiin: tunnetaanhan kylliksi
+kaikkien lahkolaisten empim‰ttˆmyys, kun he tahtovat mestaristaan tehd‰
+apologiansa. Kun ensim‰inen seurakunta tarvitsi tuomitsevaa,
+riitelev‰‰, ‰rtyis‰‰ ja ilke‰n viisastelevaa teoloogia, teoloogeja
+_vastaan, loi_ se itselleen "jumalansa" tarpeensa mukaiseksi: kuten se
+myˆs empim‰tt‰ asetti h‰nen suuhunsa n‰m‰ kokonaan ep‰evankeeliset
+k‰sitteet, joita ilman se nyt ei voinut olla, "takaisintulo",
+"viimeinen tuomio", kaikenlaisia ajallisia toiveita ja lupauksia. --
+
+
+
+
+32.
+
+
+Min‰ vastustan, sanottakoon se viel‰ kerran, fanaatikon yhdist‰mist‰
+lunastajan tyyppiin: sana _impÈrieux_, jota Renan on k‰ytt‰nyt,
+_peruuttaa_ jo yksin tyypin. "_Hyv‰_ sanoma" on juuri siin‰, ett‰ ei
+en‰‰ ole olemassa vastakohtia; taivaanvaltakunta kuuluu _lapsille_;
+usko, joka t‰‰ll‰ ilmenee, ei ole mik‰‰n taistelemalla saavutettu usko,
+-- se on t‰‰ll‰, se on alusta alkaen, se on ik‰‰nkuin takaisin
+henkisyyteen vet‰ytynyt lapsellisuus. Myˆh‰stynyt ja organismissa
+kehittym‰tˆn mieskuntoisuus sukurappeutumisen seurausilmiˆn‰ ei ole
+ainakaan fysioloogeille tuntematon. -- Sellainen usko ei vihaa, ei
+moiti, ei puolusta itse‰‰n: se ei kanna miekkaa, se ei lainkaan
+aavista, miss‰ m‰‰r‰ss‰ se kerran on voiva hajoittaa. Se ei todista
+itse‰‰n, ei ihmetˆill‰ eik‰ palkalla ja lupauksella, ei edes "sanalla":
+se on joka hetki itse oma ihmetyˆns‰, oma palkkansa, oma todistuksensa,
+oma "jumalan valtakuntansa". T‰m‰ usko ei myˆsk‰‰n muodostu sanoiksi --
+se el‰‰, se puolustaa itse‰‰n kaavoja vastaan. Tosin m‰‰r‰‰ satunnainen
+ymp‰ristˆ, kieli, esikuva m‰‰r‰tyn alan k‰sitteit‰: ensim‰inen
+kristinusko k‰sittelee _ainoastaan_ juutalais-seemil‰isi‰ k‰sitteit‰
+(-- syˆminen ja juominen ehtoollisessa kuuluu t‰h‰n, t‰m‰ kirkon, kuten
+kaiken juutalaisen, niin h‰pe‰llisesti v‰‰rink‰ytt‰m‰ k‰site). Mutta
+kavahdettakoon, ettei siin‰ n‰hd‰ enemp‰‰ kuin merkkipuhe, semiotiikka,
+tilaisuus vertauskuviin. Juuri se, ettei yht‰‰n sanaa oteta sanan
+mukaan, on ensi ehto, ett‰ t‰m‰ antirealisti yleens‰ voi puhua.
+Intialaisten joukossa h‰n olisi k‰ytt‰nyt Sankhyam-k‰sitteit‰,
+kiinalaisten keskuudessa Laotsen -- tuntematta niiss‰ mit‰‰n
+eroavaisuutta. -- Jeesusta voisi, jonkunlaisella suvaitsevaisuudella
+ilmaisumuodossa, kutsua "vapaaksi hengeksi" -- h‰n j‰tt‰‰ huomioon
+ottamatta kaiken kiinte‰n: sana _surmaa_, kaikki mik‰ on kiinte‰‰,
+_surmaa_. K‰site, _kokemus_ "el‰m‰", jollaisena h‰n sen tuntee,
+vastustaa h‰ness‰ sanan, kaavan, s‰‰nnˆn, uskon, dogmin jokaista lajia.
+H‰n puhuu vain sisimm‰st‰: "el‰m‰" tai "totuus" tai "valo" ovat h‰nen
+sanojaan sisimm‰st‰, -- kaikella muulla, koko todellisuudella, koko
+luonnolla, itse kielell‰ on h‰nelle vain merkin, vertauksen arvo. --
+T‰ss‰ kohdassa ei saa erehty‰, niin suuri kuin se houkutus onkin, joka
+on kristillisess‰, s.o. _kirkollisessa_ ennakkoluulossa: sellainen
+symboliikka _par excellence_ on ulkopuolella kaikkea uskontoa, kaikkia
+kultuurik‰sitteit‰, kaikkea historiaa, kaikkea luonnontiedett‰, kaikkea
+maailmankokemusta, kaikkia tietoja, kaikkea politiikkaa, kaikkea
+psykologiaa, kaikkia kirjoja, kaikkea taidetta -- h‰nen "tiet‰misens‰"
+on juuri _puhdas hulluus_ sen suhteen, ett‰ on olemassa jotakin
+sellaista. _Kultuuria_ h‰n ei tunne edes huhujen kautta, h‰nen ei
+tarvitse taistella sit‰ vastaan, -- h‰n ei kiell‰ sit‰... Sama koskee
+_valtiota_, koko yhteiskunnallista j‰rjestyst‰, _tyˆt‰_, sotaa, h‰nell‰
+ei ole milloinkaan ollut syyt‰ kielt‰‰ "maailmaa", h‰n ei ole
+milloinkaan aavistanut kirkollista k‰sitett‰ "maailma"... _Kielt‰minen_
+juuri on h‰nelle t‰ydellinen mahdottomuus. Samoin h‰nelt‰ puuttuu
+dialektiikkaa, h‰nell‰ ei ole k‰sityst‰k‰‰n siit‰, ett‰ "usko",
+"totuus" voitaisiin todistaa syill‰ (-- sen todistuksia ovat sis‰iset
+"valot", sis‰iset haluntunteet ja itsens‰myˆnt‰minen, pelkki‰ "voiman
+todistuksia" --). Sellainen oppi ei voikaan vastustaa, se ei lainkaan
+ymm‰rr‰, ett‰ on olemassa, ett‰ _voi_ olla olemassa toisia oppeja, se
+ei kykene kuvittelemaan vastakkaista mielipidett‰... Miss‰ se tapaa
+sen, on se syvimm‰ll‰ myˆt‰tunnolla sureva "sokeutta" -- sill‰ se n‰kee
+"valon" --, mutta ei ole tekev‰ mit‰‰n vastustusta...
+
+
+
+33.
+
+
+"Evankeliumin" koko psykologiasta puuttuu k‰site syyllisyys ja
+rangaistus; samoin k‰site palkka. "Synti", jokainen v‰limatkasuhde
+jumalan ja ihmisen v‰lill‰ on poistettu, -- _t‰m‰ juuri on "iloinen
+sanoma"_. Autuutta ei luvata, sit‰ ei solmita ehtoihin: se on _ainoa_
+realiteetti-j‰‰nnˆs, puhuaksemme siit‰, on merkki‰...
+
+Sellaisen tilan _seuraus_ projiseerautuu uuteen _k‰yt‰ntˆˆn_,
+varsinaiseen evankeeliseen k‰yt‰ntˆˆn. Ei "usko" tee kristitty‰ muita
+erilaiseksi: kristitty toimii, h‰n erottaa itsens‰ muista _toisella_
+menettelytavalla. Senkautta, ett‰ h‰n ei tee vastarintaa sanoilla eik‰
+syd‰mess‰‰n sille, joka tekee h‰nelle pahaa. Senkautta, ett‰
+h‰n ei tee mit‰‰n eroa vieraan ja kotimaisen v‰lill‰, juutalaisen ja
+ei-juutalaisen v‰lill‰ ("l‰himm‰inen" on oikeastaan samanuskoinen,
+juutalainen). Ett‰ h‰n ei suutu kehenk‰‰n, ei halveksi ket‰‰n. Ett‰ h‰n
+ei j‰t‰ milloinkaan asiaansa tuomioistuimen ratkaistavaksi ("‰lk‰‰
+vannoko"). Ett‰ h‰n ei miss‰‰n olosuhteissa, ei edes silloin, kun on
+todistettu aviovaimon uskottomuus, eroa vaimostaan. -- Kaikki
+oikeastaan samaa p‰‰telm‰‰, kaikki saman vaiston seurauksia. --
+
+Lunastajan el‰m‰ ei ollut mit‰‰n muuta kuin _t‰t‰_ k‰yt‰ntˆ‰,
+-- h‰nen kuolemansa ei myˆsk‰‰n ollut muuta... H‰n ei tarvinnut en‰‰
+mit‰‰n kaavoja, mit‰‰n juhlamenoja kanssak‰ymiseen jumalan kanssa
+-- ei edes rukousta. H‰n on j‰tt‰nyt pois laskusta koko juutalaisen
+katumus- ja sovitusopin; h‰n tiet‰‰, kuinka yksin on el‰m‰n
+_k‰yt‰ntˆ_, mitenk‰ tuntee itsens‰ "jumalalliseksi", "autuaaksi",
+"evankeeliseksi", joka hetki "jumalan lapseksi". Ei "katumus", ei
+"rukous anteeksiantamuksesta" ole teit‰ jumalan tykˆ: _evankeelinen
+k‰yt‰ntˆ yksin_ johtaa jumalan luo, se on juuri "jumala". --
+Evankeliumilla oli poistettu juutalaiset k‰sitteet "synti", "syntien
+anteeksiantamus", "usko", "lunastus uskon kautta", -- koko juutalainen
+_kirkko_-oppi oli kielletty "iloisessa sanomassa".
+
+Syv‰ vaisto siit‰, kuinka tulee _el‰‰_ tunteakseen "olevansa
+taivaassa", tunteakseen itsens‰ "iankaikkiseksi", tunne siit‰, ett‰ ei
+miss‰‰n muussa tilassa suinkaan tunne "olevansa taivaassa": t‰m‰ yksin
+on "lunastuksen" psykolooginen realiteetti. Uusi muutos, ei uusi
+usko...
+
+
+
+
+34.
+
+
+Jos min‰ ymm‰rr‰n mit‰‰n t‰st‰ suuresta symbolistista, niin se on, ett‰
+h‰n piti vain _sis‰isi‰_ realiteetteja realiteetteina, "totuuksina", --
+ett‰ h‰n k‰sitti loput, kaiken mik‰ koski luontoa, aikaa, paikkaa,
+historiaa, vain merkkein‰, tilaisuutena vertauksiin. K‰site "ihmisen
+poika" ei ole konkreettinen persona, joka kuuluu historiaan, se ei ole
+mik‰‰n yksityinen, ainoastaan kerran sattuva, vaan "iankaikkinen"
+todenper‰isyys, aikak‰sitteest‰ vapautettu psykolooginen symbooli. T‰m‰
+sama koskee viel‰ kerran, ja korkeimmassa merkityksess‰, t‰m‰n
+tyypillisen symbolistin _jumalaa_, "jumalan valtakuntaa",
+"taivaanvaltakuntaa", oikeutta olla "jumalan lapsi". Mik‰‰n ei ole
+ep‰kristillisemp‰‰ kuin kirkolliset kruditeetit jumalasta
+_personana_, "jumalan valtakunnasta", joka _tulee, tuonpuolisesta_
+"taivaanvaltakunnasta", "jumalan pojasta", kolminaisuuden _toisesta
+persoonasta_. T‰m‰ kaikki on -- suotakoon lausetapa anteeksi --
+_nyrkki_ vasten evankeliumin silmi‰ -- oi, mit‰ silmi‰!: --
+maailmanhistoriallinen kynismi symboolin pilkkaamisessa... Onhan
+k‰sill‰, mit‰ merkill‰ "is‰" ja "poika" tarkoitetaan -- vaikka ei
+jokaisen k‰sill‰, myˆnn‰n sen kyll‰: sanalla "poika" ilmaistaan
+_p‰‰sy‰_ kaikkien olioiden tunteeseen t‰ydellisest‰ kirkastuksesta
+(autuus), ja sanalla "is‰" _itse t‰t‰ tunnetta_, iankaikkisuus-,
+t‰ydellistymistunnetta. -- H‰pe‰n muistaa sit‰, mit‰ kirkko on tehnyt
+t‰st‰ symbolismista: eikˆ se ole asettanut Amfitryoni-kertomusta
+kristillisen "uskon" kynnykselle? Ja uskonkappaletta "saastattomasta
+siki‰misest‰" sen lis‰ksi?... _Mutta sill‰ se on saastuttanut
+siki‰misen_ --.
+
+"Taivaanvaltakunta" on er‰s syd‰men tila -- ei mik‰‰n "yl‰puolella
+maata" oleva tai "kuoleman j‰lkeen" tuleva. Luonnollisen kuoleman
+k‰site _puuttuu_ kokonaan evankeliumista: kuolema ei ole mik‰‰n silta,
+ei mik‰‰n ylimeno, sit‰ ei ole olemassa, koska se kuuluu kokonaan
+toiseen, vain silminn‰ht‰v‰‰n, vain merkiksi kelpaavaan maailmaan.
+"Kuolinhetki" ei ole mik‰‰n kristillinen k‰site -- "hetke‰", aikaa,
+fyysillist‰ el‰m‰‰ ja sen k‰‰nteit‰ ei ole lainkaan olemassa "iloisen
+sanoman" opettajalle... "Jumalan valtakuntaa" ei odoteta; sill‰ ei ole
+mit‰‰n eilist‰ eik‰ ylihuomista, se ei tule "tuhannessa vuodessa" -- se
+on syd‰men kokemus; se on kaikkialla eik‰ miss‰‰n...
+
+
+
+
+35.
+
+
+T‰m‰ "iloinen sanansaattaja" kuoli kuten h‰n eli, kuten h‰n _opetti_ --
+ei "lunastaakseen ihmiset", vaan n‰ytt‰‰kseen, kuinka tulee el‰‰. Se on
+k‰yt‰ntˆ, mink‰ h‰n j‰tti ihmiskunnalle: h‰nen menettelyns‰ tuomarien
+edess‰, vartiain edess‰, syytt‰jien ja kaiken pilkan ja ivan edess‰, --
+h‰nen menettelyns‰ ristill‰. H‰n ei tee vastarintaa, h‰n ei puolusta
+oikeuttaan, h‰n ei ota askeltakaan, joka torjuisi ‰‰rimm‰isen h‰nest‰,
+p‰invastoin, _h‰n vaatii sit‰_... Ja h‰n rukoilee, h‰n k‰rsii, h‰n
+rakastaa niiden kanssa, _niiss‰_, jotka tekev‰t h‰nelle pahaa... Ei
+puolustaa itse‰‰n, ei vihastua, _ei_ vaatia edesvastuuseen... Ei edes
+seisoa pahaa vastaan, -- _rakastaa_ sit‰...
+
+
+
+
+36.
+
+
+Vasta meill‰, meill‰ _vapautuneilla_ hengill‰, on edellytys ymm‰rt‰‰,
+mit‰ yhdeks‰ntoista vuosisataa on v‰‰rinymm‰rt‰nyt, -- meill‰ on se
+vaistoksi ja intohimoksi k‰ynyt rehellisyys, joka vastustaa "pyh‰‰
+valhetta" enemm‰n kuin mit‰‰n muuta valhetta... On oltu ‰‰rettˆm‰n
+kaukana meid‰n rakastavasta ja varovaisesta puolueettomuudestamme,
+t‰st‰ hengen kurista, jonka kautta niin vieraiden, niin arkojen
+asioiden arvaaminen k‰y mahdolliseksi: on alati, h‰pe‰m‰ttˆm‰ll‰
+itsekk‰isyydell‰, tahdottu niist‰ vain _omaa_ etua, evankeliumin
+vastakohdasta on rakennettu _kirkko_...
+
+Ken etsisi merkki‰ siit‰, ett‰ irooninen jumaluus johtaa lankoja suuren
+maailmanpelin takana, h‰n ei saisi luulolleen pienint‰k‰‰n tukea siit‰
+_‰‰rettˆm‰st‰ kysymysmerkist‰_, jonka nimi on kristinoppi. Ett‰
+ihmiskunta on polvillaan evankeliumin synnyn, tarkoituksen, _oikeuden_
+vastakohdan edess‰, ett‰ se "kirkko" k‰sitteess‰ on julistanut pyh‰ksi
+juuri sen, mink‰ "iloinen sanansaattaja" tunsi olevan _allaan,
+takanaan_ -- turhaan etsit‰‰n _maailmanhistoriallisen ironian_
+suurempaa muotoa --
+
+
+
+
+37.
+
+
+Meid‰n aikamme on ylpe‰ historiallisesta aististaan: kuinka se on
+voinut pit‰‰ uskottavana sellaista mielettˆmyytt‰, ett‰ _karkea
+ihmeentekij‰ ja lunastajataru_ olisi kristinopin alku, -- ja ett‰
+kaikki henkinen ja symboolinen olisi vasta myˆhemp‰‰ kehityst‰?
+P‰invastoin: kristinopin historia ristinkuolemasta saakka -- on askel
+askeleelta _alkuper‰isen_ symbolismin yh‰ karkeamman v‰‰rinymm‰rt‰misen
+historiaa. Sit‰ mukaan kuin kristinoppi levisi yh‰ laajempien, yh‰
+raaempien joukkojen keskuuteen, joilta puuttui yh‰ enemm‰n niit‰
+edellytyksi‰, jotka olivat synnytt‰neet sen, k‰vi v‰ltt‰m‰ttˆm‰mm‰ksi
+tehd‰ kristinoppi _alhaiseksi, raa'aksi_, -- se on niellyt _imperium
+Romanumin_ kaikkien _maanalaisten_ kulttien oppeja ja juhlamenoja, se
+on niellyt sairaan j‰rjen kaikkien ilmestysten mielettˆmyyden.
+Kristinopin kohtalo on siin‰ v‰ltt‰m‰ttˆmyydess‰, ett‰ itse sen uskon
+t‰ytyi tulla niin sairaaksi, niin alhaiseksi ja jokap‰iv‰iseksi kuin ne
+tarpeet, joita se oli aiottu tyydytt‰m‰‰n. Kirkkona kokoontuu _sairas
+barbaria_ viimein vallaksi, -- kirkko, t‰m‰ verivihollisuuden muoto
+kaikkea rehellisyytt‰ kohtaan, jokaista sielun _korkeutta_ kohtaan,
+jokaista hengen kuria kohtaan, jokaista rohkeamielist‰ ja lempe‰‰
+ihmisyytt‰ kohtaan. -- Kristilliset ja _ylh‰iset_ arvot: vasta me, me
+_vapautuneet_ henget, olemme j‰lleen luoneet esiin vastakohdan niiss‰,
+suurimman arvovastakohdan, mit‰ on olemassa! --
+
+
+
+
+38.
+
+
+-- T‰ss‰ kohdassa en voi olla huokaamatta. On p‰ivi‰, jolloin minut
+valtaa tunne, mustempi kuin mustin alakuloisuus -- _ihmisen
+halveksiminen_. Ja jotta ei olisi ep‰ily‰k‰‰n siit‰, _mit‰_ min‰
+halveksin, _ket‰_ min‰ halveksin: nykyajan ihmist‰, ihmist‰, jonka
+aikalainen min‰ valitettavasti kyll‰ olen. Nykyajan ihminen -- min‰
+tukehdun h‰nen saastaisesta hengityksest‰‰n... Menneisyytt‰ kohtaan
+min‰ tunnen, kuten kaikki tiet‰v‰iset, suurta suvaitsevaisuutta, s.o.
+_ylev‰mielist‰_ itseni hillitsemist‰: synk‰ll‰ varovaisuudella min‰
+kuljen l‰pi vuosituhansien hourujenhuonemaailman, kutsuttakoonpa sit‰
+nyt "kristinopiksi", "kristilliseksi uskoksi" tai "kristilliseksi
+kirkoksi", min‰ varon asettamasta ihmiskuntaa edesvastuuseen sen
+henkisist‰ sairauksista. Mutta minun tunteeni muuttuu yht'‰kki‰,
+tunkeutuu esiin, heti kun astun uudempaan aikaan, _meid‰n_ aikaamme.
+Meid‰n aikamme on _tiet‰v‰inen_... Mik‰ ennen oli vain sairasta, se on
+nyt k‰ynyt s‰‰dyttˆm‰ksi, -- on s‰‰dytˆnt‰ nyky‰‰n olla kristitty. _Ja
+t‰ss‰ alkaa minun inhoni_. Katselen ymp‰rilleni: ei sanaakaan ole en‰‰
+siit‰ j‰ljell‰, mik‰ muinoin oli "totuutta", me emme sied‰ edes en‰‰
+papin puhuvankaan "totuudesta". Siivoimmillakin rehellisyyden
+vaatimuksilla _t‰ytyy_ t‰n‰‰n tiet‰‰, ett‰ teoloogi, pappi, paavi
+jokaisessa lauseessaan _valhettelee_, eik‰ vain erehdy, -- ett‰
+h‰nen vallassaan ei en‰‰ ole valhetella "viattomuudesta",
+"tiet‰m‰ttˆmyydest‰". Pappi tiet‰‰, yht‰ hyvin kuin joku toinenkin,
+ett‰ ei en‰‰ ole "jumalaa", ei "syntist‰", ei "lunastajaa", -- ett‰
+"vapaa tahto", "siveellinen maailmanj‰rjestys" ovat _valhetta_: --
+vakavuus, hengen syv‰ itsens‰voittaminen ei salli en‰‰ kenenk‰‰n olla
+t‰st‰ tiet‰m‰tˆn... _Kaikki_ kirkon k‰sitteet tunnetaan sellaisiksi
+kuin ne ovat: ilkeimp‰n‰ v‰‰ristelyn‰ mit‰ on olemassa, tarkoituksella
+tehd‰ luonto, luonnonarvot _arvottomaksi_; pappi itse tunnetaan
+sellaiseksi kuin h‰n on: vaarallisimpana loislajina, el‰m‰n
+varsinaisena myrkkyh‰m‰h‰kkin‰... Me tied‰mme, meid‰n omatuntomme
+tiet‰‰ t‰n‰‰n, -- _mink‰_ arvoisia nuo papin ja kirkon kauhistuttavat
+keksinnˆt ovat, _mik‰ arvo niille on annettava_, keksinnˆille, joilla
+on saavutettu tuo ihmiskunnan iljett‰v‰ itsesaastutustila, joka voi
+tehd‰ sen n‰kemisen inhoittavaksi -- k‰sitteet "tuollapuolen",
+"viimeinen tuomio", "sielun kuolemattomuus", "sielu" itse ovat
+kidutuskoneita, ovat j‰rjestelm‰llist‰ julmuuksia, joiden avulla pappi
+tuli herraksi, j‰i herraksi... Jokainen tiet‰‰ sen: _ja siit‰
+huolimatta j‰‰ kaikki entiselleen_. Minne on joutunut siivouden,
+itsekunnioituksen viimeinen tunne, kun valtiomiehemmekin, muutoin hyvin
+ennakkoluulottomat ihmiset ja kauttaaltaan toiminnan antikristukset,
+kutsuvat itse‰‰n viel‰ t‰n‰‰n kristityiksi ja k‰yv‰t ehtoollisella?...
+Ruhtinas hallituksensa etunen‰ss‰, loistavana kansansa itsetunnon ja
+itseylpeyden ilmaisuna, -- mutta h‰pe‰m‰tt‰ tunnustaa itsens‰
+kristityksi!... _Kenenk‰_ sitten kristinoppi kielt‰‰? _Mit‰_ se kutsuu
+"maailmaksi"? Olla sotamies, olla tuomari, olla is‰nmaanyst‰v‰;
+itsens‰puolustaja; pit‰‰ kunniastaan; tahtoa omaa parastaan; olla
+_ylpe‰_... Jokaisen hetken vaatima yritteli‰isyys, jokainen vaisto,
+jokainen toiminnaksi muuttuva arvioiminen on t‰n‰‰n antikristillist‰:
+mink‰lainen _valheellisuuden ep‰sikiˆ_ onkaan nykyajan ihminen, kun h‰n
+siit‰ huolimatta _ei h‰pe‰_ viel‰ olla kristitty! --
+
+
+
+
+39.
+
+
+-- Min‰ palaan takaisin, kerron kristinopin _oikean_ historian. Jo sana
+"kristinusko" on v‰‰rink‰sitys oikeastaan on ollut vain yksi ainoa
+kristitty, ja h‰n kuoli ristill‰. "Evankeliumi" _kuoli_ ristill‰. T‰st‰
+hetkest‰ l‰htien on kaikki, mit‰ evankeliumiksi kutsutaan, ainoastaan
+sen vastakohta, mit‰ h‰n el‰m‰ll‰‰n julisti: _"huono sanoma",
+dysangelium_. On v‰‰r‰‰ aina mielettˆmyyteen saakka, jos "uskossa",
+esim. uskossa Kristuksen lunastukseen n‰hd‰‰n kristityn tunnusmerkki:
+vain kristillinen _k‰yt‰ntˆ_, samallainen el‰m‰ kuin h‰nen, joka kuoli
+ristill‰, on kristillist‰... Viel‰ t‰n‰‰n on _sellainen_ el‰m‰
+mahdollinen, viel‰p‰ _muutamille_ ihmisille v‰ltt‰m‰tˆn: oikea,
+alkuper‰inen kristinoppi on oleva mahdollinen kaikkina aikoina... Ei
+usko, vaan tekeminen, ennen kaikkea j‰tt‰‰ paljon tekem‰tt‰, toinen
+_oleminen_... Tietoinen tila, jokin usko, jonkin totena pit‰minen
+esimerkiksi -- jokainen psykoloogi tiet‰‰ sen -- ovat t‰ydellisesti
+merkityksettˆmi‰ ja toisarvoisia vaistojen arvoon verrattuina:
+ankarammin puhuen on koko k‰site henkinen vaikutin v‰‰r‰. Supistaa
+kristittyn‰ olemisen, kristillisyyden jonkin todeksi uskomiseen,
+puhtaaksi itsetietoisuusilmiˆksi, on kristillisyyden kielt‰mist‰. _Itse
+asiassa ei ole ollut yht‰‰n kristitty‰_. "Kristitty", h‰n, jota kaksi
+vuosituhatta on kutsuttu kristityksi, on vain psykolooginen
+itsens‰v‰‰rinymm‰rt‰minen. Tarkemmin katsellen hallitsivat h‰ness‰,
+kaikesta "uskosta" _huolimatta, vain_ vaistot -- ja _mitk‰ vaistot_! --
+"Usko" oli kaikkina aikoina, esimerkiksi Lutherilla, vain verho,
+tekosyy, _esirippu_, jonka takana vaistot pitiv‰t peli‰‰n, -- viisas
+_sokeus muutamien_ vaistojen herraudesta... "Usko" -- olen kutsunut
+sit‰ jo varsinaiseksi kristilliseksi _viisaudeksi_, -- alati on
+_puhuttu_ "uskosta", alati on _toimittu_ vain vaistosta... Kristityn
+kuvittelu-maailmassa ei esiinny mit‰‰n, joka edes koskettaa
+todellisuutta; sit‰vastoin olemme vaistomaisessa vihassa kaikkea
+todellisuutta kohtaan oppineet tuntemaan kiihottavan, ainoan
+kiihottavan elementin kristinopin juuressa. Mit‰ seuraa siit‰? Ett‰
+t‰‰ll‰ _psykoloogienkin joukossa_ erhetys on radikaali, s.o.
+olennon-m‰‰r‰‰v‰, substansi. Yksi k‰site t‰‰lt‰ pois, yksi ainoa
+realiteetti sen sijaan -- ja koko kristinoppi raukeaa tyhjiin! --
+Ylh‰‰lt‰ katsoen k‰y tuo kaikista tosiasioista oudoin, tuo ei
+ainoastaan erhetysten perustalla syntynyt, vaan _yksinomaan_
+vahingollisissa, _yksinomaan_ el‰m‰‰- ja syd‰nt‰myrkytt‰viss‰
+erhetyksiss‰ kekseli‰s, viel‰p‰ nerokaskin uskonto _n‰ytelm‰ksi
+jumalille_, -- niille jumaluuksille, jotka myˆs ovat filosoofeja, ja
+joita esimerkiksi olen tavannut noissa ylistetyiss‰ kaksinpuheluissa
+Naxolla. Sin‰ hetken‰, jolloin _iljetys_ v‰istyy heid‰n luotaan (-- ja
+meid‰n!), tulevat he kiitollisiksi kristityn n‰ytelm‰st‰: viheli‰inen,
+pieni t‰hti, jonka nimi on maa, ansaitsee miltei yksin t‰m‰n
+kummallisen tapauksen vuoksi jumalallisen katseen, jumalallisen
+osanoton... ƒlk‰‰mme n‰et v‰heksikˆ kristitty‰: kristitty, v‰‰r‰ _aina
+viattomuuteen saakka_, on paljon ylemp‰n‰ apinaa, -- ottaen huomioon
+kristityn, k‰y er‰s tunnettu syntyteoria pelk‰ksi kohteliaisuudeksi...
+
+
+
+
+40.
+
+
+Evankeliumin kohtalo ratkaistiin kuolemalla, -- se riippui "ristill‰".
+Vasta kuolema, tuo odottamaton, h‰pe‰llinen kuolema, vasta risti, joka
+yleens‰ oli aiottu vain roistoja varten, -- vasta t‰m‰ hirvitt‰vin
+paradoksi vei opetuslapset varsinaisen arvoituksen eteen: _"Kuka se
+oli? Mit‰ se oli?"_ -- Se t‰risytti ja loukkasi syvimmin tunnetta,
+ep‰ily siit‰, ett‰ sellainen kuolema voisi olla heid‰n asiansa
+_kumoaminen_, hirvitt‰v‰ kysymysmerkki "miksi juuri niin?" -- t‰m‰n
+tilan ymm‰rt‰‰ vain liian hyvin. T‰‰ll‰ _t‰ytyi_ kaiken olla
+v‰ltt‰m‰tˆnt‰, kaikella olla tarkoitus, j‰rki, korkein j‰rki;
+opetuslapsen rakkaus ei tunne lainkaan sattumaa. Vasta nyt tuli kuilu
+ilmi: "kuka on surmannut h‰net? kuka oli h‰nen luonnollinen
+vihollisensa?" -- t‰m‰ kysymys v‰l‰hti mieliin kuin salama. Vastaus:
+_hallitseva_ juutalaisuus, sen ylin s‰‰ty. T‰st‰ hetkest‰ saakka
+tunnettiin olevan kapinassa j‰rjestyst‰ vastaan, t‰m‰n j‰lkeen
+ymm‰rrettiin Jeesus _kapinalliseksi j‰rjestyst‰ vastaan_. Aina siihen
+saakka _puuttui_ t‰m‰ sotainen, t‰m‰ kielt‰v‰, h‰vitt‰v‰ piirre h‰nen
+kuvastaan; viel‰ enemm‰n, h‰n oli sen vastakohta. Ilmeisesti ei t‰m‰
+pieni seurakunta ole ymm‰rt‰nyt juuri p‰‰asiaa, esikuvallista t‰ss‰
+tavassa kuolla, vapautta kaikista _ressentimenti_tunteista, ylemmyytt‰
+niiden suhteen: -- merkki siit‰, kuinka v‰h‰n he yleens‰ ymm‰rsiv‰t
+h‰nt‰! Itsess‰‰n ei Jeesus voinut kuolemallaan tahtoa muuta kuin antaa
+julkisesti korkeimman esimerkin, _todistuksen opistaan_... Mutta h‰nen
+opetuslapsensa eiv‰t voineet _antaa_ h‰nelle _anteeksi_ t‰t‰ kuolemaa
+-- joka olisi kuitenkin ollut evankeelista korkeimmassa merkityksess‰;
+tai edes _tarjoutua_ syd‰men hiljaisessa ja lempe‰ss‰ rauhassa
+samanlaiseen kuolemaan... Juuri enin ep‰evankeelinen kaikista
+tunteista, _kosto_, p‰‰si j‰lleen valtaan. Asia ei voinut loppua t‰h‰n
+kuolemaan: tarvittiin "kostoa", "tuomiota" (-- ja kuitenkin, mik‰ voi
+olla ep‰evankeelisempaa kuin "kosto", "rangaistus", "istua
+tuomarina"!). Viel‰ kerran tuli etualalle kansanomainen Messiaksen
+odottaminen; katse kiinnitettiin historialliseen hetkeen: "jumalan
+valtakunta" tulee tuomitsemaan vihollisiaan... Mutta t‰ten on kaikki
+ymm‰rretty v‰‰rin: "jumalan valtakunta" loppun‰ytˆksen‰, lupauksena!
+Evankeliumihan oli juuri ollut t‰m‰n "valtakunnan" olemassaolo,
+toteutuminen, _todellisuus_. Juuri sellainen kuolema _oli_ "jumalan
+valtakunta". Nyt vasta sekoitettiin mestarin tyyppiin koko ylenkatse ja
+katkeruus farisealaisia ja teoloogeja kohtaan, h‰nest‰ _tehtiin_ siten
+farisealainen ja teoloogi! Toiselta puolen ei n‰iden hurmautuneiden
+sielujen mieletˆn kunnioitus siet‰nyt en‰‰, ett‰ kaikki olivat
+evankeelisesti yht‰ oikeutettuja olemaan jumalan lapsia, kuten Jeesus
+oli opettanut: heid‰n kostonsa oli hillittˆm‰ll‰ tavalla _korottaa_
+Jeesus, erottaa h‰net itsest‰‰n: aivan kuin juutalaiset muinoin
+kostaakseen vihollisilleen olivat irroittaneet jumalansa itsest‰‰n ja
+nostaneet h‰net korkeuteen. Ainoa jumala ja jumalan ainoa poika:
+molemmat _ressentimenti_tuotteita...
+
+
+
+
+41.
+
+
+-- Ja nyt sukeltautui esiin t‰m‰ mieletˆn probleemi: "kuinka jumala
+_saattoi_ sallia sen!" T‰h‰n lˆysi pienen seurakunnan h‰mmentynyt j‰rki
+t‰m‰n hirvitt‰v‰n mielettˆm‰n vastauksen: jumala antoi poikansa syntien
+anteeksiantamukseksi, _uhriksi_. Minne joutui evankeliumi yhdell‰ er‰‰?
+_Vikauhri_, ja senlis‰ksi iljett‰vimm‰ss‰, barbaarisimmassa muodossaan,
+_viattoman_ uhraaminen syyllisten syntien vuoksi! Mik‰ hirvitt‰v‰
+pakanuus! -- Jeesushan oli poistanut itse k‰sitteen "syy", -- h‰n on
+kielt‰nyt jokaisen kuilun jumalan ja ihmisen v‰lill‰, h‰n teki
+_el‰v‰ksi_ yhteyden jumalan ja ihmisen v‰lill‰ "iloisella
+sanomallaan"... _Eik‰_ etuoikeudella! T‰st‰ l‰htien liittyy lunastajan
+tyyppiin askel askeleelta: oppi tuomiosta ja takaisintulosta, oppi
+kuolemasta uhrikuolemana, oppi _ylˆsnousemuksesta_, jolla koko k‰site
+"autuus", evankeliumin yksi ja ainoa realiteetti, on sukkelasti
+siepattu pois -- er‰‰n tilan hyv‰ksi kuoleman _j‰lkeen_!... Paavali on
+sill‰ rabbiinimaisella h‰vyttˆmyydell‰, joka on h‰nelle kaikissa
+suhteissa ominaista, asettanut t‰m‰n k‰sityksen, t‰m‰n _kevytmielisen_
+k‰sityksen seuraavaan syyper‰iseen yhteyteen: "_jos_ Kristus ei ole
+noussut kuolleista, _niin_ meid‰n uskomme on turha." -- Ja yhdell‰ er‰‰
+tuli evankeliumista halveksittavin kaikista t‰ytt‰m‰ttˆmist‰
+lupauksista, _h‰vytˆn_ oppi personallisesta kuolemattomuudesta...
+Viel‰p‰ Paavali opetti sit‰ _palkkana_!...
+
+
+
+
+42.
+
+
+On selv‰‰, mik‰ p‰‰ttyi ristinkuolemassa: uusi, t‰ydellisesti
+alkuper‰inen halu buddhalaiseen rauhanliikkeeseen, todelliseen, _ei_
+ainoastaan luvattuun _onneen maan p‰‰ll‰_. Sill‰ t‰m‰ j‰‰ -- olen jo
+huomauttanut sen -- peruseroksi n‰iden molempien dekadensiuskontojen
+v‰lill‰: buddhalaisuus ei lupaa, vaan pit‰‰, kristinoppi lupaa kaikki,
+mutta _ei pid‰ mit‰‰n_. -- "Iloista sanomaa" seurasi kintereill‰
+_kaikkein huonoin_: Paavalin sanoma. Paavalissa ruumiillistuu "iloisen
+sanansaattajan" vastakkaistyyppi, vihan, vihan mielikuvan, vihan
+heltym‰ttˆm‰n johdonmukaisuuden nero. _Mit‰_ ei t‰m‰ huonon sanoman
+saattaja olisi vihalle uhrannut! Ennen kaikkea lunastajan: h‰n naulitsi
+h‰net ristiins‰. El‰m‰‰, esimerkki‰, oppia, kuolemaa, koko evankeliumin
+tarkoitusta ja oikeutta -- mit‰‰n ei ollut, paitsi mit‰ t‰m‰ vihan
+kiihoittama v‰‰ristelij‰ k‰sitti, mit‰ h‰n yksin saattoi k‰ytt‰‰. Ei
+realiteettia, _ei_ historiallista totuutta!... Ja viel‰ kerran teki
+juutalaisen pappisvaisto samanlaisen suuren rikoksen historiaa vastaan,
+-- h‰n pyyhki yksinkertaisesti pois kristinopin eilisen ja eilisen
+edellisen, _h‰n keksi itselleen ensim‰isen kristinopin historian_. Ja
+viel‰ enemm‰n: h‰n uudisti -- v‰‰rensi viel‰ kerran Israelin historian,
+jotta se olisi n‰ytt‰nyt _h‰nen_ tekonsa esihistorialta: kaikki
+profeetat ovat puhuneet _h‰nen_ "lunastajastaan"... Myˆhemmin v‰‰rensi
+kirkko ihmiskunnankin historian kristinopin esihistoriaksi...
+Lunastajan tyyppi, oppi, k‰yt‰ntˆ, kuolema, kuoleman tarkoitus, viel‰p‰
+kuoleman j‰lkeinenkin tila -- mik‰‰n ei j‰‰nyt ahdistamatta, mik‰‰n
+ei j‰‰nyt edes todellisuuden kaltaiseksikaan. Paavali asetti
+yksinkertaisesti koko t‰m‰n olemassaolon painopisteen _tuollepuolen_
+t‰t‰ olemassaoloa, -- valheeseen "j‰lleen-ylˆsnousseesta" Jeesuksesta.
+H‰n ei oikeastaan voinut k‰ytt‰‰ lunastajan el‰m‰‰ yleens‰, -- h‰n
+tarvitsi ristinkuolemaa ja jotakin viel‰ lis‰ksi... Paavali oli
+kotoisin stoalaisen valistuksen p‰‰paikasta; -- olisi puhdas joutavuus
+psykoloogin puolelta pit‰‰ h‰nt‰ rehellisen‰, kun h‰n lˆyt‰‰ er‰‰st‰
+harhan‰yst‰ _todistuksen_ lunastajan jatkuvasta el‰m‰st‰, tai edes
+uskoa h‰nen kertomustaan siit‰, ett‰ h‰n on n‰hnyt t‰m‰n harhan‰yn:
+Paavali tahtoi saavuttaa p‰‰maalin, _siis_ tahtoi h‰n myˆs keinon...
+Mit‰ h‰n itse ei uskonut, sen uskoivat ne idiootit, joiden joukkoon h‰n
+heitti oppinsa. -- H‰nen kaipuunsa oli _valta_; Paavalissa tahtoi pappi
+j‰lleen valtaan, -- h‰n saattoi k‰ytt‰‰ vain k‰sitteit‰, oppeja,
+symbooleja, joilla joukkoja pidet‰‰n hirmuvallan alaisina, muodostetaan
+laumoja. _Mit‰_ Muhamed yksin lainasi myˆhemmin kristinopista? Paavalin
+keksinnˆn, h‰nen keinonsa pappishirmuvaltaan, lauman muodostamiseen:
+kuolemattomuususkon -- _se on opin "tuomiosta"_...
+
+
+
+
+43.
+
+
+Ellei aseta el‰m‰n painopistett‰ el‰m‰‰n, vaan "tuollepuolen" --
+"_ei-mihink‰‰n_" --, niin on el‰m‰lt‰ riistetty sen painopiste yleens‰.
+Suuri valhe personallisesta kuolemattomuudesta turmelee kaiken j‰rjen,
+kaiken luonnon vaistossa -- kaikki, mik‰ vaistoissa on terveellist‰,
+el‰m‰‰vaativaa, tulevaisuuttalupaavaa, her‰tt‰‰ nyt ep‰luuloa. _Niin_
+el‰‰, ett‰ siin‰ ei ole en‰‰ mit‰‰n _tarkoitusta, se_ k‰y nyt el‰m‰n
+tarkoitukseksi... Miksi yhteishenke‰, miksi viel‰ kiitollisuutta
+syntyper‰st‰ ja esivanhemmista, miksi yhteistyˆt‰, uskoa, miksi vaatia
+ja pit‰‰ silm‰ll‰ yhteist‰ hyv‰‰?... Kaikki n‰m‰ ovat "kiusauksia",
+kaikki kokeita johtaa pois "oikealta tielt‰" -- "yksi on
+tarpeellinen"... Ett‰ jokainen "kuolemattomana sieluna" on
+samanarvoinen kuin toinen, ett‰ jokaisen yksityisen olennon "lunastus"
+saa suunnattoman suuren merkityksen, ett‰ pienet tekopyh‰t ja
+kolmenelj‰nnes-hourup‰‰t saavat kuvitella, ett‰ luonnonlakeja heid‰n
+takiaan alati _rikotaan_, sellaista ‰‰rettˆmiin, _h‰vyttˆmyyteen_
+saakka kohonnutta itsekk‰isyytt‰ ei voi kyllin suuren ylenkatseen
+h‰pe‰leimalla merkit‰. Ja kuitenkin saa kristinoppi kiitt‰‰
+_voitostaan_ t‰t‰ surkuteltavaa ryˆmimist‰ personallisen turhamaisuuden
+edess‰, -- sill‰ se on houkutellut luokseen kaiken ep‰onnistuneen,
+kapinallisen, rappiolle joutuneen ihmiskunnassa, sen kaiken hylkyroskan
+ja kuonan. "Sielun lunastus" suomeksi: "maailma kiert‰‰ minua".
+_Myrkyllist‰_ oppia "_samat_ oikeudet kaikille" on kristinoppi
+johdonmukaisimmin kylv‰nyt; kristinoppi on huonojen vaistojen
+salaisimmista sopista k‰ynyt sotaa jokaista kunnioitus- ja
+v‰limatkatunnetta vastaan ihmisen ja ihmisen v‰lill‰, s.o. edellytyst‰
+kultuurin jokaista kohottamista, sen elinvoiman jokaista enent‰mist‰
+vastaan, -- se on joukkojen _ressentimentist‰_ takonut itselleen
+_p‰‰aseen meit‰_ vastaan, kaikkea ylh‰ist‰, iloista, ylev‰mielist‰
+vastaan maan p‰‰ll‰, meid‰n onneamme vastaan maan p‰‰ll‰... Myˆnt‰‰
+"kuolemattomuus" jokaiselle Pietarille ja Paavalille oli t‰h‰n saakka
+suurin ja ilkein murhayritys _ylh‰ist‰_ ihmiskuntaa vastaan. -- Ja
+‰lk‰‰mme v‰heksikˆ sit‰ onnettomuutta, joka kristinopista on hiipinyt
+itse politiikkaankin! Kenell‰k‰‰n ei ole t‰n‰‰n rohkeutta erikoisiin
+oikeuksiin, herrausoikeuksiin, kunnioituksen tunteeseen itse‰‰n ja
+vertaisiaan kohtaan _v‰limatkan paatokseen_... Meid‰n politiikkamme on
+_sairas_ t‰st‰ rohkeuden puutteesta! -- Mielen aristokratia on valheen
+kautta sielujen yht‰l‰isyydest‰ kavalimmin turmeltu; ja jos usko
+"enemmistˆn oikeudesta" nostaa ja _tulee nostamaan_ vallankumouksia, --
+niin ‰lkˆˆn yksik‰‰n ep‰ilkˆ, ett‰ se on kristinoppi, ett‰ ne ovat
+_kristilliset_ arvojen arvioimiset, jotka jokainen vallankumous
+vain muuttaa vereksi ja rikokseksi! Kristinoppi on kaikkien
+maassa-matelevien kapina sit‰ vastaan, mill‰ on _korkeutta_:
+alhaisten evankeliumi _luo_ alhaisuutta...
+
+
+
+
+44.
+
+
+-- Evankeliumit ovat verrattomat todistuksena siit‰ hillittˆm‰st‰
+turmeluksesta, joka vallitsi jo ensim‰isen seurakunnan _keskuudessa_.
+Mink‰ Paavali myˆhemmin rabbiinin kyynillisell‰ johdonmukaisuudella vei
+perille, oli siit‰ huolimatta vain se rappioprosessi, joka alkoi
+lunastajan kuolemalla. -- Ei voi lukea evankeliumeita kyllin varovasti:
+niill‰ on jokaisessa sanassa vaikeutensa. Tunnustan, luettakoon se
+minulle ansioksi, ett‰ ne juuri senvuoksi tuottavat suurta nautintoa
+psykoloogille, -- kaiken naivin turmeluksen vastakohtana, raffinementti
+_par excellence_, psykoloogisen turmeluksen taiteellisuutena.
+Evankeliumit pit‰v‰t puolensa. Raamattu yleens‰ ei sied‰ mit‰‰n
+vertailua. Ollaan juutalaisten joukossa: ensim‰inen n‰kˆkanta, jotta ei
+kadottaisi t‰‰ll‰ kokonaan lankoja. Tuo t‰‰ll‰ neroksi tullut itsens‰
+"pyh‰ksi" teeskenteleminen, jonka vastinetta turhaan etsii kaikkien
+aikojen kirjoista ja ihmisist‰, t‰m‰ taiteeksi k‰ynyt sanojen ja
+eleiden v‰‰ristely ei riipu mist‰‰n erikoisista lahjoista, mist‰‰n
+poikkeusluonnosta. T‰h‰n vaaditaan _rotua_. Kristinopissa, taitona
+valhetella pyh‰sti, saavuttaa juutalaisuus, monisatavuotisten
+juutalaisten kaikkein-vakavimpien esiharjoitusten ja tekniikan j‰lkeen
+lopullisen mestariuden. Kristitty, tuo valheen _ultima ratio_, on
+juutalainen kaksinkerroin -- jopa kolminkerroin... Johdonmukainen tahto
+k‰ytt‰‰ ainoastaan k‰sitteit‰, symbooleja, asentoja, jotka ovat
+vanhurskautettuja senkautta, ett‰ pappi on k‰ytt‰nyt niit‰, jokaisen
+_toisen_ tavan vaistomainen hylk‰‰minen, jokaisen _toisen_ arvo- ja
+hyˆtyperspektiivin -- se ei ole vain traditsioonia, se on _perintˆ‰_:
+ainoastaan perintˆn‰ se vaikuttaa kuin luonto. Koko ihmiskunta, viel‰p‰
+parhaimpien aikojen parhaimmat p‰‰t -- (yht‰ lukuunottamatta, joka ehk‰
+on vain hirviˆ) -- ovat antaneet pett‰‰ itsens‰. On luettu evankeliumia
+_viattomuuden kirjana_... ei v‰hint‰k‰‰n todistusta siit‰
+mestariudesta, mill‰ t‰‰ll‰ on n‰ytetty komediaa. -- Tosin: jos
+saisimme n‰hd‰ heid‰t, vaikkakin vain sivumennen, kaikki n‰m‰
+kummalliset teeskentelij‰t ja tekopyh‰t, niin se olisi lopussa -- ja
+juuri senvuoksi, etten lue sanaakaan katsomatta eleit‰, _teen min‰
+heist‰ lopun_... Min‰ en sied‰ sit‰ tapaa, mill‰ he aukaisevat
+silm‰ns‰. -- Onneksi ovat kirjat useimmille ihmisille vain
+_kirjallisuutta_ --. Ei tule antaa eksytt‰‰ itse‰‰n: "‰lk‰‰ tuomitko"!
+sanovat he, mutta he l‰hett‰v‰t helvettiin kaiken, mik‰ on heid‰n
+tiell‰‰n. Antaessaan jumalan tuomita, tuomitsevat he itse;
+korottaessaan jumalan, korottavat he itsens‰; _vaatiessaan_ hyveit‰,
+joihin he itse kykenev‰t -- viel‰ enemm‰n, joita he tarvitsevat
+pysy‰kseen yleens‰ pystyss‰ --, antavat he teoilleen suuremmoisen
+leiman taistelusta hyveen puolesta, kamppailusta hyveen herrauden
+vuoksi. "Me el‰mme, me kuolemme, me uhraudumme hyv‰n puolesta"
+(-- "totuus", "valo", "jumalan valtakunta"): todellisuudessa he
+tekev‰t, mit‰ eiv‰t voi olla tekem‰tt‰. Liehakoitsijain lailla
+pakottaessaan itsens‰ l‰pi, istuessaan nurkassa, varjon lailla
+el‰ess‰‰n el‰m‰ns‰ varjossa, tekev‰t he itselleen _velvollisuuden_
+siit‰: velvollisuutena saa heid‰n el‰m‰ns‰ nˆyryyden leiman, nˆyryyten‰
+se on todistus lis‰‰ hurskaudesta... Ah t‰t‰ nˆyr‰‰, sive‰‰, laupiasta
+valheellisuuden lajia! "Meid‰n puolestamme on hyve itse oleva
+todistuksena"... Luettakoon evankeliumeita viettelemisen oppikirjoina
+_moraalin_ kautta: n‰m‰ pienet ihmiset ottavat moraalin takavarikkoon,
+-- he tiet‰v‰t mihin moraali kelpaa! Ihmiskuntaa _vedet‰‰n nen‰st‰_
+parhaimmin moraalilla! Realiteetti on, ett‰ itsetietoisin _ylpeys
+kuulua valittuihin_ n‰yttelee h‰veli‰isyytt‰: on kerta kaikkiaan
+asetuttu ja asetettu "seurakunta", "hyv‰t ja vanhurskaat" toiselle
+puolelle, "totuuden" puolelle -- ja j‰‰nnˆs, "maailma" toiselle... T‰m‰
+oli turmiollisin suuruushulluuden laji, mit‰ t‰h‰n saakka on maailmassa
+ollut: teeskentelij‰in ja valhettelijain pienet ep‰sikiˆt alkoivat
+k‰ytt‰‰ hyv‰kseen k‰sitteit‰ "jumala", "totuus", "valo", "henki",
+"rakkaus", "viisaus", "el‰m‰", ik‰‰nkuin heit‰ itse‰‰n merkitsevin‰,
+m‰‰r‰t‰kseen siten rajat itsens‰ ja "maailman" v‰lill‰, pienet
+superlatiivijuutalaiset, kypsi‰ jokaiseen hourujenhuoneeseen, k‰‰nsiv‰t
+arvot yleens‰ _oman_ mielens‰ mukaan, ik‰‰nkuin kristitty vasta olisi
+ollut kaiken j‰‰nnˆksen tarkoitus, suola, mitta ja _viimeinen
+oikeus_... Koko onnettomuus k‰vi mahdolliseksi senkautta, ett‰ oli jo
+olemassa samansukuinen, rodunomainen suuruudenhulluus maailmassa,
+_juutalainen_: heti kun kuilu juutalaisten ja juutalaiskristittyjen
+v‰lill‰ aukeni, ei j‰lkimm‰isill‰ ollut mit‰‰n muuta valintaa kuin
+k‰ytt‰‰ juutalaisesta vaistosta johtuneita itses‰ilytyskeinoja itse
+juutalaisia vastaan, kun juutalaiset olivat k‰ytt‰neet niit‰ t‰h‰n
+saakka vain kaikkea ei-juutalaista vastaan. Kristitty on vain
+"vapaampaan" tunnustukseen kuuluva juutalainen.
+
+
+
+
+45.
+
+
+-- Annan pari n‰ytett‰ siit‰, mit‰ n‰m‰ pienet ihmiset ovat panneet
+p‰‰h‰ns‰, mit‰ he ovat _asettaneet_ mestarinsa _suuhun_: pelkki‰
+"kauniiden sielujen" tunnustuksia. --
+
+"Ja jotka eiv‰t teit‰ vastaanota, eiv‰tk‰ kuule teit‰, niin menk‰‰t
+pois sielt‰, ja pyhkik‰‰t tomu, kuin teid‰n jalkainne alla on, heille
+todistukseksi. Totisesti min‰ sanon teille: Sodomalle ja Gomorralle on
+tuomiop‰iv‰n‰ huokiampi, kuin sille kaupungille" (Markus 6, 11). --
+Kuinka _evankeelista_!...
+
+"Ja kuka ik‰n‰ pahentaa yhden niist‰ v‰himmist‰, jotka uskovat minun
+p‰‰lleni, parempi olisi h‰nelle, jos myllynkivi pantaisiin h‰nen
+kaulaansa, ja heitett‰isiin mereen" (Markus 9, 42). -- Kuinka
+_evankeelista_!...
+
+"Ja jos sinun silm‰s on sinulle pahennukseksi, niin heit‰ se pois:
+parempi on sinun silm‰puolena Jumalan valtakuntaan sis‰lle menn‰, kuin
+jos sinulla olisi kaksi silm‰‰, ja heitett‰isiin helvetin tuleen"
+(Markus 9, 47). -- T‰ss‰ ei ole juuri kysymys vain silm‰st‰...
+
+"Totisesti sanon min‰ teille: muutamain n‰ist‰, jotka t‰ss‰ seisovat,
+ei pid‰ kuolemata maistaman, siihenasti kuin he n‰kev‰t Jumalan
+valtakunnan voimaila tulevan" (Markus 9, 1). -- Hyvin _valheteltu_,
+jalopeura...
+
+"Kuka ik‰n‰ tahtoo tulla minun per‰ss‰ni, h‰n kielt‰kˆˆn itsens‰, ja
+ottakoon ristins‰, ja seuratkoon minua. _Sill‰_..." (_Psykoloogin
+huomautus_. Kristillinen moraali kumotaan "sill‰" sanoillaan: sen
+"perusteet" kumoavat, -- se on kristillist‰.) Markus 8, 34. --
+
+"ƒlk‰‰t tuomitko, ettei teit‰ tuomittaisi: sill‰ mitalla, jolla te
+mittaatte, pit‰‰ teille j‰lleen mitattaman" (Mattheus 7, 1). -- Mik‰
+k‰site oikeudesta, vanhurskaasta tuomarista!...
+
+"Sill‰ jos te rakastatte niit‰, jotka teit‰kin rakastavat, _mit‰ teid‰n
+siit‰ palkkaa on?_ Eiv‰tkˆ publikanit myˆs niin tee? Ja jos te
+ainoastaan veljeinne kanssa soveliaat olette, _mit‰ te sen kanssa
+erinomaista teette?_ Eiv‰tkˆ publikanit myˆs niin tee?" (Mattheus 5,
+46). -- Kristillisen rakkauden prinsiippi, se tahtoo lopuksi saada
+hyv‰n maksun...
+
+"Vaan jollette anteeksi anna ihmisille heid‰n rikoksiansa, niin ei myˆs
+teid‰n is‰nne anteeksi anna teid‰n rikoksianne" (Mattheus 6, 15). --
+Saattaa sangen huonoon valoon mainitun "is‰n"...
+
+"Vaan etsik‰‰t ensin Jumalan valtakuntaa, ja h‰nen vanhurskauttansa, ja
+niin kaikki n‰m‰t teille annetaan" (Mattheus 6, 33). -- Kaikki n‰m‰t:
+nimitt‰in ruoka, vaatteet, el‰m‰n kaikki tarpeet. _Erhetys_,
+hyv‰ns‰vyisesti sanottuna... V‰h‰n ennen esiintyy jumala r‰‰t‰lin‰,
+ainakin muutamissa tapauksissa...
+
+"Iloitkaat sin‰ p‰iv‰n‰, ja riemuitkaat: sill‰ katso, teid‰n palkkanne
+on suuri taivaassa: niin tekiv‰t myˆs heid‰n is‰ns‰ propheetaille"
+(Lukas 6, 23). _H‰pe‰m‰tˆnt‰_ roskav‰ke‰! He vertaavat itse‰‰n jo
+profeettoihin...
+
+"Ettekˆ te tied‰ teit‰nne Jumalan templiksi, ja ett‰ Jumalan henki asuu
+teiss‰? Jos joku Jumalan templin turmelee, _sen Jumala turmelee_: sill‰
+Jumalan templi on pyh‰, _niinkuin tekin olette_" (Paavali, I Kor. 3,
+16). -- Sellaista ei voi kyllin halveksia...
+
+"Ettekˆ te tied‰, ett‰ pyh‰t pit‰‰ maailmaa tuomitseman? Ja jos maailma
+pit‰‰ teid‰n kauttanne tuomittaman, ettekˆ te siis kelpaa pienimpi‰
+asioita tuomitsemaan?" (Paavali I Kor. 6, 2). Valitettavasti kyll‰ ei
+edes hourujenhuoneen asukkaan puhetta... T‰m‰ _hirvitt‰v‰ pett‰j‰_
+jatkaa sanasta sanaan: "Ettekˆ te tied‰, ett‰ meid‰n pit‰‰ enkeleit‰kin
+tuomitseman? Kuinka siis ei ajallisia asioita?"...
+
+"Eikˆ Jumala ole t‰m‰n maailman viisautta hulluudeksi tehnyt? Sill‰
+ett‰ Jumalan viisaudessa ei maailma tuntenut Jumalata viisauden kautta,
+niin kelpasi Jumalalle tyhm‰n saarnan kautta niit‰ vapahtaa, jotka sen
+uskovat...; ei monta lihallista viisasta, ei monta voimallista, ei myˆs
+monta suuresta suvusta ole kutsuttuja. Vaan ne kuin maailman edess‰
+hullut ovat, on _Jumala valinnut_, ett‰ h‰n viisaat h‰pi‰‰n saattaisi;
+ja ne, kuin heikot ovat maailman edess‰, on Jumala valinnut, ett‰ h‰n
+v‰kev‰t h‰pi‰‰n saattaisi; ja ne alimmaisesta suvusta ja ylˆnkatsotut
+maailmassa on Jumala valinnut, ja ne, kuin eiv‰t mit‰‰n ole, ett‰ h‰n
+ne kuin jotakin ovat, turhaksi tekisi. Ettei h‰nen edess‰ns‰ yksik‰‰n
+liha kerskaisi" (Paavali I Kor. 1, 20 j.n.e.). _Ymm‰rt‰‰kseen_ t‰t‰
+kohtaa, ensiarvoista todistusta jokaisen Tshandalamoraalin
+psykologiasta, luettakoon ensim‰inen osa teostani _Genealogie der
+Moral_: siin‰ tuotiin ensikerran p‰iv‰nvaloon vastakohta _ylh‰isen_
+moraalin ja ressentimentin ja voimattoman koston synnytt‰m‰n
+Tshandalamoraalin v‰lill‰. Paavali on suurin kaikista koston
+apostoleista...
+
+
+
+
+46.
+
+
+-- _Mit‰ seuraa siit‰?_ Ett‰ tekee viisaasti vet‰ess‰‰n hansikkaat
+k‰teens‰, kun lukee uutta testamenttia. Sellaisen saasta-paljouden
+l‰heisyys melkein pakottaa siihen. Yht‰ v‰h‰n kuin valitsemme
+puolalaisia juutalaisia seuraamme, yht‰ v‰h‰n valitsisimme "ensim‰isi‰
+kristitylt‰": jokainen muistutus heit‰ vastaan on tarpeeton...
+Kummatkaan heist‰ eiv‰t haise hyv‰lle. -- Olen turhaan etsinyt uudesta
+testamentista edes yht‰ ainoata miellytt‰v‰‰ piirrett‰; mik‰‰n siin‰ ei
+ole vapaata, hyv‰‰, avosyd‰mist‰, rehellist‰. Ihmiskunta ei ole t‰‰ll‰
+ottanut viel‰ ensim‰ist‰ alkuaan, puuttuu _puhtauden_ vaistoja...
+Uudessa testamentissa on ainoastaan huonoja vaistoja, mutta ei edes
+rohkeutta n‰ihin huonoihin vaistoihin. Kaikki on pelkuruutta, kaikki on
+silmiensulkemista ja itsepetosta siin‰. Jokainen kirja k‰y puhtaaksi,
+jos juuri on lukenut uutta testamenttia: luin, antaakseni esimerkin,
+ihastuksella heti Paavalin j‰lkeen tuota rakastettavinta, ylimielisint‰
+pilkkaajaa Petroniusta, josta voisi sanoa samaa, mit‰ Domenico
+Boccaccio kirjoitti Parman herttualla Cesare Borgiasta: "È tutto festo"
+-- kuolemattoman terve, kuolemattoman iloinen ja sopusointuinen...
+Sill‰ n‰m‰ pienet teeskentelij‰t erhettyv‰t p‰‰asiassa. He k‰yv‰t
+kimppuun, mutta kaikki, mink‰ kimppuun he k‰yv‰t, on siten _merkitty_.
+Sit‰, jota vastaan "ensim‰inen kristitty" hyˆkk‰‰, sit‰ h‰n ei
+tahraa... P‰invastoin: on kunnia saada "ensim‰iset kristityt"
+vastaansa. Uutta testamenttia ei lue tuntematta mieltymyst‰ sit‰
+kohtaan, mit‰ siin‰ pidell‰‰n pahoin, puhumattakaan "t‰m‰n maailman
+viisaudesta", jota joku h‰vytˆn tuulenpieksij‰ turhaan koettaa saada
+h‰pe‰‰n "tyhm‰ll‰ saarnalla"... Mutta itse farisealaiset ja
+kirjanoppineetkin joutuvat edullisempaan valoon tuollaisesta
+vastustuksesta: heid‰n t‰ytyy kuitenkin olla jonkun arvoisia tullakseen
+vihatuiksi niin s‰‰dyttˆm‰ll‰ tavalla. Teeskentely -- se juuri oli
+soimaus, jonka "ensim‰iset kristityt" saivat tehd‰! -- Nuo olivat
+_etuoikeutettuja_: siin‰ kylliksi, Tshandalaviha ei tarvitse muita
+syit‰. "Ensim‰inen kristitty" -- ja, pelk‰‰n min‰, "viimeinenkin
+kristitty", _jonka ehk‰ tulen viel‰ el‰ess‰ni n‰kem‰‰n_ -- on
+kapinoitsija kaikkea etuoikeutettua vastaan syvimm‰st‰ vaistosta, --
+h‰n el‰‰, h‰n taistelee alati "samojen oikeuksien" puolesta!...
+Tarkemmin katsoen ei h‰nell‰ ole valinnan varaa. Jos omassa
+personassaan tahtoo olla "jumalan valittu" -- tai "jumalan temppeli",
+tai "enkelien tuomari", niin on jokainen muu valikoimisen periaate,
+esim. rehellisyyden, hengen, miehekkyyden ja uljuuden, kauneuden ja
+syd‰men vapauden, aivan yksinkertaisesti "maailmaa", -- _pahaa
+itsess‰‰n_... Moraali: "ensim‰isen kristityn" jokainen sana on
+valhetta, jokainen teko, mink‰ h‰n tekee, vaisto-v‰‰ryytt‰, -- kaikki
+h‰nen arvonsa, kaikki h‰nen p‰‰m‰‰r‰ns‰ ovat vahingollisia, _mutta ket‰
+h‰n vihaa, mit‰ h‰n vihaa, sill‰ on arvoa_... Kristitty,
+pappiskristitty etenkin, on arvon mittapuu --. Tarvitseeko minun en‰‰
+sanoa, ett‰ koko uudessa testamentissa esiintyy vain yksi _ainoa_
+hahmo, jota t‰ytyy kunnioittaa? Pilatus, roomalainen maaherra. Ottaa
+_vakavasti_ joku juutalaisr‰hin‰ -- siihen h‰n ei anna itse‰‰n
+houkutella. Yksi juutalainen sinne tai t‰nne -- mit‰ se merkitsee?...
+Roomalaisen ylh‰inen pilkka, jota kohtaan harjoitetaan h‰pe‰m‰tˆnt‰
+v‰‰rink‰yttˆ‰ sanalla "totuus", on rikastuttanut uutta testamenttia
+sill‰ ainoalla sanalla, _jolla on arvoa_, -- joka on sen arvostelu,
+itse sen tyhj‰ksiteko: "mik‰ on totuus!"...
+
+
+
+
+47.
+
+
+-- Ei se tyˆnn‰ meit‰ pois, ett‰ emme lˆyd‰ jumalaa historiassa tai
+luonnossa tai luonnon takana -- vaan se, ett‰ emme tunne
+"jumalalliseksi" sit‰, mit‰ jumalana kunnioitetaan, vaan pid‰mme sit‰
+surkuteltavana, mielettˆm‰n‰, vahingollisena, emme ainoastaan
+erhetyksen‰, vaan _rikoksena el‰m‰‰ vastaan_... Me kiell‰mme jumalan
+jumalana... Jos meille _todistettaisiin_ t‰m‰n kristittyjen jumalan
+olemassaolo, niin voisimme viel‰ v‰hemm‰n uskoa siihen. -- Kaava: _deus
+qualem Paulus creavit, dei negatio_. Uskonnon, jolla, kuten
+kristinopilla, ei ole yht‰‰n kosketuskohtaa todellisuuden kanssa, ja
+joka heti kadottaa kaiken merkityksen, kun todellisuus yhdess‰
+ainoassakin kohdassa p‰‰see oikeuksiinsa, t‰ytyy tietysti olla
+"maailman viisauden", s.o. _tieteen_, verivihollinen, -- se hyv‰ksyy
+kaikki keinot, joilla hengen kuria, hengen puhtautta ja ankaruutta
+omantunnon asioissa, hengen ylh‰ist‰ viileytt‰ ja vapautta voidaan
+myrkytt‰‰, solvata, saada _huonoon maineeseen_. "Usko" imperatiivina on
+_kielto_ tiedett‰ vastaan, -- _k‰yt‰nnˆss‰_ valhe mist‰ hinnasta
+tahansa... Paavali ymm‰rsi, ett‰ valhe -- ett‰ "usko" oli v‰ltt‰m‰tˆn;
+kirkko taas ymm‰rsi myˆhemmin Paavalin. -- T‰m‰ "jumala", jonka Paavali
+keksi itselleen, jumala, joka "saattaa maailman viisauden" (ahtaammassa
+merkityksess‰ nuo kaiken taikauskon molemmat suuret vastustajat,
+filologian ja l‰‰ketieteen) "h‰pe‰‰n", on todellisuudessa vain Paavalin
+j‰ntev‰ _p‰‰tˆs_ saattaa "maailman viisaus" h‰pe‰‰n: kutsua omaa
+tahtoaan "jumalaksi", _thora_, se on alkujuutalaista. Paavali tahtoo
+saattaa "maailman viisauden" h‰pe‰‰n: h‰nen vihollisiaan ovat
+alexandrialaisen koulun _hyv‰t_ filoloogit ja l‰‰k‰rit --, heit‰
+vastaan h‰n k‰y sotaa. Itse asiassa ei voi olla filoloogi eik‰ l‰‰k‰ri
+olematta samalla _antikristitty_. Filoloogina n‰et oivaltaa "pyh‰t
+kirjat", l‰‰k‰rin‰ ymm‰rt‰‰ tyypillisen kristityn fysioloogisen
+rappion. L‰‰k‰ri sanoo "parantumaton", filoloogi "houretta"...
+
+
+
+
+48.
+
+
+Onko oikeastaan ymm‰rretty sit‰ mainiota kertomusta, jolla raamattu
+alkaa, -- kertomusta jumalan ‰‰rettˆm‰st‰ kauhusta _tiedett‰_
+kohtaan?... Sit‰ ei ole ymm‰rretty. T‰m‰ pappiskirja _par excellence_
+alkaa, kuten luonnollista on, papin suurella sis‰llisell‰ pulalla:
+_h‰n_ tuntee vain yhden ainoan suuren vaaran, _siis_ tuntee "jumala"
+vain yhden ainoan suuren vaaran. --
+
+Vanha jumala, kokonaan "henki", kokonaan ylimm‰inen pappi, kokonaan
+t‰ydellisyys, k‰yskelee huvikseen yrttitarhassaan: kaikki hyvin, kunhan
+h‰nen ei vain olisi ik‰v‰. Ik‰vyytt‰ vastaan taistelevat itse
+jumalatkin turhaan. Mit‰ h‰n tekee? H‰n keksii ihmisen, -- ihmisest‰ on
+huvia... Mutta katsohan, ihmisell‰kin on ik‰v‰! Jumalan s‰‰li sit‰
+ainoata h‰t‰‰ kohtaan, jolta yksik‰‰n paratiisi ei ole turvassa, ei
+tunne mit‰‰n rajoja: h‰n loi heti toisia el‰imi‰. Jumalan _ensim‰inen_
+erhetys: ihminen ei lˆyt‰nyt el‰imist‰ huvia, h‰n hallitsi niit‰, h‰n
+ei edes tahtonut olla "el‰in". -- Siis loi jumala naisen. Ja nyt oli
+todellakin ik‰vyys lopussa, -- mutta jokin muukin viel‰! Nainen oli
+jumalan _toinen_ erhetys! -- "Nainen on olennoltaan k‰‰rme, Heva" --
+sen tiet‰‰ jokainen pappi: "naisesta tulee _kaikki_ paha maailmaan" sen
+tiet‰‰ myˆskin jokainen pappi. "_Siis_ tulee _tiedekin_ h‰nest‰"...
+Vasta naisen kautta oppi ihminen maistamaan tiedon puun hedelmi‰. --
+Mit‰ oli tapahtunut? Vanhan jumalan valtasi helvetintuska. Ihminen itse
+oli tullut h‰nen _suurimmaksi_ erhetyksekseen, h‰n oli luonut itselleen
+kilpailijan, tiede tekee _jumalan kaltaiseksi_, -- papit ja jumalat
+ovat lopussa, jos ihminen tulee tieteelliseksi! _Moraali_: Tiede on
+itsess‰‰n kielletty‰, -- se yksin on kielletty‰. Tiede on _ensim‰inen_
+synti, kaikkien syntien siemen, perisynti. T‰m‰ yksin on moraalia.
+"Sinun ei pid‰ tiet‰m‰n:" -- kaikki muu seuraa siit‰. -- Jumalan
+helvetintuska ei est‰nyt h‰nt‰ olemasta viisas. Kuinka _suojella_
+itse‰‰n tieteelt‰? Se tuli pitk‰ksi aikaa h‰nen p‰‰probleemikseen.
+Vastaus: pois ihminen paratiisista! Onni, toimettomuus johtavat
+ajattelemaan, -- kaikki ajatukset ovat huonoja ajatuksia... Ihmisen ei
+_tule_ ajatella. -- Ja "pappi itsess‰‰n" keksii h‰d‰n, kuoleman,
+hengenvaaran raskaudessa, kaikenlaisen kurjuuden, vanhuuden, vaivan,
+ennen kaikkea _sairauden_, kaikki keinoja taistelussa tiedett‰ vastaan!
+H‰t‰ ei _anna_ ihmisen ajatella... Mutta siit‰ huolimatta! Hirve‰t‰!
+Tiedon teko kohoaa tornina, taivasta uhkaavana, jumalia h‰m‰rt‰en, --
+mit‰ tehd‰? -- Vanha jumala keksii _sodan_, h‰n pirstoo kansat,
+h‰n saa aikaan, ett‰ ihmiset kesken‰‰n tuhoavat toisensa (-- papit ovat
+aina tarvinneet sotaa...). Sota muiden muassa suuri tieteen
+rauhanh‰iritsij‰! -- Uskomatonta! Tieto, _vapautuminen papista_, enenee
+sodasta huolimatta. -- Ja vanha jumala tekee viimeisen p‰‰tˆksen:
+"ihminen on k‰ynyt tieteelliseksi, -- _mik‰‰n ei auta en‰‰, h‰n on
+hukutettava_!"...
+
+
+
+
+49.
+
+
+-- Minut on ymm‰rretty. Raamatun alku sis‰lt‰‰ papin _koko_
+psykologian. -- Pappi tuntee vain yhden ainoan suuren vaaran: tieteen,
+-- syyn ja seurauksen terveen k‰sitteen. Mutta tiede viihtyy yleens‰
+vain onnellisissa olosuhteissa, -- t‰ytyy olla aikaa, henke‰ _liiaksi_
+"hankkiakseen itselleen tietoa"... "Siis on ihminen teht‰v‰
+onnettomaksi", -- se oli kaikkina aikoina papin logiikka. -- Huomaa jo,
+_mit‰_, t‰m‰n logiikan mukaisena, on tullut maailmaan vasta sen kautta:
+-- "synti"... Syy- ja rangaistusk‰site, koko "siveellinen
+maailmanj‰rjestys" on keksitty tiedett‰ _vastaan_, -- est‰m‰‰n ihmisen
+vapautumista papista... Ihmisen ei tule luoda katsettaan ulos, h‰nen
+tulee luoda katseensa sis‰‰ns‰; h‰nen ei tule viisaana ja varovaisena,
+oppivaisena katsella olioihin, h‰nen ei tule yleens‰ lainkaan n‰hd‰:
+h‰nen _tulee k‰rsi‰_... Ja h‰nen tulee k‰rsi‰ niin, ett‰ h‰n alati
+tarvitsee pappia. -- Pois l‰‰k‰rit! _Yksi vapahtaja tarvitaan_. --
+Syy- ja rangaistusk‰site, siihen luettuna oppi "armosta",
+"lunastuksesta", "anteeksiannosta" -- kauttaaltaan _valheita_ ja vailla
+jokaista psykoloogista realiteettia -- on keksitty sekoittamaan ihmisen
+syy-aistia: se on murhayritys syy- ja seurausk‰sitett‰ vastaan! --
+_Eik‰_ murhayritys nyrkill‰, veitsell‰, rehellisyydell‰ vihassa ja
+rakkaudessa! Vaan arimmista, viekkaimmista, alhaisimmista vaistoista!
+Pappismurhayritys! Parasiittimurhayritys! Kalpeitten manalaisten
+verenimij‰in vampyrismi!... Kun jonkun teon luonnolliset seuraukset
+eiv‰t en‰‰ ole "luonnollisia", vaan ajatellaan niiden johtuneen
+taikauskon k‰site-kummituksista, "jumalasta", "hengist‰", "sieluista",
+pelkkin‰ "moraalisina" johdonmukaisuuksina, palkkana, rangaistuksena,
+viittauksena, kasvatuskeinona, silloin on edellytys tietoon turmeltu,
+-- _silloin on tehty suurin rikos ihmiskuntaa vastaan_. -- Synti,
+toistan sen viel‰ kerran, t‰m‰ ihmisen itsesaastutusmuoto _par
+excellence_ on keksitty siksi, ett‰ voitaisiin tehd‰ mahdottomaksi
+tiede, kultuuri, jokainen korkeus ja ylh‰isyys ihmisess‰; pappi on
+p‰‰ssyt _hallitsemaan_ synnin keksimisen kautta. --
+
+
+
+
+50.
+
+
+-- En ryhdy t‰ss‰ kohdassa valaisemaan "uskon", "uskovaisten"
+psykologiaa, ja, selv‰‰h‰n on, juuri "uskovaisten" hyˆdyksi. Ellei
+viel‰ t‰n‰‰n ole puutetta sellaisista, jotka eiv‰t tied‰ miss‰ m‰‰rin
+on s‰‰dytˆnt‰ olla "uskovainen" -- _tai_ olla merkkin‰ dekadensista,
+murtuneesta tahdosta el‰m‰‰n, -- niin huomenna he tulevat jo tiet‰m‰‰n
+sen. Minun ‰‰neni saavuttaa huonokuuloisetkin. -- N‰ytt‰‰ silt‰, ellen
+ole kuullut v‰‰rin, ett‰ kristittyjen keskuudessa on jonkunlainen
+totuuden mittapuu, jota kutsutaan "voiman todistukseksi". "Usko tekee
+autuaaksi: _siis_ se on tosi." -- L‰hinn‰ voisi t‰ss‰ muistuttaa, ett‰
+juuri autuaaksitekemist‰ ei ole todistettu, ainoastaan _luvattu_:
+autuus "uskomisen" ehtoon solmittu, -- tulee _autuaaksi_ senvuoksi,
+ett‰ uskoo... Mutta _ett‰_ todellakin tulee t‰ytetyksi, mit‰ pappi
+lupaa uskovaiselle tuosta jokaisen kontrollin ulkopuolella olevasta
+"tuonpuoleisesta maailmasta", mill‰ _se_ n‰ytet‰‰n toteen? -- Tuo
+luuloteltu "voimantodistus" on siis oikeastaan j‰lleen vain usko
+siihen, ett‰ se vaikutus, jota uskosta itselleen odottaa, ei j‰‰
+tulematta. Kaavana: "min‰ uskon, ett‰ usko tekee autuaaksi; -- _siis_
+on se tosi." -- Mutta siten olemme jo lopussa. T‰m‰ "siis" olisi
+totuuden mittapuuna itse mielettˆmyys. -- Mutta olettakaamme, hiukan
+myˆntym‰ll‰, ett‰ autuaaksitekeminen olisi todistettu uskolla
+(-- _ei_ ainoastaan toivottu, ei ainoastaan luvattu papin hiukan
+ep‰luotettavalla suulla): olisiko autuus -- teknillisemmin puhuen,
+_ilo_ -- milloinkaan todistus totuudesta? Niin v‰h‰n, ett‰ se melkein
+antaa vastatodistuksen, joka tapauksessa se her‰tt‰‰ suurinta ep‰luuloa
+"totuutta" kohtaan, jos ilontunteetkin puhuvat, kun on kysymyksess‰
+"mik‰ on totuus?" "Ilon" todistus on todistus "ilosta", -- ei enemp‰‰;
+milloin kummalla tultiin siihen kokemukseen, ett‰ juuri _todet_
+arvioimiset tuottivat enemm‰n iloa kuin v‰‰r‰t ja, prestabilieeratun
+harmonian mukaan, v‰ltt‰m‰tt‰ toivat suloisia tunteita mukanaan? --
+Kaikkien ankarien, kaikkien syv‰sti muodostuneiden henkien kokemus
+opettaa meille _p‰invastaista_. On t‰ytynyt taistellen voittaa
+itselleen jokainen askeleen leveys totuutta, on t‰ytynyt panna melkein
+kaikki alttiiksi, mihin syd‰n, rakkautemme, luottamuksemme el‰m‰‰n on
+kiintynyt. Siihen tarvitaan sielun suuruutta: totuuden palvelus on
+kovinta palvelusta. -- Mit‰ sitten on olla _rehellinen_ henkisiss‰
+asioissa? Ett‰ on ankara syd‰nt‰‰n kohtaan, halveksii "kauniita
+tunteita", ett‰ tekee itselleen omantunnonasian jokaisesta
+myˆnt‰misest‰ ja kielt‰misest‰! -- Usko tekee autuaaksi: _siis_ se
+valhettelee...
+
+
+
+
+51.
+
+
+Ett‰ usko muutamissa olosuhteissa tekee autuaaksi, ett‰ autuus ei viel‰
+tee p‰‰h‰npistosta _totta_ ajatusta, ett‰ usko ei siirr‰, mutta kyll‰
+_asettaa_ vuoria sinne, miss‰ niit‰ ei ole: lyhyt kierto
+_hourujenhuoneessa_ n‰ytt‰‰ kylliksi toteen t‰m‰n. Tosin ei papille:
+sill‰ h‰n kielt‰‰ vaistosta, ett‰ sairaus on sairautta, ett‰
+hourujenhuone on hourujenhuone. Kristinusko _tarvitsee_ sairautta,
+melkein kuten helleenisyys tarvitsee liiallisen m‰‰r‰n terveytt‰, --
+tehd‰ sairaaksi on kirkon koko pelastusmenettely-j‰rjestelm‰n
+varsinainen salatarkoitus. Ja kirkko itse -- eikˆ se ole katoolinen
+hourujenhuone viimeisen‰ ihanteena? -- Maa yleens‰ hourujenhuoneena? --
+Uskonnollinen ihminen, sellaisena kuin kirkko _tahtoo_ h‰net, on
+tyypillinen dekadentti; sen ajan tunnusmerkkin‰, jolloin uskonnollinen
+k‰‰nne k‰y jonkun kansan herraksi, on kulkevat hermotaudit;
+uskonnollisen ihmisen "sis‰inen maailma" on ihan h‰mmennykseen saakka
+liiaksi kiihoittuneiden ja voipuneiden "sis‰llisen maailman" kaltainen;
+"korkeimmat tilat", joita kristinoppi on ripustanut ihmiskunnan ylitse
+kaikkien arvojen arvona, ovat kaatumataudin muotoja, -- kirkko on
+tehnyt pyhiksi vain hulluja tai suuria pettureita _jumalan yh‰
+korkeammaksi kunniaksi_... Olen kerran merkinnyt koko kristillisen
+katumus- ja lunastusharjoituksen (jota t‰n‰‰n tutkitaan parhaiten
+Englannissa) j‰rjestelm‰llisesti luoduksi _kiert‰v‰ksi hulluudeksi_,
+tietysti jo siihen valmistetussa, se on perinpohjin sairaassa
+maaper‰ss‰. Kukaan ei tule vapaaehtoisesti kristityksi: kristinuskoon
+ei tule "k‰‰nnetyksi", -- siihen tulee olla kyllin sairas... Me muut,
+me, joilla on _rohkeus_ terveyteen ja ylenkatseeseenkin, mit‰ muuta me
+voisimme kuin halveksia uskontoa, joka opetti v‰‰rinymm‰rt‰m‰‰n
+ruumista! Joka ei tahdo vapautua taikauskostaan sieluun n‰hden! Joka
+tekee riitt‰m‰ttˆm‰st‰ ravinnosta ansion joka terveydess‰ taistelee
+jonkinlaista vihollista, perkelett‰, kiusausta vastaan joka kuvitteli,
+ett‰ voisi s‰ilytt‰‰ "t‰ydellist‰ sielua" raadollisessa ruumiissa, ja
+jolle senvuoksi oli v‰ltt‰m‰tˆnt‰ tehd‰ itselleen uusi "t‰ydellisyyden"
+k‰site, kalpea, sairaloinen, tyls‰mielisen haaveksiva olento, tuo niin
+sanottu "pyhyys", -- pyhyys, itse ainoastaan kurjaksi tehdyn,
+kidutetun, parantumattomasti turmellun ruumiin symptoomisarja!...
+Kristillinen liike europalaisena liikkeen‰ on alusta alkaen
+kaikenlaisten hylky- ja rappioelementtien yhteisliike (-- n‰m‰ tahtovat
+kristinopin yhteydess‰ valtaan). Se ei ole jonkun rodun alenemisen
+ilmaisumuoto, se on yhteentunkevien ja toisiaan etsivien kaikkialle
+hajautuneiden dekadensimuotojen yhteismuodostelma. Se ei ole, kuten
+luullaan, itse muinaisajan turmelusta, joka teki kristinopin
+mahdolliseksi: ei voi kyllin jyrk‰sti vastustaa sit‰ oppinutta
+idioottisuutta, joka viel‰ t‰n‰‰n puolustaa t‰t‰ ajatusta. Siihen
+aikaan, jolloin sairaat ja turmeltuneet Tshandala-kerrokset koko
+_imperiumissa_ k‰‰ntyiv‰t kristinuskoon, oli juuri _vastakkaistyyppi_
+olemassa, ylh‰isyys kauneimmassa ja kypsimm‰ss‰ muodossaan. Suuri
+joukko tuli herraksi; kristillisten vaistojen demokraattisuus _p‰‰si
+voittoon_... Kristinoppi ei ollut "kansallinen", ei rodun vaatima, --
+se k‰‰ntyi el‰m‰n jokaisen rappeutumalajin puoleen, sill‰ oli
+kaikkialla liittolaisia. Kristinoppi on, perusteenaan sairaiden
+kauna, kohdistanut vaiston terveit‰, terveytt‰ vastaan. Kaikki
+hyvinonnistunut, ylv‰s, ylimielinen, kauneus ennen kaikkea tekee pahaa
+sen korville ja silmille. Muistutan viel‰ kerran Paavalin verrattomasta
+sanasta: "Vaan ne, kuin _heikot_ ovat maailman edess‰, ne kuin maailman
+edess‰ _hullut_ ovat, ne _alimmaisesta suvusta_ ja _ylˆnkatsotut_
+maailmassa on Jumala valinnut"... t‰m‰ oli kaava, t‰m‰n merkin alla
+voitti dekadensi. -- _Jumala ristill‰_ -- eikˆ yh‰ viel‰k‰‰n ymm‰rret‰
+t‰m‰n symboolin hirvitt‰vi‰ sala-ajatuksia? -- Kaikki mik‰ k‰rsii,
+kaikki, mik‰ riippuu ristill‰, on _jumalallista_... Me kaikki riipumme
+ristill‰, siis me olemme jumalallisia... Me yksin olemme
+jumalallisia!... Kristinoppi oli voitto, ylh‰isempi ajatustapa k‰vi
+perikatoon sen kautta, -- kristinusko oli t‰h‰n saakka ihmiskunnan
+suurin onnettomuus. --
+
+
+
+
+52.
+
+
+Kristinoppi on myˆskin kaiken _henkisesti_ hyvin-onnistuneen
+vastakohta, -- se voi k‰ytt‰‰ vain sairasta j‰rke‰ kristillisen‰
+j‰rken‰, se asettuu kaiken idioottisen puolelle, se kiroaa hengen,
+terveen hengen ylivallan. Koska sairaus kuuluu kristinuskon olemukseen,
+_t‰ytyy_ myˆs tyypillisesti kristillisen tilan, "uskon", olla
+sairaus-muoto, t‰ytyy kirkon hylj‰t‰ kaikki tietoon viev‰t suorat,
+rehelliset, tieteelliset tiet kiellettyin‰ tein‰. Ep‰ilykin jo on
+synti... Psykoloogisen puhtauden t‰ydellinen puute -- papilla jonka
+katse ilmaisee -- on dekadensin _seurausilmiˆ_, -- tarkasteltakoon
+hysteerisi‰ naisia tai riisitautiin taipuvaisia lapsia, jotta
+huomattaisiin, kuinka vaiston synnytt‰m‰ s‰‰nnˆllinen vilpillisyys,
+halu valhetella valhetellakseen, kykenem‰ttˆmyys suoriin katseisiin ja
+askeliin ovat dekadensin ilmaisumuotoja. "Usko" merkitsee, ett‰ _ei
+tahdo_ tiet‰‰, mik‰ on totta. Pietisti, kummastakin sukupuolesta oleva
+pappi, on v‰‰r‰, _koska_ h‰n on sairas: h‰nen vaistonsa _vaatii_, ett‰
+totuus ei yhdess‰ kohdassakaan p‰‰se oikeuksiinsa. "Mik‰ sairaaksi
+tekee, se on _hyv‰‰_; mik‰ runsaudesta, ylt‰kyll‰isyydest‰, vallasta
+johtuu, se on _pahaa_": niin tuntee uskovainen. _Ep‰vapaus valheeseen_
+-- siit‰ tunnen jokaisen ennalta m‰‰r‰tyn teoloogin. -- Toinen
+teoloogin tunnusmerkki on h‰nen _kykenem‰ttˆmyytens‰ filologiaan_.
+Filologialla on t‰ss‰ ymm‰rrett‰v‰, hyvin yleisess‰ merkityksess‰,
+taitoa lukea hyvin, -- osata lukea tosiasioita, selityksill‰ niit‰
+v‰‰ristelem‰tt‰, kadottamatta varovaisuutta, k‰rsiv‰llisyytt‰,
+hienoutta kaipuussa tulla ymm‰rretyksi. Filologia _ephexiksen‰_
+selityksess‰: koskekoonpa se nyt kirjoja, sanomalehtiuutisia,
+ihmiskohtaloita tai ilmatieteellisi‰ havaintoja, -- puhumattakaan
+"sielun pelastuksesta"... Se tapa, jolla teoloogi, yhdentekev‰‰
+Berliiniss‰kˆ tai Roomassa, selitt‰‰ "raamatun sanan" tai jonkun
+tapauksen, kotimaisen sotajoukon voiton esimerkiksi Davidin psalmien
+korkeammassa valaistuksessa, on aina siihen m‰‰rin _uskalias_, ett‰
+filoloogi menett‰‰ mielenmalttinsa kuullessaan sen. Ja kuinka h‰nen
+tulee k‰ytt‰yty‰, kun pietistit ja muut lehm‰t Svaabista muodostavat
+"jumalan sormella" olemassaolonsa viheli‰isen jokap‰iv‰isyyden ja
+tupasauhun "armon", "kaitselmuksen" ja "lunastuskokemusten" ihmeeksi!
+H‰veli‰imm‰nkin pyynnˆn hengest‰, puhumatta _s‰‰dyllisyydest‰_,
+pit‰isi kuitenkin saada n‰m‰ selitt‰j‰t huomaamaan t‰ydellisen
+lapsellisuuden ja halpuuden tuollaisessa jumalallisen sormin‰pp‰ryyden
+v‰‰rink‰ytt‰misess‰. Niin v‰h‰inen m‰‰r‰ kuin meiss‰ onkin hurskautta,
+pit‰isi meid‰n tuntea, ett‰ jumala, joka oikeaan aikaan parantaa nuhan,
+tai k‰skee meid‰n nousemaan ajuriin, silloinkuin rankkasade puhkeaa, on
+niin absurdi jumala, ett‰ h‰net t‰ytyisi poistaa, vaikka h‰n
+olisi olemassakin. Jumala palvelijana, jumala kirjeenkantajana,
+almanakantekij‰n‰, -- on todellakin kaikenlaisten sattumien tyhmin
+ilmaisumuoto... "Jumalallinen kaitselmus", sellaisena kuin sen
+likipit‰en joka kolmas ihminen "sivistyneess‰ Saksassa" viel‰ t‰n‰kin
+p‰iv‰n‰ uskoo, olisi itsess‰‰n jo sellainen vastav‰ite jumalaa vastaan,
+jota voimakkaampaa tuskin olisi ajateltavissa. Joka tapauksessa ei se
+ainakaan puhuisi saksalaisten puolesta!...
+
+
+
+
+53.
+
+
+-- Ett‰ _marttyyrit_ todistavat mit‰‰n jonkun asian totuudesta, on niin
+v‰h‰n totta, jotta tahtoisin kielt‰‰, ett‰ marttyyrilla on milloinkaan
+ollut mit‰‰n tekemist‰ totuuden kanssa. ƒ‰ness‰, jolla marttyyri
+heitt‰‰ totenapit‰misens‰ vasten kasvoja maailmalle, ilmenee jo niin
+alhainen ‰lyllisen rehellisyyden aste, sellainen _kuurous_ kysymykseen
+"totuus", ett‰ marttyyria ei tarvitse milloinkaan kumota. Totuus ei ole
+jotakin, mit‰ toisella on ja toisella ei ole: niin voivat korkeintaan
+talonpojat tai Lutherin kaltaiset talonpoikaisapostolit ajatella
+totuudesta. Voi olla vakuutettu, ett‰ h‰veli‰isyys, _rajoitus_ t‰ss‰
+kohden lis‰‰ntyy samassa m‰‰rin kuin tunnontarkkuus henkisiss‰
+asioissa. Olla tietoinen viidest‰ asiasta ja kevyell‰ k‰dell‰ ehk‰ist‰,
+ett‰ tiet‰‰ muuta... "Totuus", kuten sen sanan jokainen profeetta,
+jokainen lahkolainen, jokainen vapaa-ajattelija, jokainen sosialisti,
+jokainen kirkonmies k‰sitt‰‰, on t‰ydellinen todistus siit‰, ett‰ ei
+ole viel‰ ryhdyttyk‰‰n siihen hengen kuriin ja itsens‰voittamiseen,
+joka on v‰ltt‰m‰tˆnt‰, jotta pieninkin totuus lˆydett‰isiin. --
+Marttyyrikuolema, sivumennen sanottuna, on ollut suuri onnettomuus
+historiassa: se _vietteli_... Se johtop‰‰tˆs, johon kaikki idiootit,
+nainen ja kansa siihen luettuina, ovat tulleet, nimitt‰in ett‰ asia,
+jonka vuoksi joku k‰y kuolemaan (tai joka ensim‰isen kristinopin
+lailla synnytt‰‰ tappavia kulkutauteja) on jonkin arvoinen
+asia, -- t‰m‰ johtop‰‰tˆs on ollut sanomattomaksi haitaksi
+tutkimukselle, tutkivaiselle ja varovaiselle hengelle. Marttyyrit ovat
+_vahingoittaneet_ totuutta... Viel‰ t‰n‰‰nkin tarvitaan vain hiukan
+julmuutta vainoamisessa hankkiakseen itsess‰‰n niin v‰h‰p‰tˆiselle
+lahkouskoisuudelle _kunnioitetun_ nimen. -- Kuinka? Muuttaako se
+lainkaan jonkin asian arvoa, jos joku antaa el‰m‰ns‰ sen vuoksi?
+Erhetys, joka saavuttaa kunnioitusta, on erhetys, jolla on yksi
+viettelykiihoitin enemm‰n: uskotteko te, ett‰ antaisimme teille, herrat
+teoloogit, aihetta joutua marttyyreiksi valheenne puolesta? -- Asian
+kumoo asettamalla sen kunnioittavasti j‰‰h‰n, -- samoin kumotaan myˆs
+teoloogeja... Se juuri oli kaikkien vainoojien maailmanhistoriallinen
+tuhmuus, ett‰ he antoivat vastustamallensa asialle kunniallisuuden
+vivahduksen, ett‰ -- he lahjoittivat sille marttyyriuden
+haltioitumisen... Nainen makaa viel‰ polvillaan erhetyksen edess‰,
+koska h‰nelle on sanottu, ett‰ joku kuoli sen vuoksi ristill‰. _Onko
+sitten risti mik‰‰n todistuskeino?_ Mutta kaikista n‰ist‰ asioista on
+ainoastaan yksi sanonut sen sanan, jota vuosituhansia sitten olisi
+tarvittu, -- Zarathustra.
+
+Verimerkkej‰ he piirsiv‰t sille tielle, jota he kulkivat, ja heid‰n
+hulluutensa opetti, ett‰ verell‰ todistetaan totuus.
+
+Mutta veri on huonoin todistus totuudesta; veri myrkytt‰‰ puhtaimmankin
+opin syd‰men harhaluuloksi ja vihaksi.
+
+Ja jos joku k‰y tulen l‰pi oppinsa vuoksi, -- mit‰ se todistaa? Enemm‰n
+on totisesti, ett‰ omasta palosta oma oppi syntyy.
+
+
+
+
+54.
+
+
+Ei tule antaa johtaa itse‰‰n harhaan: suuret henget ovat skeptikkoja.
+Zarathustra on skeptikko. V‰kevyyden, hengen voimasta ja ylivoimasta
+johtuvan _vapauden_ n‰ytt‰‰ skeptillisyys toteen. Vakuutuksen ihmisi‰
+ei oteta lukuun, kun on kysymys oleellisesta arvossa ja arvottomassa.
+Vakuutukset ovat vankiloita. Vakuutettu ei n‰e kyllin et‰‰lle, ei n‰e
+_alleen_: mutta ollakseen oikeutettu puhumaan arvosta ja arvottomasta
+t‰ytyy n‰hd‰ viisisataa vakuutusta _allaan, -- takanaan_... Henki,
+joka tahtoo suurta, joka tahtoo myˆs v‰likappaleet siihen, on
+v‰ltt‰m‰ttˆm‰sti skeptikko. Vapaus kaikenlaisesta vakuutuksesta
+_kuuluu_ v‰kevyyteen, _taitoon_ katsoa vapaasti... Suuri intohimo,
+h‰nen olemuksensa pohja ja sen valta, viel‰ valistuneempi, viel‰
+itsevaltiaampi kuin h‰n itse, ottaa koko h‰nen ‰lyns‰ palvelukseen; se
+tekee harkitsemattomaksi; se _antaa_ h‰nelle rohkeutta ep‰pyhiinkin
+keinoihin; se antaa h‰nelle muutamassa suhteessa vakuutuksia. Vakuutus
+_keinona_: saavuttaa paljon ainoastaan vakuutuksella. Suuri intohimo
+k‰ytt‰‰, _k‰ytt‰‰ tyhjiin_ vakuutuksia, se ei alistu niiden alaiseksi,
+-- se tiet‰‰ itsens‰ yksinvaltiaaksi. -- P‰invastoin: uskon tarve,
+ehdottomuus myˆnt‰misess‰ ja kielt‰misess‰, Carlylelaisuus, jos minun
+sallitaan k‰ytt‰‰ t‰t‰ sanaa, on _heikkouden_ tarve. Uskon ihminen,
+"uskovainen", oli h‰n mit‰ lajia tahansa, on v‰ltt‰m‰ttˆm‰sti
+vallanalainen ihminen, -- sellainen, joka ei voi asettaa itse‰‰n
+p‰‰maaliksi, eik‰ voi myˆsk‰‰n yleens‰ asettaa p‰‰maaleja itsest‰‰n.
+"Uskovainen" ei kuulu itselleen, h‰n voi olla vain v‰likappale, h‰nen
+t‰ytyy tulla _k‰ytetyksi_, h‰n tarvitsee jotakin, joka k‰ytt‰‰ h‰nt‰.
+H‰nen vaistonsa antaa itsens‰kielt‰mismoraalille korkeimman kunnian:
+siihen houkuttelee h‰nt‰ kaikki, h‰nen viisautensa, h‰nen kokemuksensa,
+h‰nen turhamaisuutensa. Jokainen usko itse on itsens‰-kielt‰misen,
+itsest‰‰nvierautumisen ilmaisu... Jos tutkii, kuinka v‰ltt‰m‰tˆn
+useimmille tasapainonpit‰j‰ on, joka ulkoap‰in sitoo ne ja tekee
+lajiksi, kuinka pakko korkeimmassa merkityksess‰, _orjuus_, on ainoa ja
+viimeinen ehto, jonka alaisena tahdoltaan heikompi ihminen, etenkin
+nainen, viihtyy: silloin ymm‰rt‰‰ myˆskin vakuutuksen, "uskon".
+Vakuutuksen ihmisell‰ on vakuutuksessa selk‰rankansa. Ei n‰hd‰ useita
+olioita, ei omistaa vapaata mielipidett‰ yhdess‰k‰‰n kohdassa, olla
+kokonaan puolueellinen, omistaa ankara ja ehdoton optiikka kaikkiin
+arvoihin n‰hden -- t‰m‰ yksin tekee mahdolliseksi, ett‰ yleens‰ on
+olemassa sellainen ihmislaji. Mutta siten h‰n on todenper‰isen, --
+totuuden vastakohta, vastustaja... Uskovaiselle ei ole yleens‰ vapaata
+omistaa omaatuntoa kysymyksess‰ "tosi" ja "valhe": olla _t‰ss‰_
+kohdassa rehellinen olisi h‰nen perikatonsa silm‰nr‰p‰yksess‰.
+H‰nen optiikkansa patolooginen ehdollisuus tekee vakuutetusta
+uskonkiihkoilijan -- Savonarola, Luther, Rousseau, Robespierre,
+Saint-Simon --, voimakkaan, vapautuneen hengen vastakkaistyyppi. Mutta
+se suuri asento, jonka ne ottavat, n‰m‰ _sairaat_ henget, n‰m‰
+k‰sitteen kaatuvatautiset, vaikuttaa suureen joukkoon, --
+uskonkiihkoilijat ovat pittoreskeja, ihmiskunta katselee mieluummin
+eleit‰ kuin kuuntelee _syit‰_...
+
+
+
+
+55.
+
+
+-- Askel edelleen vakuutuksen, "uskon" psykologiassa. Jo kauan sitten
+olen vaatinut harkittavaksi, eikˆ vakuutukset ole totuuden
+vaarallisempia vihollisia kuin valheet (Menschliches, Allzumenschliches
+I, aforismit 54 ja 483). T‰ll‰ kertaa tahdon asettaa t‰m‰n ratkaisevan
+kysymyksen: onko yleens‰ olemassa mit‰‰n vastakohtaa valheen ja
+vakuutuksen v‰lill‰? -- Koko maailma uskoo niin; mutta mit‰ ei koko
+maailma uskoisi! -- Jokaisella vakuutuksella on historiansa,
+esimuotonsa, yrityksens‰ ja erhetyksens‰: se _k‰y_ vakuutukseksi, kun
+se pitk‰‰n aikaan ei ole ollut sit‰, kun se viel‰ pitemp‰‰n aikaan
+_tuskin_ on ollut sit‰. Kuinka? Eikˆ valhekin voisi olla yksi
+vakuutuksen alkiomuodoista? -- Toisinaan tarvitaan vain henkilˆmuutos:
+is‰n valhe k‰y pojan vakuutukseksi. -- Min‰ kutsun valheeksi: ei tahtoa
+n‰hd‰ jotakin, jonka n‰kee, ei tahtoa n‰hd‰ jotakin niinkuin sen n‰kee:
+jos valhe tapahtuu todistajien l‰sn‰ollessa tai ilman todistajia, se ei
+merkitse mit‰‰n. Tavallisin valhe on se, jolla valhetellaan itselleen;
+toisille valhetteleminen on suhteellisesti poikkeustapaus. Nyt on tuo
+_ei_-tahtoa-n‰hd‰, mit‰ n‰kee, tuo _ei_-tahtoa-n‰hd‰ niinkuin n‰kee,
+melkein ensim‰inen ehto kaikille, jotka jossakin mieless‰ kuuluvat
+_puolueeseen_: puolueihminen k‰y v‰ltt‰m‰ttˆm‰sti valhettelijaksi.
+Saksalainen historiankirjoitus esimerkiksi on vakuutettu siit‰, ett‰
+Rooma oli despotiaa, ett‰ germaanit toivat vapaudenajatuksen maailmaan:
+mik‰ ero on t‰m‰n vakuutuksen ja valheen v‰lill‰? Kun kaikki puolueet,
+saksalaiset historioitsijatkin, vaistomaisesti k‰yttelev‰t moraalin
+suuria sanoja ja mik‰ puolueihminen tahansa tarvitsee niit‰ joka hetki,
+-- voiko silloin ep‰ill‰, mik‰ suojelee moraalin asemaa? -- _Meid‰n_
+vakuutuksemme: me tunnustamme sen koko maailmalle, me el‰mme ja
+kuolemme sen hyv‰ksi, -- kunnioitusta kaikkea kohtaan, jolla on
+vakuutuksia! -- Sellaisia sanoja olen kuullut juutalaisvihollistenkin
+suusta. P‰invastoin, herrani! Juutalaisvihollinen ei suinkaan k‰y
+s‰‰dyllisemm‰ksi senvuoksi, ett‰ h‰n valhettelee periaatteesta...
+Papit, jotka sellaisissa asioissa ovat hienompia ja sangen hyvin
+ymm‰rt‰v‰t sen ristiriidan, joka on k‰sitteess‰ vakuutus,
+s.o. tarkoituksenmukaisuutensa vuoksi periaatteellisessa
+ep‰todenmukaisuudessa, ovat saaneet juutalaisilta sen viisauden, ett‰
+tyˆnt‰v‰t sen sijaan esille k‰sitteen "jumala", "jumalan tahto",
+"jumalan ilmoitus". Myˆskin Kant, kategoorisine imperatiiveineen, oli
+samalla tiell‰: h‰nen j‰rkens‰ tuli t‰ss‰ _k‰yt‰nnˆlliseksi_. -- On
+olemassa kysymyksi‰, joissa ihmisell‰ _ei_ ole lupaa totuuden ja
+valheen ratkaisemiseen; kaikki ylimm‰t kysymykset, kaikki ylimm‰t
+arvoprobleemit ovat tuolla puolen inhimillist‰ j‰rke‰... Ymm‰rt‰‰
+j‰rjen rajat, -- se vasta on todellista filosofiaa... Miksi jumala
+antoi ihmiselle ilmoituksen? Olisiko jumala tehnyt jotakin
+tarpeettomasti? Ihminen ei _voi_ itsest‰‰n tiet‰‰, mik‰ on hyv‰‰ ja
+pahaa, senvuoksi jumala opetti h‰nelle tahtonsa... Moraali: pappi _ei_
+valhettele, -- kysymyst‰ "tottako" vai "ei totta" ei ole niiss‰
+asioissa, joista pappi puhuu, n‰m‰ asiat eiv‰t salli valhettelemista.
+Sill‰ valhetellakseen pit‰isi voida ratkaista, mik‰ t‰‰ll‰ on totta.
+Mutta sit‰ juuri ei ihminen _voi_; n‰iss‰ kysymyksiss‰ on pappi vain
+jumalan puhetorvi. Sellainen pappissyllogismi ei ole suinkaan vain
+juutalaista ja kristillist‰! Oikeus valheeseen ja viisaus
+"ilmoituksessa" kuuluu pappistyyppiin, sek‰ dekadensin pappeihin ett‰
+pakanuudenkin (-- pakanoita ovat kaikki, jotka myˆnt‰v‰t el‰m‰n, kaikki
+joille "jumala" on kaikkien olioiden suuren myˆnt‰misen ilmaisumuoto).
+-- "Laki", "jumalan tahto", "pyh‰ kirja", "inspiratsiooni" -- kaikki
+vain niiden ehtojen ilmaisua, _joilla_ pappi p‰‰see valtaan ja joilla
+h‰n s‰ilytt‰‰ valtaansa, -- n‰m‰ k‰sitteet ovat kaikkien
+pappisj‰rjestysten, kaikkien papillisten tai filosoofispapillisten
+valtamuodostuksien pohjalla. "Pyh‰‰ valhetta" -- Confuciukselle, Manun
+lakikirjalle, Muhamedille, kristilliselle kirkolle yhteinen --: ei
+puutu Platoltakaan. "Totuus on siell‰": t‰m‰ merkitsee, miss‰ se vain
+korottaa ‰‰nens‰, _pappi valhettelee_...
+
+
+
+
+56.
+
+
+Viimein tulee kysymys siit‰, mihin _tarkoitukseen_ valhetellaan. Ett‰
+kristinopilta puuttuu "pyh‰t" tarkoitukset, se on minun vastav‰itteeni
+sen keinoja vastaan. Vain _huonoja_ tarkoituksia: el‰m‰n myrkytt‰minen,
+soimaaminen, kielt‰minen, ruumiin halveksiminen, ihmisen alentaminen ja
+itseh‰v‰istys synti-k‰sitteen kautta, -- siis ovat sen keinotkin
+huonoja. -- Luen ihan toisella tunteella Manun lakikirjaa, verrattoman
+henkist‰ ja ylh‰ist‰ teosta, jonka _mainitseminenkin_ vain samassa
+henk‰isyss‰ kuin raamatun olisi synti henke‰ vastaan. Huomaa heti:
+sen takana, siin‰ on todellista filosofiaa, eik‰ ainoastaan
+pahallehaisevaa rabbiinisuuden ja taikauskon juutalaisuutta, se
+tarjoo hemmotelluimmillekin psykoloogeille jotakin pureksittavaa.
+_Unhoittamatta_ nyt p‰‰asiaa, joka perinpohjin eroittaa sen
+jokaisesta raamatusta: _ylh‰iset_ s‰‰dyt, filosoofit ja sotilaat,
+ovat t‰ll‰ saaneet joukon k‰siins‰; ylh‰isi‰ arvoja kaikkialla,
+t‰ydellisyydentunne, el‰m‰n myˆnt‰minen, riemuitseva mielisuosio
+itseens‰ ja el‰m‰‰n, -- koko kirja on aurinkoinen. -- Kaikkia niit‰
+asioita, joiden yli kristinoppi purkaa k‰sitt‰m‰ttˆm‰n ilkeytens‰,
+esimerkiksi siitt‰misen, naisen, avioliiton, k‰sitell‰‰n t‰‰ll‰
+kunnioituksella, rakkaudella ja luottamuksella. Kuinka oikeastaan
+voidaan antaa lapsien ja naisten k‰siin kirja, jossa on n‰m‰
+h‰pe‰lliset sanat: "Huoruuden t‰hden pit‰kˆˆn kukin oman vaimonsa, ja
+jokainen pit‰kˆˆn oman miehens‰... parempi on naida kuin palaa?" Ja
+voiko olla kristitty niin kauan kuin ihmisen synty viel‰
+kristillistytet‰‰n, s.o. _tahrataan_ k‰sitteell‰ _saastuttamaton
+siki‰minen_?... En tunne yht‰‰n kirjaa, miss‰ sanotaan niin paljon
+hienoa ja hyv‰‰ naiselle kuin Manun lakikirjassa; n‰m‰ vanhat
+harmaaparrat ja pyhimykset ovat kohteliaita naisille tavalla, jota ehk‰
+ei voiteta. "Naisen suu, -- on er‰‰ss‰ kohdassa -- tytˆn povi, lapsen
+rukous, uhrin savu ovat aina puhtaita." Toisessa kohdassa: "ei ole
+mit‰‰n puhtaampaa kuin auringon valo, lehm‰n varjo, ilma, vesi, tuli ja
+tytˆn hengitys." Ja vihdoin -- ehk‰ sekin pyh‰ valhe --: "kaikki
+aukeamat ruumiissa navan yl‰puolella ovat puhtaat, kaikki sen
+alapuolella ovat ep‰puhtaita. Vain nuorella tytˆll‰ on koko ruumis
+puhdas."
+
+
+
+
+57.
+
+
+Tapaa kristillisten keinojen _ep‰pyhyyden selvimm‰ss‰ muodossaan_, jos
+mittaa kristillist‰ p‰‰maalia Manun lakikirjan p‰‰maalilla, -- jos tuo
+t‰m‰n suurimman p‰‰maalivastakohdan voimakkaaseen valaistukseen.
+Kristinopin arvostelijalle ei s‰‰stet‰ kristinopin _halveksittavaksi_
+tekemist‰. Sellainen lakikirja kuin Manun syntyy niinkuin jokainen hyv‰
+lakikirja: se kokoo yhteen pitkien vuosisatojen kokemuksen, viisauden
+ja koemoraalin, se lopettaa, se ei luo en‰‰ mit‰‰n. Edellytys sen lajin
+kokoomiseen on tieto siit‰, ett‰ ne keinot, joilla hankkii hitaasti ja
+kalliisti voitetulle _totuudelle_ auktoriteetin, ovat perinpohjin
+eroitetut niist‰, joilla t‰m‰ totuus todistetaan. Lakikirja ei kerro
+milloinkaan hyˆty‰, syit‰, kasuistiikkaa lain esihistoriassa: juuri
+siten se poistaisi k‰skev‰n ‰‰nens‰ vaikutuksen, sanansa "sinun
+t‰ytyy", edellytyksen siihen, ett‰ sit‰ totellaan. Probleemi on juuri
+t‰ss‰. -- Kansan kehityksen jossakin m‰‰r‰tyss‰ kohdassa selitt‰‰ sen
+laajimmalta ymp‰rilleen katsova, s.o. taakse- ja eteenp‰in katsova
+kirjoitus, sen kokemuksen p‰‰ttyneeksi, jonka mukaan tulee s.o. _voi_
+el‰‰. Sen p‰‰maali on korjata kokeilun ja _kovan_ kokemuksen ajan sato
+niin rikkaana ja t‰ydellisen‰ kuin mahdollista. Nyt siis on ennen
+kaikkea varottava yh‰-edelleen-kokeilemista, arvojen sulanaolemistilan
+jatkumista, koettelemista, valitsemista, arvojen arvostelemista
+_‰‰rettˆmiin saakka_. T‰t‰ vastaan asetetaan kaksinkertainen muuri:
+toisella kertaa _ilmoitus_, se on v‰itˆs, ett‰ n‰iden lakien j‰rki ei
+ole syntyisin ihmisist‰, ett‰ sit‰ ei ole hitaasti ja erhettyen
+etsitty ja lˆydetty, vaan on se jumalallista alkuper‰‰, kokonaan,
+t‰ydellisesti, ilman historiaa, lahja, ihme, ainoastaan ilmoitettu...
+Sitten _traditsiooni_, se on v‰itˆs, ett‰ laki on ollut voimassa
+ikivanhoista ajoista saakka, ett‰ on puuttuvaa kunnioitusta, rikosta
+esi-isi‰ kohtaan ep‰ill‰ sit‰. Lain auktoriteetti perustetaan
+v‰itteell‰: jumala _antoi_ sen, esi-is‰t _noudattivat_ sit‰. --
+Sellaisen menettelyn korkeampi j‰rki on tarkoituksessa tyˆnt‰‰ askel
+askeleelta takaisin tietoisuus oikeaksi tunnustetusta (s.o. ‰‰rettˆm‰n
+ja ankarasti valikoidun kokemuksen kautta _todistetusta_) el‰m‰st‰:
+niin ett‰ saavutetaan vaiston -- t‰ydellinen koneellisuus, -- t‰m‰
+kaiken mestariuden, kaiken el‰m‰n taidon t‰ydellisyyden edellytys.
+Laatia Manun tavoin lakikirja on antaa jollekin kansalle vapaus
+vastaisuudessa tulla mestariksi, tulla t‰ydelliseksi, pyrki‰ el‰m‰n
+korkeimpaan taitoon. _Sit‰ varten se t‰ytyy tehd‰ itsetiedottomasti_:
+t‰m‰ on jokaisen pyh‰n valheen p‰‰maali. -- _Kasteihin j‰rjest‰minen_,
+ylin, vallitseva laki, on vain luonnonj‰rjestyksen vahvistamista,
+ensiarvoista luonnonlainmukaisuutta, joka ei ole yhdenk‰‰n mielivallan,
+yhdenk‰‰n "modernin idean" vallan alaisena. Jokaisessa terveess‰
+yhteiskunnassa eroittautuu, tehden keskin‰isesti toisiltaan
+vaatimuksia, kolme fysioloogisesti eripainoista tyyppi‰, joista
+kullakin on oma terveydenhoitonsa, oma tyˆalansa, oma lajinsa
+t‰ydellisyyden-tunnetta ja mestariutta. Luonto, _ei_ Manu, eroittaa
+toisistaan henkisesti etev‰mm‰t, lihaksiltaan ja luonteens‰vylt‰‰n
+voimakkaammat ja ne, jotka eiv‰t miss‰‰n suhteessa ole erikoisia,
+keskinkertaiset, -- j‰lkimm‰iset suurena joukkona, edelliset
+valittuina. Ylimm‰ll‰ kastilla -- kutsun sit‰ nimell‰ _kaikkein
+harvemmat_ -- on t‰ydellisen‰ myˆskin harvimpien etuoikeudet: siihen
+kuuluu edustaa onnea, kauneutta, hyvyytt‰ maan p‰‰ll‰. Vain
+henkisimmill‰ ihmisill‰ on lupa kauneuteen, kauniiseen: heiss‰ yksin ei
+hyvyys ole heikkoutta. _Pulchrum est paucorum hominum_: hyvyys on
+etuoikeus. Mit‰‰n ei voi sit‰vastoin v‰hemm‰n sallia heille kuin rumia
+tapoja tai pessimistist‰ katsomusta, silm‰‰, joka _rumentaa_ --, tai
+edes suuttumusta olioiden yleiskuvasta. Suuttumus on Tshandalan
+etuoikeus; samoin pessimismi. "_Maailma on t‰ydellinen_ -- niin puhuu
+henkisimpien vaisto, myˆnt‰v‰inen vaisto --: ep‰t‰ydellisyys, jokainen
+laji meid‰n valtamme alla olevaa, v‰limatka, v‰limatkan paatos,
+Tshandala itse on osa t‰st‰ kokonaisuudesta". Henkisimm‰t ihmiset
+_voimakkaimpina_ lˆyt‰v‰t onnensa siin‰, miss‰ toiset lˆyt‰isiv‰t
+perikatonsa: labyrintissa, kovuudessa itse‰‰n ja toisia kohtaan,
+koettamisessa; heid‰n ilonsa on itsens‰hillitseminen: askeettisuus k‰y
+heiss‰ luonnoksi, tarpeeksi, vaistoksi. Vaikeata teht‰v‰‰ he pit‰v‰t
+etuoikeutena, leikki‰ taakoilla, jotka painavat toiset maahan, on
+heille _virvoitusta_... Tieto -- askeettisuuden muoto. -- Heid‰n
+lajinsa on kunnioitettavin ihmislaji: mik‰ ei est‰, ett‰ he ovat
+iloisimmat, rakastettavimmat. He hallitsevat, eiv‰t senvuoksi, ett‰
+tahtovat, vaan siksi, ett‰ _ovat_; heille ei ole vapaaehtoista olla
+toisarvoisia. -- _Toiset_ arvoj‰rjestyksess‰: ne ovat oikeuden
+vartioita, j‰rjestyksen ja varmuuden vaalijoita, ne ovat ylh‰isi‰
+sotilaita, ennen kaikkea _kuningas_ sotilaan korkeimpana tyyppin‰,
+tuomarina ja lain voimassapit‰j‰n‰. Nuo arvoltaan _toiset_ ovat
+henkisimpien k‰skyn toimeenpanijoita, l‰himpin‰ heihin kuuluvia, niit‰,
+joiden osaksi on tullut kaikki _karkeampi_ tyˆ hallitsemisessa, --
+heid‰n seurueensa, heid‰n oikea k‰tens‰, heid‰n parhaat oppilaansa. --
+Kaikessa t‰ss‰, toistan sen viel‰ kerran, ei ole mit‰‰n mielivaltaa,
+mit‰‰n "tehty‰"; mik‰ _toisin_ on, se on tehty‰, -- luontoa on silloin
+h‰v‰isty... Kastien j‰rjestys, _arvoj‰rjestys_, muodostaa vain el‰m‰n
+oman korkeimman lain; n‰iden kolmen tyypin eroittaminen on v‰ltt‰m‰tˆn
+yhteiskunnan yll‰pit‰miseksi, tekem‰‰n mahdollisiksi korkeammat ja
+korkeimmat tyypit, -- vasta oikeuksien _erilaisuus_ on ehtona siihen,
+ett‰ oikeuksia on olemassa. -- Oikeus on etuoikeus. Olemisensa lajissa
+on kullakin etuoikeutensa. ƒlk‰‰mme v‰heksikˆ _keskinkertaisten_
+etuoikeuksia. El‰m‰n kovuus kasvaa _korkeuden_ mukaan, -- kylmyys
+kasvaa, vastuunalaisuus kasvaa. Korkea kultuuri on pyramiidi:
+se pysyy pystyss‰ vain leve‰ll‰ jalustalla, sen kaikkein
+ensim‰isen‰ edellytyksen‰ on voimakkaasti ja terveesti tiivistetty
+keskinkertaisuus. K‰sityˆ, kauppa, maanviljelys, _tiede_,
+suurin osa taidetta, sanalla sanoen kaikki, mink‰ voi lukea
+_ammatti_toimekkaisuuteen, viihtyy ainoastaan taitamisen ja halun
+keskinkertaisuudessa; sellainen olisi siirrett‰v‰ poikkeuksien
+joukkoon, siihen kuuluva vaisto vastustaisi sek‰ aristokraattisuutta
+ett‰ anarkismia. Olla yleisen‰ hyˆtyn‰, pyˆr‰n‰, funktsioonina, siihen
+on olemassa luonnonm‰‰r‰ys; _ei_ yhteiskunta, vaan sellainen _onni_,
+joihin kaikkein useimmat kykenev‰t, tekee heid‰t ‰lykk‰iksi koneiksi.
+Keskinkertaiselle on onni olla keskinkertainen; mestaruus yhdess‰,
+erikoisala: luonnollinen vaisto. Syvemm‰lle hengelle olisi
+t‰ydellisesti arvoa alentavaa n‰hd‰ vastav‰itett‰ jo
+keskinkertaisuudessa itsess‰‰n. Se juuri on _ensim‰inen_
+v‰ltt‰m‰ttˆmyys, jotta poikkeuksia voisi olla: se vaatii korkeata
+kultuuria. Jos poikkeusihminen kohtelee juuri keskinkertaisia
+lempe‰mmin kuin itse‰‰n ja vertaisiaan, niin se ei ole ainoastaan
+syd‰men s‰‰dyllisyytt‰, -- se on yksinkertaisesti h‰nen
+_velvollisuutensa_... Ket‰ vihaan enin t‰m‰np‰iv‰n roskav‰est‰?
+Sosialistiroskav‰ke‰, Tshandala-apostoleita, jotka turmelevat tyˆmiehen
+vaiston, ilon, h‰nen tyytyv‰isyydentunteensa pienell‰ olemisellaan, --
+jotka tekev‰t h‰net kateelliseksi, jotka opettavat h‰nelle kostoa...
+V‰‰ryys ei ole milloinkaan erilaisissa oikeuksissa, se on "yht‰l‰isten"
+oikeuksien vaatimisessa... Mik‰ on _huonoa_? Mutta min‰ olen jo sanonut
+sen: kaikki, mik‰ syntyy heikkoudesta, kateudesta, _kostosta_. --
+Anarkisti ja kristitty on samaa syntyper‰‰...
+
+
+
+
+58.
+
+
+On todellakin jokin ero, mihin tarkoitukseen valhetellaan: jos sill‰
+yll‰pit‰‰ tai _turmelee_. On t‰ysi oikeus pit‰‰ _kristitty‰ ja
+anarkistia_ yht‰l‰isin‰: heid‰n tarkoituksensa, heid‰n vaistonsa t‰ht‰‰
+turmelemiseen. T‰m‰n v‰itteen todistamiseksi ei tarvitse muuta kuin
+lukea historiaa: se on siin‰ hirvitt‰v‰n selv‰n‰. Jos juuri olemme
+oppineet tuntemaan uskonnollisen lains‰‰d‰nnˆn, jonka tarkoituksena oli
+"ikuistaa" el‰m‰n _kukoistamisen_ ensim‰inen ehto, yhteiskunnan suuri
+muodostus, -- niin kristinoppi on lˆyt‰nyt teht‰v‰ns‰ juuri sellaisen
+muodostuksen h‰vitt‰misess‰, koska _el‰m‰ viihtyi_ siin‰. _Siell‰_ piti
+saattaa pitk‰aikaisen kokeilun ja ep‰varmuuden j‰rjensaalis
+kaukaisimpien aikain hyv‰ksi ja korjata sato niin suurena, niin
+rikkaana, niin t‰ydellisen‰ kuin mahdollista: t‰‰ll‰ sit‰vastoin
+_myrkytettiin_ sato yhten‰ yˆn‰... Se, joka oli _vaskea ikuisempi,
+imperium Romanum_, suuremmoisin organisatsiooni-muoto vaikeitten
+ehtojen alaisena, mit‰ t‰h‰n saakka on saavutettu, ja johon verrattuna
+kaikki edell‰k‰yp‰, kaikki sen j‰lkeinen on keskener‰ist‰ tyˆt‰,
+hutiloimista, dilettantismia, -- nuo pyh‰t anarkistit ovat tehneet
+itselleen "hurskaan ansion" siit‰, ett‰ ovat tuhonneet "maailman", se
+on _imperium Romanumin_, kunnes ei ollut kive‰ kiven p‰‰ll‰, -- kunnes
+germaanitkin ja muut lurjukset saattoivat tulla sen herroiksi...
+Kristitty ja anarkisti: molemmat dekadentteja, molemmat kykenem‰ttˆmi‰
+toimimaan toisin kuin hajoittavasti, myrkytt‰v‰sti, huonontavasti,
+_vertaimev‰sti_, molemmat _verisen vihan_ vaistoa kaikkea kohtaan, mik‰
+on pystyss‰, suuresti pystyss‰, mill‰ on pysyv‰isyytt‰, mik‰ lupaa
+el‰m‰lle tulevaisuutta... Kristinusko oli _imperium Romanumin_
+vampyyri, -- se on yhdess‰ yˆss‰ tehnyt tyhj‰ksi roomalaisten
+suunnattoman tyˆn voittaa maa-ala suurelle kultuurille, _jolla on
+aikaa_. Eikˆ yh‰ viel‰k‰‰n ymm‰rret‰ sit‰? T‰m‰ _imperium Romanum_,
+jonka me tunnemme, jota Rooman provinsin historia opettaa meit‰ yh‰
+paremmin tuntemaan, t‰m‰ suuren tyylin ihailtavin taideteos, oli alku,
+sen rakenne oli laskettu _todistamaan_ voimaansa vuosituhansilla, --
+t‰h‰n saakka ei ole viel‰ milloinkaan rakennettu niin, ei milloinkaan
+edes uneksittu, ett‰ rakennettaisiin samassa m‰‰rin _sub specie
+aeterni_! -- T‰m‰ organisatsiooni oli kyllin luja kest‰m‰‰n huonoja
+keisareita: henkilˆvaihdos ei saa merkit‰ mit‰‰n sellaisille olioille,
+-- kaiken suuren arkitehtuurin _ensim‰inen_ peruss‰‰ntˆ. Mutta se ei
+ollut kyllin luja kest‰m‰‰n turmeluksen turmelevinta lajia,
+_kristitty‰_... T‰m‰ salainen matelija, joka yˆss‰, usvassa ja
+kaksimielisyydess‰ ryˆmi jokaisen yksityisen kimppuun ja imi h‰nest‰
+vakavuuden _tosia_ asioita kohtaan, yleens‰ vaiston _realiteetteihin_
+n‰hden, t‰m‰ arka, feminiininen ja makoinen joukkio on askel askeleelta
+vieroittanut "sielut" t‰st‰ suunnattomasta rakennuksesta, -- nuo
+arvokkaat, nuo miehekk‰‰n-ylh‰iset luonteet, jotka Rooman asiassa
+n‰kiv‰t oman asiansa, oman totisuutensa, oman _uljuutensa_. Tekopyh‰
+ryˆmiminen, hartauskokous-salak‰hm‰, synkk‰ k‰site kuten helvetti,
+viattoman uhraaminen, _unio mystica_ verenjuonnissa, ennen kaikkea
+koston, Tshandalakoston hitaasti liehdottu tuli -- se tuli Rooman
+herraksi, samanlainen uskonto, jonka edelt‰olomuotoa vastaan jo
+Epikuros oli taistellut. Luettakoon Lukretiusta, jotta ymm‰rrett‰isiin,
+_mit‰_ vastaan Epikuros on taistellut, ei pakanuutta, vaan
+"kristinoppia" vastaan, s.o. sielujen turmelemista syy-, rangaistus- ja
+kuolemattomuusk‰sitteell‰. -- H‰n taisteli _manalaista_ kulttia
+vastaan, koko salaista kristinoppia vastaan, kielt‰‰ kuolemattomuus oli
+silloin jo todellista _lunastusta_. -- Ja Epikuros olisi voittanut,
+jokainen kunnioitettava henki Rooman valtakunnassa oli epikuurolainen:
+_silloin ilmestyi Paavali_... Paavali, lihallistunut, neroksi muuttunut
+Tshandalaviha Roomaa kohtaan, "maailmaa" kohtaan, juutalainen, ikuinen
+juutalainen _par excellence_... H‰nen ymm‰rryksens‰ oli siin‰, kuinka
+pienen lahkolaisen kristillisliikkeen avulla juutalaisuuden ohessa
+voisi sytytt‰‰ "maailmanpalon", kuinka symboolilla "jumala ristill‰"
+voisi yhteenlaskea suunnattomaksi voimaksi kaiken alemman, kaiken
+salaisesti kapinallisen, kaikki anarkistisen vehkeilyn perilliset
+valtakunnassa. "Lunastus tulee juutalaisista." -- Kristinoppi
+kaikenlaisten manalaisten kulttien tarjoomismuotona, Osiriksen, suuren
+‰idin, Mithraksen esimerkiksi -- ja niiden yhteenlaskemismuotona: t‰ss‰
+taidossa on Paavalin nerokkaisuus. H‰nen vaistonsa oli t‰ss‰ niin
+varma, ett‰ h‰n s‰‰lim‰ttˆm‰ll‰ v‰kivallalla totuutta kohtaan asetti
+keksim‰ns‰ "lunastajan" suuhun, eik‰ ainoastaan suuhun, juuri ne
+ajatukset, joilla nuo Tshandala-uskonnot haltioivat -- ett‰ h‰n teki
+h‰nest‰ sellaisen, jonka mithrapappikin saattoi ymm‰rt‰‰... T‰m‰ oli
+h‰nen silm‰nr‰p‰yksens‰ Damaskuksessa: h‰n ymm‰rsi _tarvitsevansa_
+kuolemattomuususkoa tehd‰kseen "maailman" arvottomaksi, ett‰ "helvetti"
+k‰site tulee viel‰ Rooman herraksi, -- ett‰ "tuonpuolisella" _surmataan
+el‰m‰_... Nihilisti ja risti: ne muodostavat loppusoinnun, eiv‰tk‰
+ainoastaan loppusointua...
+
+
+
+
+59.
+
+
+Antiikin maailman koko tyˆ tehty tyhj‰ksi: minulla ei ole sanoja
+ilmaistakseni, mit‰ tunnen n‰in hirvitt‰v‰n johdosta. -- Ja katsoen
+siihen, ett‰ sen tyˆ oli esityˆt‰, ett‰ juuri oli enn‰tetty laskea
+perustus vuosituhansien tyˆlle graniittikovalla itsetietoisuudella:
+antiikin maailman koko _tarkoitus_ turhaan!... Miksi kreikkalaisia?
+Miksi roomalaisia? Kaikki edellytykset oppineeseen kultuuriin, kaikki
+tieteelliset _metoodit_ olivat jo olemassa, suuri, verraton taito lukea
+oikein oli jo saavutettu -- t‰m‰ edellytys kultuurin traditsiooniin,
+tieteen kokonaisuuteen; luonnontiede matematiikan ja mekaniikan
+yhteydess‰ oli kukoistamassa, -- _asiallisuusaistilla_, -- viimeisell‰
+-- ja -- arvokkaimmalla -- kaikista aisteista, oli koulunsa, jo
+monisatavuotinen traditsiooninsa! Ymm‰rret‰‰nkˆ t‰t‰? Kaikki
+_oleellinen_ oli lˆydetty, jotta olisi voitu ryhty‰ tyˆhˆn: --
+metoodit, t‰ytyy toistaa se kymmenen kertaa, _muodostavat_ tuon
+oleellisen, myˆs vaikeimman, myˆskin sen, jota tottumus ja
+laiskuus kauimmin vastustavat. Mit‰ me t‰n‰‰n sanomattomalla
+itsehillitsemisell‰, sill‰ meid‰n kunkin ruumiissamme on viel‰ tavalla
+tai toisella huonot vaistot, kristilliset -- olemme valloittaneet
+takaisin itsellemme, vapaan katseen realiteetteihin n‰hden, varovaisen
+k‰den, k‰rsiv‰llisyyden ja totisuuden v‰h‰isimm‰ss‰, tiet‰misen koko
+_rehellisyyden_ -- se on jo kerran ollut olemassa! Enemm‰n kuin kaksi
+vuosituhatta sitten! Ja, sit‰paitsi, hyv‰, hieno aisti ja maku! _Ei_
+aivotottumuksena! _Ei_ "saksalaisena" sivistyksen‰ tolvanatavoilla!
+Vaan ruumiina, eleen‰, vaistona sanalla sanoen realiteettina... _Kaikki
+turhaan!_ yksi ainoa yˆ, ja sitten vain muisto! -- Kreikkalaiset!
+Roomalaiset! Vaiston ylh‰isyys, maku, metoodinen tutkimus,
+j‰rjest‰mis- ja hallitsemisnerokkuus, usko, _tahto_ ihmistulevaisuuteen,
+kaikkien kappaleitten suuren myˆnt‰misen toteuttaminen _imperium
+Romanumina_, kaikkien aistien havaittavana, suuri tyyli ei en‰‰ vain
+taiteena, vaan todellisuudeksi, totuudeksi, _el‰m‰ksi_ k‰yneen‰... --
+Ja t‰t‰ ei yhten‰ yˆn‰ h‰vitt‰nyt luonnonmullistus. Sit‰ eiv‰t
+tallanneet maahan germaanit ja muut k‰mp‰jalat! Vaan viekkaat,
+hiipiv‰t, n‰kym‰ttˆm‰t, verettˆm‰t vampyyrit turmelivat sen! Sit‰ ei
+voitettu, -- imettiin vain tyhjiin!... K‰tketty kostonhimo, pieni
+kateus tullut _herraksi_! Kaikki katala, itsest‰‰n k‰rsiv‰, huonojen
+tunteitten rankaisema, sielun koko _ghettomaailma_ p‰‰sseen‰ yhdell‰
+er‰‰ _voittoon_! -- Luettakoon vain jotakin kristillist‰ agitaattoria,
+pyh‰‰ Augustinusta esimerkiksi, jotta ymm‰rrett‰isiin, tunnettaisiin
+_hajusta_, mitk‰ siivottomat veitikat ovat t‰ten tulleet herroiksi.
+Pettyisi perinpohjin, jos ep‰ilt‰isiin, ett‰ kristillisen liikkeen
+johtajilta puuttuisi hiukankin ‰ly‰: -- oi, he ovat viisaita, viisaita
+aina pyhyyteen saakka, n‰m‰ herrat kirkkois‰t! Aivan toista se on, mit‰
+heilt‰ puuttuu. Luonto ei ole pit‰nyt heist‰ huolta, -- se unhoitti
+antaa heille kunnioitettavien, s‰‰dyllisten, _puhtaitten_ vaistojen
+h‰veli‰‰n myˆt‰j‰islahjan... Meid‰n kesken, he eiv‰t ole edes miehi‰...
+Jos Islam halveksii kristinoppia, niin sill‰ on tuhat kertaa oikeus
+siihen: Islamilla on edellytyksen‰ _miehi‰_...
+
+
+
+
+60.
+
+
+Kristinoppi on riist‰nyt meilt‰ antiikisen kultuurin sadon, se on
+myˆhemmin riist‰nyt meilt‰ myˆs _Islam_-kultuurin sadon. Espanjan
+ihmeellinen maurilainen kultuurimaailma, _meille_ oikeastaan
+l‰heisempi, meid‰n aistiamme ja makuamme enemm‰n miellytt‰v‰ kuin Rooma
+ja Kreikka, _tallattiin maahan_ (-- en sano mitk‰ jalat tallasivat
+sen --), miksi? Siksi, ett‰ se sai kiitt‰‰ ylh‰isi‰, miehekk‰it‰
+vaistoja synnyst‰‰n, siksi ett‰ se myˆnsi el‰m‰n, ja viel‰p‰
+maurilaisen el‰m‰n omituisilla ja raffineeratuilla kalleuksilla!...
+Ristiritarit voittivat myˆhemmin jonkin, mink‰ edess‰ heid‰n paremmin
+olisi sopinut maata tomussa, -- kultuurin, johon verrattuna itse
+yhdeks‰stoista vuosisatamme pit‰isi tuntea itsens‰ hyvin kˆyh‰ksi,
+hyvin j‰lkeenj‰‰neeksi. -- Tosin, he tahtoivat saalista: it‰ oli
+rikas... Voi olla huoletta! Ristiretket -- korkeampaa merirosvoutta, ei
+muuta! Saksalainen aateli, viikinkiaatelia perinpohjin, oli siin‰
+mielialallaan: kirkko tiesi vain liian hyvin, mill‰ _saa_ saksalaisen
+aatelin... Saksalainen aateli, alati kirkon henkivartija, alati kirkon
+kaikkein huonoimpien vaistojen palveluksessa, mutta _hyv‰st‰
+maksusta_... Juuri saksalaisten miekkojen, saksalaisen veren ja
+rohkeuden avulla, on kirkko k‰ynyt verivihollisuussotaansa kaikkea
+ylh‰ist‰ vastaan maan p‰‰ll‰! T‰ss‰ kohdassa on kokonainen joukko
+katkeria kysymyksi‰. Saksalainen aateli on melkein poissa korkeamman
+kultuurin historiasta: syyn arvaa... Kristinusko, alkohooli --
+turmelemisen molemmat suuret keinot... Itsess‰‰nh‰n ei pit‰isi olla
+mit‰‰n valintaa Islamiin ja kristinoppiin n‰hden, yht‰ v‰h‰n kuin
+arapialaiseen ja juutalaiseen n‰hden. Se on jo ennakolta ratkaistu:
+kenellek‰‰n ei ole vapaaehtoista valita t‰ss‰. Joko on Tshandalaa, tai
+ei ole sit‰... "Sotaa Rooman kanssa aina veitseen saakka! Rauhaa,
+yst‰vyytt‰ Islamin kanssa": niin tunsi, niin toimi tuo suuri
+vapaa-ajattelija, nero Saksan keisarien joukossa, Fredrik toinen.
+Kuinka? T‰ytyykˆ saksalaisen ensin olla nero, ensin olla
+vapaa-ajattelija tunteakseen _s‰‰dyllisesti_? En ymm‰rr‰, kuinka
+saksalainen on milloinkaan voinut tuntea kristillisesti...
+
+
+
+
+61.
+
+
+T‰ss‰ t‰ytyy koskettaa saksalaisille viel‰ sata kertaa kiusallisempaa
+muistoa. Saksalaiset ovat riist‰neet Europalta viimeisen suuren
+kultuurisadon, jonka Europa olisi voinut korjata, -- _renessansin_.
+Ymm‰rret‰‰nkˆ vihdoin, _tahdotaanko_ ymm‰rt‰‰, mit‰ renessansi oli?
+_Kaikkien kristillisten arvojen uudestaan arvioiminen_, koe kaikilla
+keinoilla, kaikilla vaistoilla, kaikella nerolla saada vastakkaisarvot,
+_ylh‰iset_ arvot voittoon... T‰h‰n saakka oli olemassa vain _t‰m‰_
+suuri sota, t‰h‰n saakka ei ollut olemassa mit‰‰n ratkaisevampaa
+kyseeseenasettamista kuin renessansin, -- _minun_ kysymykseni on sen
+kysymys --: ei ollut myˆsk‰‰n milloinkaan perusteellisempaa, suorempaa,
+ankarampaa, koko rintamalla ja keskukseen t‰hd‰tty‰ _hyˆkk‰yksen_
+muotoa! Hyˆk‰t‰ ratkaisevimman paikan, itse kristinopin istuimen,
+kimppuun, asettaa t‰‰ll‰ _ylh‰iset_ arvot valta-istuimelle, s.o.
+siell‰istuvien vaistoihin, sis‰isimpiin tarpeisiin ja pyyteisiin...
+N‰en edess‰ni _mahdollisuuden_, jolla on aivan ylimaailmallinen lumo ja
+v‰riloiste: -- minusta tuntuu kuin se s‰teilisi raffineeratun kauneuden
+kaikissa v‰ristyksiss‰, siin‰ on taide tarttunut tyˆhˆn, niin
+jumalallisesti, niin saatanallisen jumalallisesti, ett‰ turhaan etsii
+halki vuosituhansien viel‰ toista sellaista mahdollisuutta; n‰en
+n‰ytelm‰n, niin nerokkaan, samalla niin ihmeellisen oudon, ett‰ se
+antaisi kaikille Olympon jumaluuksille aiheen kuolemattomaan nauruun --
+_Cesare Borgia paavina_ -- Ymm‰rret‰‰nkˆ minut?... No niin, se olisi
+ollut se voitto, jota min‰ yksin t‰n‰‰n toivon --: sill‰ olisi
+kristinoppi ollut h‰vitetty! -- Mit‰ tapahtui? Saksalainen munkki,
+Luther, tuli Roomaan. T‰m‰ munkki, ep‰onnistuneen papin kaikki
+kostonhimoiset vaistot ruumiissaan, nousi Roomassa renessansia
+_vastaan_... Sensijaan, ett‰ syvimm‰ll‰ kiitollisuudella olisi
+ymm‰rt‰nyt sen suunnattoman, mik‰ oli tapahtunut, kristinopin
+voittamisen sen omalla _istuimella_, -- ymm‰rsi h‰nen vihansa ottaa
+vain ravintoa t‰st‰ n‰ytelm‰st‰. Uskonnollinen ihminen ajattelee aina
+vain itse‰‰n. -- Luther n‰ki paavikunnan _turmeluksen_, kun vastakohta
+juuri oli saavutettavissa: vanha turmelus, _peccatum originale_,
+kristinoppi, ei ollut en‰‰ paavin istuimella! Vaan el‰m‰! El‰m‰n
+riemuvoitto! Kaikkien korkeitten, kauniiden, rohkeiden asiain
+myˆnt‰minen! Myˆnt‰minen!... Ja Luther _korjasi kirkon j‰lleen
+entiselleen_: h‰n karkasi sen kimppuun... Renessanssi -- tapahtuma
+vailla tarkoitusta, suuri _turhaanraukeaminen_! -- Ah n‰it‰
+saksalaisia, mit‰ ne ovat meille jo maksaneet! Tyhjiin -- se oli aina
+saksalaisten _tyˆt‰_. -- Uskonpuhdistus; Leibniz; Kant ja tuo niin
+sanottu saksalainen filosofia; "vapaus"-sota; valtakunta -- joka
+kerta tyhjiin jokin, joka jo oli olemassa, jokin _entiselleen
+palauttamaton_... He ovat minun vihollisiani, n‰m‰ saksalaiset,
+tunnustan sen: halveksin heiss‰ k‰sitteen ja arvojen ep‰puhtauden
+jokaista lajia, _pelkuruutta_ jokaiseen rehelliseen myˆnt‰miseen ja
+kielt‰miseen n‰hden. He ovat, melkein jo vuosituhannen, sekoittaneet ja
+h‰mment‰neet kaiken, mihin sormineen ovat tarttuneet, heid‰n
+omallatunnollaan on kaikki puolinaisuudet -- kolmekahdeksasosaisuudet!
+-- joista Europa on sairas, heid‰n omallatunnollaan on myˆskin
+mauttomin laji kristinoppia, mit‰ on olemassa, parantumattomin,
+kumoamattomin, protestanttisuus... Ellei milloinkaan p‰‰st‰
+kristinopista, niin saksalaiset ovat siihen syyp‰‰t...
+
+
+
+
+62.
+
+
+-- T‰ten olen lopussa ja langetan tuomioni. Min‰ _tuomitsen_
+kristinopin, min‰ lausun kristillist‰ kirkkoa vastaan hirvitt‰vimm‰n
+kaikista syytˆksist‰, mit‰ yksik‰‰n syytt‰j‰ milloinkaan on lausunut.
+Se on minulle korkein ajateltavissa oleva turmelus, sill‰ on ollut
+tahto ‰‰rimm‰iseen mahdolliseen turmelukseen. Kristillinen kirkko ei
+j‰tt‰nyt turmeluksellaan mit‰‰n rauhaan, se on tehnyt jokaisesta
+arvosta arvottomuuden, jokaisesta totuudesta valheen, jokaisesta
+rehellisyydest‰ sielunalhaisuuden. Uskallettakoon minulle muistuttaa
+viel‰ sen "humaanisia" siunauksia! _Poistaa_ yht‰k‰‰n h‰d‰nalaisuutta,
+se soti sen syvimpi‰ harrastuksia vastaan, se eli h‰d‰nalaisuuksista,
+se loi h‰d‰nalaisuuksia ikuistaakseen _itsens‰_... Synnin madon
+esimerkiksi: t‰ll‰ h‰d‰nalaisuudella on vasta kirkko rikastuttanut
+ihmiskuntaa! -- "Sielujen yht‰l‰isyys jumalan edess‰", t‰m‰
+valheellisuus, t‰m‰ kaikkien halpamielisten _kaunan tekosyy_, t‰m‰
+k‰sitteen r‰j‰hdysaine, joka viimein on k‰ynyt vallankumoukseksi,
+moderniksi ideaksi ja koko yhteiskuntaj‰rjestyksen
+alenemisperiaatteeksi, -- on _kristillist‰_ dynamiittia... Kristinopin
+"humaaniset" siunaukset! Kurittaa humaanisuus ristiriitaisuudeksi
+itsens‰ kanssa, itsesaastutustaidoksi, tahdoksi valheeseen mist‰
+hinnasta tahansa, vastahakoisuudeksi, kaikkien hyvien ja rehellisten
+vaistojen halveksimiseksi! Ne ovat minusta kristinopin siunauksia! --
+Loisel‰m‰ kirkon ainoana tapana; juoden kalvetustauti-, "pyhyys"
+ihanteellaan kaiken veren, kaiken rakkauden, kaiken el‰m‰ntoiveen;
+tuonpuoleinen tahtona jokaisen realiteetin kielt‰miseen; risti
+tunnusmerkkin‰ manalaisimmasta salaliitosta, mit‰ milloinkaan on ollut,
+-- terveytt‰, kauneutta, sopusointuisuutta, urhoollisuutta, henke‰,
+sielun hyvyytt‰, _el‰m‰‰ itse‰‰n_ vastaan...
+
+T‰m‰n iankaikkisen syytˆksen kristinoppia vastaan tahdon kirjoittaa
+kaikille seinille, miss‰ vain seini‰ on, -- minulla on kirjaimia, jotka
+tekev‰t sokeatkin n‰keviksi... Min‰ kutsun kristinoppia ainoaksi
+suureksi kiroukseksi, ainoaksi suureksi sis‰iseksi turmelukseksi,
+ainoaksi suureksi kostonvaistoksi, jolle yksik‰‰n keino ei ole kylliksi
+myrkyllinen, salainen, manalainen, pieni, -- min‰ kutsun sit‰
+ihmiskunnan ainoaksi kuolemattomaksi h‰pe‰pilkuksi...
+
+Ja ajanlasku alkaa tuosta ep‰onnen p‰iv‰st‰, _dies nefastus_, jolloin
+kohtalokas tapahtumasarja k‰ynnistyi -- kristinopin ensimm‰isest‰
+p‰iv‰st‰! -- Miksei mieluummin _viimeisest‰, t‰st‰_ p‰iv‰st‰? -- Kaikki
+arvot uusiksi!
+
+LOPPU.
+
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Antikristus, by Friedrich Nietzsche
+
+*** END OF THIS PROJECT GUTENBERG EBOOK ANTIKRISTUS ***
+
+***** This file should be named 52953-8.txt or 52953-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/2/9/5/52953/
+
+Produced by Tapio Riikonen
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
